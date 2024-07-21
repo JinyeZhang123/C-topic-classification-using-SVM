@@ -1,0 +1,1 @@
+                vis[sg[v]] = true;

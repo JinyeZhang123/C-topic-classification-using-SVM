@@ -1,0 +1,1 @@
+						if(cost[i][j]>min(cost[min(i,b)][max(i,b)]+cost[b][c]+cost[min(c,j)][max(c,j)],cost[min(i,c)][max(c,i)]+cost[b][c]+cost[min(b,j)][max(b,j)]))cost[i][j]=min(cost[min(i,b)][max(i,b)]+cost[b][c]+cost[min(c,j)][max(c,j)],cost[min(i,c)][max(c,i)]+cost[b][c]+cost[min(b,j)][max(b,j)]);

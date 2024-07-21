@@ -1,0 +1,1 @@
+		if (mask) { mask = false; }

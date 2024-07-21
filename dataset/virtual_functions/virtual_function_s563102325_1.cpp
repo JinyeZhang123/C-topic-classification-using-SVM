@@ -1,0 +1,1 @@
+virtual void push(int from, int to, int cost) = 0;

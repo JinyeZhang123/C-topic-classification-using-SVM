@@ -1,0 +1,1 @@
+st long long int value = N * factorial<N - 1>::val

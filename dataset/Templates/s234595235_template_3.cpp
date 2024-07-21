@@ -1,0 +1,1 @@
+template <class T> void get_min(T& a, const T b) { a = min(a, b); }

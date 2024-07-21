@@ -1,0 +1,1 @@
+template<typename T> void DEBUG(const std::vector<T>& v){for(const auto& e : v){ std::cout << e << " "; }

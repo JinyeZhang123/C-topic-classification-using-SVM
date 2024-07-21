@@ -1,0 +1,1 @@
+    int r; cin >> r;

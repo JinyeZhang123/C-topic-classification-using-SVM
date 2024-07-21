@@ -1,0 +1,1 @@
+Monoid operator[](const int &k){ return dat[k + n - 1]; }

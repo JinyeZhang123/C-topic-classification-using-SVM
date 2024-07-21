@@ -1,0 +1,1 @@
+template<class T>void max(T a,T b){if(a<b)return b;else return a;}

@@ -1,0 +1,1 @@
+template <typename Bst, typename T> typename Bst::const_iterator le(const Bst& bst, T v) { return bst.upper_bound(v) == bst.begin() ? bst.end() : --bst.upper_bound(v); }

@@ -1,0 +1,1 @@
+template <class T, class U> void amax(T& x, U y) {if (x < y) x = y;}

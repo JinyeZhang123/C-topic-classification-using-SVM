@@ -1,0 +1,1 @@
+    tambah=idop [n];

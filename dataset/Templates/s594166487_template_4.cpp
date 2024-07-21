@@ -1,0 +1,1 @@
+template<typename T> void chmax(T& a, T b) { a = (a < b) ? b : a; }

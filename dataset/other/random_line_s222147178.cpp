@@ -1,0 +1,1 @@
+const llong mod = 1000000000 + 7;

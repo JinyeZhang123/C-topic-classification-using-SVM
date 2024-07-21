@@ -1,0 +1,3 @@
+a)%MOD;
+        return *this;
+    }               

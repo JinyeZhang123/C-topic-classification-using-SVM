@@ -1,0 +1,3 @@
+p)) % p;
+		return ret;
+	}                         

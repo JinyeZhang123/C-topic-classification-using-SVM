@@ -1,0 +1,1 @@
+        if(!min) min = d;

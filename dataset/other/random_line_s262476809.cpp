@@ -1,0 +1,1 @@
+            cin >> direction >> distance;

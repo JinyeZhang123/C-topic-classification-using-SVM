@@ -1,0 +1,1 @@
+    memo *= n; memo %= mod;

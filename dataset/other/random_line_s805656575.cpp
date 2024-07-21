@@ -1,0 +1,1 @@
+	cout << "IMPOSSIBLE" << endl;

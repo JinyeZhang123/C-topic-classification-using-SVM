@@ -1,0 +1,1 @@
+typedef vvc<int> vvi;

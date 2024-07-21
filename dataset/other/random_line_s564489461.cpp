@@ -1,0 +1,1 @@
+            cout << A[p] << endl;

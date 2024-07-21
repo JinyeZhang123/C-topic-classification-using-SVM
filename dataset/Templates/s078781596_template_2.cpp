@@ -1,0 +1,1 @@
+template<typename ...> static inline void putchar_unlocked(int c) { putchar(c); }

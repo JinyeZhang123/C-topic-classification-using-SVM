@@ -1,0 +1,1 @@
+bool operator<(const N &l, const N &r) { return l.c < r.c; }

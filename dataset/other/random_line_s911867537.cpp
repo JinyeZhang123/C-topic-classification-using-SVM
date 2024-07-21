@@ -1,0 +1,1 @@
+	int dodai=0;

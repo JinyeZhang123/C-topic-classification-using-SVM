@@ -1,0 +1,1 @@
+template<typename T>void press(T &v){v.erase(unique(ALL(v)),v.end());}

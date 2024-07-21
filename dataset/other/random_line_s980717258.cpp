@@ -1,0 +1,1 @@
+using dou =long double;

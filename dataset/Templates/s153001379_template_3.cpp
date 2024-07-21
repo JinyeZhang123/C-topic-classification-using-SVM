@@ -1,0 +1,1 @@
+template<typename T> void deb(T a){cerr<<"deb: "<<a<<"ですねぇ！"<<endl;}

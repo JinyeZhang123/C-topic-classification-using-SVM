@@ -1,0 +1,1 @@
+            cur = X[i].first;

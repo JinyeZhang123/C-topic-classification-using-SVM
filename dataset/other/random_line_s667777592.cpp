@@ -1,0 +1,1 @@
+		int T=t.size();

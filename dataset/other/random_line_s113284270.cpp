@@ -1,0 +1,1 @@
+			int y = stk[j];

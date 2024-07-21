@@ -1,0 +1,1 @@
+    			cout << newer[i] << endl;

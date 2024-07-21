@@ -1,0 +1,1 @@
+      if (past[j]) continue;

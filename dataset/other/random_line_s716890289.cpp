@@ -1,0 +1,1 @@
+			strcpy(str[i], mark);

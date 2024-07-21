@@ -1,0 +1,1 @@
+node operator <<(const int a)const{node p=*this;for(int i=1;i<=a%4;i++){int swp=p.a;p.a=p.b;p.b=p.c;p.c=p.d;p.d=swp;}

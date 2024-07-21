@@ -1,0 +1,1 @@
+gf operator*(int x) { return gf((1LL * n * x) % MO

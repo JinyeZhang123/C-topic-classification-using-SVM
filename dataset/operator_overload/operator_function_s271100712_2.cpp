@@ -1,0 +1,1 @@
+vec operator-(const vec& a, const vec& b) { return vec(a.u - b.u, a.v - b.v); }

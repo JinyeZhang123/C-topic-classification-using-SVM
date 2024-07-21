@@ -1,0 +1,1 @@
+                mincost = d[i];

@@ -1,0 +1,1 @@
+    alphabet[S[i] - 'a']++;

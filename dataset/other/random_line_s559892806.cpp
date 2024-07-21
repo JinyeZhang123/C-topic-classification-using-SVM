@@ -1,0 +1,1 @@
+		cout << "NEGATIVE CYCLE" << endl;

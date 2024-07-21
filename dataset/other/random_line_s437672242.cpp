@@ -1,0 +1,1 @@
+            cin >> ind >> c; ind--;

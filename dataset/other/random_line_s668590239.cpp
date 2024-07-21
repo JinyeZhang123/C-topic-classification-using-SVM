@@ -1,0 +1,1 @@
+                        b=distance(k,j);

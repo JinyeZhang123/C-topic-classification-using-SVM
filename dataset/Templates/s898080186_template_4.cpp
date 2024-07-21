@@ -1,0 +1,1 @@
+template<typename T>void Vin(vector<T> &v){int n=v.size();rep(i,0,n)cin>>v[i];}

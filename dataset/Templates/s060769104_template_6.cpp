@@ -1,0 +1,1 @@
+template<class T> bool operator()(T& a, const T& b) const { if(cond(a, b)) { a = b; return true; }

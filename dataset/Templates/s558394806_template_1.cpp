@@ -1,0 +1,1 @@
+template <typename T>inline bool chmin(T &l, T r) { bool a = l>r; if (a)l = r; return a; }

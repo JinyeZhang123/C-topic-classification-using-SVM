@@ -1,0 +1,1 @@
+bool operator<(info t1,info t2) {return t1.r-t1.l<

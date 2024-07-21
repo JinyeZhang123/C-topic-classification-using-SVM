@@ -1,0 +1,1 @@
+			ans += time[index[i]];

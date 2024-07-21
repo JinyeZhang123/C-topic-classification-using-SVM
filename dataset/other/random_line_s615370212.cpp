@@ -1,0 +1,1 @@
+    cout<<vec.at(i);

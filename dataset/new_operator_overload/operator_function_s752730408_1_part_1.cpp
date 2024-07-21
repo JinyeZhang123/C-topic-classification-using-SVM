@@ -1,0 +1,1 @@
+int operator [](const int &u){return head[u];}    

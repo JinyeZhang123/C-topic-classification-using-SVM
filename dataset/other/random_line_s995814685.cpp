@@ -1,0 +1,1 @@
+		if(left_id != -1 && right_id != -1){

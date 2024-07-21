@@ -1,0 +1,1 @@
+#define eprintf(...) 0

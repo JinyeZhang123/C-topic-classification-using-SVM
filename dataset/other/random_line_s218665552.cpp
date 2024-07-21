@@ -1,0 +1,1 @@
+        if (isPalindrome(i))

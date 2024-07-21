@@ -1,0 +1,1 @@
+	solve(MAX_N);

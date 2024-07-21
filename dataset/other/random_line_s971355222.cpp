@@ -1,0 +1,1 @@
+        used.at(cur) = true;

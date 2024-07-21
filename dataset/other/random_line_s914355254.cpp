@@ -1,0 +1,1 @@
+                cnt+=abs(gy-y);

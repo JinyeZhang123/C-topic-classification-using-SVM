@@ -1,0 +1,1 @@
+template <class T> vevector<T> readjag(int n) { vevector<T> v; v.reserve(n); REP(i, n) v.push_back(readjag<T>()); return v; }

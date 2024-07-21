@@ -1,0 +1,2 @@
+ist[i] = target[i];
+          

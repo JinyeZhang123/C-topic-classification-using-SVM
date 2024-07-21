@@ -1,0 +1,1 @@
+				if (parentNode->pLeftChild == deleteNode)

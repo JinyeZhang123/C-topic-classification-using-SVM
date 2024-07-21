@@ -1,0 +1,1 @@
+        ll d=sqrt(c);

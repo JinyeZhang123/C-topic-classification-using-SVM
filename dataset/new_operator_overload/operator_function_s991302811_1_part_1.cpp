@@ -1,0 +1,1 @@
+P operator-(P u,P v){return P(u.x-v.x,u.y-v.y);}  

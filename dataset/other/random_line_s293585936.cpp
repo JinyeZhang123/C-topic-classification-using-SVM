@@ -1,0 +1,1 @@
+      t.resize(k);

@@ -1,0 +1,1 @@
+template<class T>inline bool CHMAX(T&a,T b){if(a < b){a = b;return true;}

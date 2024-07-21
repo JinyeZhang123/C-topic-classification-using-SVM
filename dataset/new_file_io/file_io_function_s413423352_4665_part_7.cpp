@@ -1,0 +1,1 @@
+         if(j-A[j] > 0) Ac[j-A[j]]++; else Ac[0]++

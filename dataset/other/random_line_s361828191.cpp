@@ -1,0 +1,1 @@
+            int currentArea = i - currentLeft;

@@ -1,0 +1,1 @@
+cout << x*n << endl;

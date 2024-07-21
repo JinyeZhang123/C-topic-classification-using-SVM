@@ -1,0 +1,1 @@
+       if(count_div[v[i]]+1>=3 && count_div[v[j]]+

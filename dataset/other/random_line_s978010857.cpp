@@ -1,0 +1,1 @@
+		me = min(me, aux);

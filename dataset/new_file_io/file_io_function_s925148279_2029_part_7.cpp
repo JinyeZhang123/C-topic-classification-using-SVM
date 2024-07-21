@@ -1,0 +1,2 @@
+			insert(value);
+		}                             

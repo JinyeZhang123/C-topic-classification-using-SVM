@@ -1,0 +1,1 @@
+template<typename T>T max(vector<T>&v){return *max_element(ALL(v));}

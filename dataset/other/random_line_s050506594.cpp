@@ -1,0 +1,1 @@
+                string next=now;

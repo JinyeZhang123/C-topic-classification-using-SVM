@@ -1,0 +1,1 @@
+      chmin(ans, left[i]);

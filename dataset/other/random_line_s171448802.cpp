@@ -1,0 +1,1 @@
+    alpha = sqrt( sigma / n);

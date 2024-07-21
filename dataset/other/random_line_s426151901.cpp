@@ -1,0 +1,1 @@
+    swap(que, empty);

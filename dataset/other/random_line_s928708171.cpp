@@ -1,0 +1,1 @@
+			bool primeMin = isPrime(min);

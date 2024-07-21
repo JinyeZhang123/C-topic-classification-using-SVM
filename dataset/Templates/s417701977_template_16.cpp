@@ -1,0 +1,1 @@
+template<typename InputIterator> RangeSumRangeAdd(InputIterator first, InputIterator last) : lst(first, last) {}

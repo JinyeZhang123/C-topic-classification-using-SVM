@@ -1,0 +1,1 @@
+bool operator<(Data a,Data b){return a.num!=b.num?

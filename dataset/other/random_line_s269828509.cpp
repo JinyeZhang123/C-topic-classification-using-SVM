@@ -1,0 +1,1 @@
+        ckmin(ans, str);

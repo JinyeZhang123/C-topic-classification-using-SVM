@@ -1,0 +1,1 @@
+ector<vector<bool>>(w, vector<bool>(PAT + 1, false

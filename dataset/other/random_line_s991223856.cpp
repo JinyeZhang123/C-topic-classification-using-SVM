@@ -1,0 +1,1 @@
+      cin >> take_days;

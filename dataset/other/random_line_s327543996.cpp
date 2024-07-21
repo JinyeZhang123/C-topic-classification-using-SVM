@@ -1,0 +1,1 @@
+  istringstream sin(str) ;

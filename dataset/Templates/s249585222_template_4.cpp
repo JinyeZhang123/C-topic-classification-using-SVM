@@ -1,0 +1,1 @@
+template <typename T> void Cout(const T& x, const char* end = "\n") { std::cout << x << end; }

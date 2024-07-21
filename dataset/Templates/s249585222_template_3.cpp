@@ -1,0 +1,1 @@
+template<typename T> void chadd(T& a, T b) { a = a + b; }

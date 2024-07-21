@@ -1,0 +1,1 @@
+node operator+(node a,int one){return node{a.sz,a.mx+a.sz,a.mn+a.sz}

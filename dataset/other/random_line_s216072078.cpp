@@ -1,0 +1,1 @@
+    int dis=x/d;

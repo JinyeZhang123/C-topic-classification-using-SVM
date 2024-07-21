@@ -1,0 +1,1 @@
+	prob = count/n;

@@ -1,0 +1,1 @@
+			int c; put c;

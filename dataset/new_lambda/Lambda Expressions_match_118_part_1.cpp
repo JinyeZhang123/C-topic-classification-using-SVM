@@ -1,0 +1,1 @@
+[&](){ runner <<= 1; runner |= 1; if(runner & 0x08

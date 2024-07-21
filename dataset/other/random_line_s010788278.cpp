@@ -1,0 +1,1 @@
+#define il inl void

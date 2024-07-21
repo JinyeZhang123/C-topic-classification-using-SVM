@@ -1,0 +1,1 @@
+  int xg, yg;

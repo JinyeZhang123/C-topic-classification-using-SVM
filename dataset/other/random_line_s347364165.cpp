@@ -1,0 +1,1 @@
+    take = min(C, take);

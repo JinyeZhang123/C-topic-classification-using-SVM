@@ -1,0 +1,1 @@
+      mp[data[i].front()]++;

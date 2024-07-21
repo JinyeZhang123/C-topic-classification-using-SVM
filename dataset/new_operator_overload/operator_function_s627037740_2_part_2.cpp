@@ -1,0 +1,2 @@
+(score(le) > score(ri));
+}                        

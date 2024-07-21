@@ -1,0 +1,1 @@
+				cost[it - moji.begin()]++;

@@ -1,0 +1,1 @@
+ int c = col[u] ;

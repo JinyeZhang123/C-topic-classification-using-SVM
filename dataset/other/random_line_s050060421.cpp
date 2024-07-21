@@ -1,0 +1,1 @@
+#define NL cerr<<endl;

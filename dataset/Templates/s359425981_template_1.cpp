@@ -1,0 +1,4 @@
+template <class T>
+void chmin(T &a, const T &b) {
+  if (a > b) a = b;
+}

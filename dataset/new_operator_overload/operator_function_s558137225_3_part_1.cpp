@@ -1,0 +1,1 @@
+pdd operator*(pdd a, double t) { return mp(a.fs*t,

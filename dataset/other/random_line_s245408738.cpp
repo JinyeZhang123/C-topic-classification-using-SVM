@@ -1,0 +1,1 @@
+static const LLONG MOD_NUM = 1000000007;

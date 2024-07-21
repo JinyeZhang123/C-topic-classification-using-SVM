@@ -1,0 +1,1 @@
+template<class T,class U> auto max(T a,U b){return a>b?a:b;}

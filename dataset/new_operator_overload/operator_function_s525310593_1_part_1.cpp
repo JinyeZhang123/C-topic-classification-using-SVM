@@ -1,0 +1,1 @@
+bool operator==(const modular<T>& _lhs, const modu

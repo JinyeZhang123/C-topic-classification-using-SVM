@@ -1,0 +1,1 @@
+    if (u==NIL) return;

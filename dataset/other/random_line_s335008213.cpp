@@ -1,0 +1,1 @@
+#define FLUSHS while(gu()!=' ')

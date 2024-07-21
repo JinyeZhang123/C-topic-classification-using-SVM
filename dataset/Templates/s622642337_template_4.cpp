@@ -1,0 +1,6 @@
+template <class Head, class... Tail>
+void IN(Head &head, Tail &... tail)
+{
+    scan(head);
+    IN(tail...);
+}

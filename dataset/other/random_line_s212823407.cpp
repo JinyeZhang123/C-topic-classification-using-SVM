@@ -1,0 +1,1 @@
+                        sta.push(i);

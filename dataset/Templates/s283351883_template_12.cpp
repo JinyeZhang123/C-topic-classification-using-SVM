@@ -1,0 +1,1 @@
+template <class T> iter_pair_t<T> iter_pair(T beg, T end) { return iter_pair_t<T>{beg, end}

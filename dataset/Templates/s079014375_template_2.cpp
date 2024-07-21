@@ -1,0 +1,1 @@
+template<class T> inline void print(T x) { std::cout << x << std::endl; }

@@ -1,0 +1,1 @@
+    cin>>wage.at(i);

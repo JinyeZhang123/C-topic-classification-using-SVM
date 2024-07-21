@@ -1,0 +1,1 @@
+		tempmarge[i] = x[i];

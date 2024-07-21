@@ -1,0 +1,1 @@
+  mp["Cloudy"] = "Rainy";

@@ -1,0 +1,1 @@
+template<class T> void printx(T n){cout << n;}

@@ -1,0 +1,1 @@
+  bool b = func(n);

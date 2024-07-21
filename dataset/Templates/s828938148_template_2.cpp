@@ -1,0 +1,7 @@
+template <typename T> T modpow(T a, T n, T mod) { // a^n % mod
+    T res = 1;
+    while(n > 0) {
+        if(n & 1) res = res * a % mod;
+        a = a * a % mod;
+        n >>= 1;
+    }

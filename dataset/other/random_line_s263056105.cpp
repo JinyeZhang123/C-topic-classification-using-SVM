@@ -1,0 +1,1 @@
+				hist[j].first -= a;

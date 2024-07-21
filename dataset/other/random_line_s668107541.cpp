@@ -1,0 +1,1 @@
+#define check cout<<"?"<<endl;

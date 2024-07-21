@@ -1,0 +1,1 @@
+    std::cin >> first[p];

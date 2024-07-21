@@ -1,0 +1,1 @@
+vec2d operator+(const vec2d & a, const vec2d & b) 

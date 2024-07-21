@@ -1,0 +1,1 @@
+template<class T> T lcm(const T &a, const T &b) { return a / gcd(a, b) * b; }

@@ -1,0 +1,1 @@
+void ClockwiseFront(dice *X){

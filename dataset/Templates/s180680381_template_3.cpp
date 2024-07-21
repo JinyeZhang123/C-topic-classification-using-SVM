@@ -1,0 +1,1 @@
+template <class Head> inline void COUT(Head &&head) { cout << (head) << "\n"; }

@@ -1,0 +1,1 @@
+					clash = inq[i].a;

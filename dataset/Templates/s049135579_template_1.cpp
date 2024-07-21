@@ -1,0 +1,1 @@
+template<class T> void debug(T a) { for (auto iiiiiiiiii : a)cout << iiiiiiiiii << endl; }

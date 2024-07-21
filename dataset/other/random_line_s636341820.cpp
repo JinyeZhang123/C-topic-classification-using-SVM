@@ -1,0 +1,1 @@
+        while(!isPrime[b])

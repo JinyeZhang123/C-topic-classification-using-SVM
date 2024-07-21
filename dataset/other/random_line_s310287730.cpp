@@ -1,0 +1,1 @@
+    cout << w[S] << endl;

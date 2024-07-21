@@ -1,0 +1,1 @@
+#define Linen "No\n"

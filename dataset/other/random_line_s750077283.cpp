@@ -1,0 +1,1 @@
+                treasure[i][j]=false;

@@ -1,0 +1,1 @@
+    regex r("A?KIHA?BA?RA?");

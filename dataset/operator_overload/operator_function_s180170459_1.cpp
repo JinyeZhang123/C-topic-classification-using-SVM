@@ -1,0 +1,1 @@
+bool operator <(cp x,cp y){return x.val<y.val;}

@@ -1,0 +1,1 @@
+            indiceEscolhido = i;

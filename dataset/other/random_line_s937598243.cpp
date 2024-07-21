@@ -1,0 +1,1 @@
+	int a[MAX][MAX];

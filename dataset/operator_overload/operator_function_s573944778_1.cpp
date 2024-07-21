@@ -1,0 +1,1 @@
+bool operator==(const Graph1& g1, const Graph1& g2) { return g1.G == g2.G; }

@@ -1,0 +1,1 @@
+    while (!mins.empty())

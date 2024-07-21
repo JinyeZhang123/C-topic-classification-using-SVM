@@ -1,0 +1,4 @@
+virtual int find(int x) {
+        if (par[x] == x) return x;
+        else return par[x] = find(par[x]);
+    }

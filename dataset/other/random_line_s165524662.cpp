@@ -1,0 +1,1 @@
+    	cin>>ggg;cin>>ggg;

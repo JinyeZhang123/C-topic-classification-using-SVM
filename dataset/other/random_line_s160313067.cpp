@@ -1,0 +1,1 @@
+    while (pos < s.size()) {

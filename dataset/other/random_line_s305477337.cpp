@@ -1,0 +1,1 @@
+          int wall; cin >> wall;

@@ -1,0 +1,1 @@
+        ll pair = x - num;

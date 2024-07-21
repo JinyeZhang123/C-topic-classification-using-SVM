@@ -1,0 +1,1 @@
+            stt[b[i]] = true;

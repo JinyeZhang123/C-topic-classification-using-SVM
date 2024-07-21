@@ -1,0 +1,1 @@
+		node[i].parent=NIL;

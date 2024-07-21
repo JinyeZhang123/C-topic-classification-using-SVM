@@ -1,0 +1,1 @@
+// 3) See Strings,palindromes,prefix,suffix etc -> KMP,Z algorithm

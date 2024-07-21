@@ -1,0 +1,1 @@
+int getfa(int x)

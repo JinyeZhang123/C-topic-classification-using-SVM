@@ -1,0 +1,1 @@
+    cout << all - bad << endl;

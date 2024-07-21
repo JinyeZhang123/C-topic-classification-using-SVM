@@ -1,0 +1,1 @@
+    retval = min(retval, cnt);

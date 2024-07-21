@@ -1,0 +1,1 @@
+            dist[ni][nj] = d;

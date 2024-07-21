@@ -1,0 +1,1 @@
+template<class _T> _T MAX(_T p1,_T p2){return (p1>p2)?p1:p2;}

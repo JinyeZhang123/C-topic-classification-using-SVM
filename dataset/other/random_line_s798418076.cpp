@@ -1,0 +1,1 @@
+		ushi = ushi + c;

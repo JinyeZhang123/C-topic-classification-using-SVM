@@ -1,0 +1,1 @@
+    COMinit(X + Y);

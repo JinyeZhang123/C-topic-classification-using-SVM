@@ -1,0 +1,1 @@
+		doublece(ans, ans2)

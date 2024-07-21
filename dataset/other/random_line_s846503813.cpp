@@ -1,0 +1,1 @@
+    ContestScore cs = ContestScore();

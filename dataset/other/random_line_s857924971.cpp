@@ -1,0 +1,1 @@
+_ispal(int, ispali)

@@ -1,0 +1,1 @@
+template<typename T> inline ll pow2(T n) { return 1ll << n; }

@@ -1,0 +1,1 @@
+	RangeAddRangeSum<ll> seg(n);

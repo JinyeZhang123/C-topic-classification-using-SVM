@@ -1,0 +1,1 @@
+mint operator*=(const mint& a){ (x*=a.x)%=MOD; ret

@@ -1,0 +1,1 @@
+	now += cur*Pow[pos];

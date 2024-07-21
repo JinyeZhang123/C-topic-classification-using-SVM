@@ -1,0 +1,1 @@
+  reverse(rng(s));

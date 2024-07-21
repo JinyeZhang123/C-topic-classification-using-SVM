@@ -1,0 +1,1 @@
+Mod operator-=(Mod &a, Mod b) { a.n -= b.n; if (a.n < 0) a.n += mod; return a; }

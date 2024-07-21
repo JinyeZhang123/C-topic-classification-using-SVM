@@ -1,0 +1,1 @@
+    ans = lcm(ans, t);

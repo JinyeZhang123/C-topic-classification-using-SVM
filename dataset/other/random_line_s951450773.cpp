@@ -1,0 +1,1 @@
+        f=ch=='-',ch=getchar();

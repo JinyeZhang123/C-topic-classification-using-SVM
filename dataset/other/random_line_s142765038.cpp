@@ -1,0 +1,1 @@
+      DP[amap[i]] %= mod;

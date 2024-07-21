@@ -1,0 +1,1 @@
+template<typename H> void write(H head) { cout << head << '\n'; }

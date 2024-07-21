@@ -1,0 +1,1 @@
+    istringstream is(str);

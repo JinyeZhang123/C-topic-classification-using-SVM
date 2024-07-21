@@ -1,0 +1,1 @@
+bool operator<(const Edges &x,const Edges &y){return x.cost<y.cost;}

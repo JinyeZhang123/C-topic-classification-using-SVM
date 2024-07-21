@@ -1,0 +1,1 @@
+pii operator*(pii a,pii b){return {a.F*b.F,a.S*b.S}

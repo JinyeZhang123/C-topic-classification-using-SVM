@@ -1,0 +1,1 @@
+SegmentTree<int,int> *rmq;

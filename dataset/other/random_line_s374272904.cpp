@@ -1,0 +1,1 @@
+      temp=label[1];

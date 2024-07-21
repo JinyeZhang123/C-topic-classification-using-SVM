@@ -1,0 +1,1 @@
+template<typename T>void die(T x){out(x); exit(0);}

@@ -1,0 +1,1 @@
+#define lol long long

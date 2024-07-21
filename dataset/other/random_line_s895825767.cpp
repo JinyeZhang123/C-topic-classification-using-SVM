@@ -1,0 +1,1 @@
+bool chk(string s)

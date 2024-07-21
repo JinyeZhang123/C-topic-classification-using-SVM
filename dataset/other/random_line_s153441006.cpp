@@ -1,0 +1,1 @@
+    if(deq.size() != n){

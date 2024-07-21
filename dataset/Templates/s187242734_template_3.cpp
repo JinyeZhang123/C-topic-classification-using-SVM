@@ -1,0 +1,1 @@
+template<typename T>reader& operator>>(T& x){::read(x);return *this;}

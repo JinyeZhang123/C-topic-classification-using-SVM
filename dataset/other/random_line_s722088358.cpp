@@ -1,0 +1,1 @@
+ll getkey(char str[]){

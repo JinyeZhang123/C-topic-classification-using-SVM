@@ -1,0 +1,1 @@
+ if(X == res) {cout << i << " " << j << endl; fg =

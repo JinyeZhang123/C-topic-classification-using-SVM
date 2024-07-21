@@ -1,0 +1,1 @@
+		if(i==leng) break;

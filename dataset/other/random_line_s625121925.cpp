@@ -1,0 +1,1 @@
+        num=p[i].first;

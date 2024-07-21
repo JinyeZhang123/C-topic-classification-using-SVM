@@ -1,0 +1,1 @@
+        if (asum > k) break;

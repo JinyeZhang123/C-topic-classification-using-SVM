@@ -1,0 +1,1 @@
+        vecb[k]=vec[k];

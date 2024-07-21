@@ -1,0 +1,1 @@
+bool operator==(P p1, P p2) { return p1.x == p2.x 

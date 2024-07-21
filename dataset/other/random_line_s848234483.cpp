@@ -1,0 +1,1 @@
+		min=sqrt(data[0]*data[0]+data[1]*data[1])/2;

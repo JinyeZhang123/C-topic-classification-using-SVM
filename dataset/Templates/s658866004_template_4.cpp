@@ -1,0 +1,1 @@
+template<typename T> vector<T> select(const vector<T> &v, typename Identity<function<T(const T &)>>::type ft) {vector<T> rt; for (T item : v) { rt.push_back(ft(item)); }

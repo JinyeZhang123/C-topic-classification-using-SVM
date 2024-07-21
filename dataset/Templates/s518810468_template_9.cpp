@@ -1,0 +1,1 @@
+template<class T1,class T2>ostream &operator<<(ostream &o, const pair<T1,T2>&p){ o<<"("<<p.fi<<","<<p.se<<")"; return o; }

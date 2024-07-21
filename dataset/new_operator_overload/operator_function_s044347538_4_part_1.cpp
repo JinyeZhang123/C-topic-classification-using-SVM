@@ -1,0 +1,1 @@
+void operator+=(const MInt &y) { *this = *this + y

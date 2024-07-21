@@ -1,0 +1,1 @@
+template <class T> inline bool chmax(T& lhs, const T& rhs) { if(lhs < rhs) { lhs = rhs; return 1; } return 0; }

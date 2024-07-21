@@ -1,0 +1,1 @@
+template < typename T > T GCD(T a, T b)            { ll t; while(a) { t = a; a = b % a; b = t; }

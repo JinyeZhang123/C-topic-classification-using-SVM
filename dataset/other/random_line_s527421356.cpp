@@ -1,0 +1,1 @@
+    ans += high * n;

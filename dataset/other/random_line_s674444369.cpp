@@ -1,0 +1,1 @@
+        scoreAt = vector<ll>(maxPlace);

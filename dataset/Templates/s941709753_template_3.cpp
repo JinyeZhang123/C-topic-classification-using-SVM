@@ -1,0 +1,6 @@
+template <class T>
+ostream& operator<<(ostream& out, const vector<vector<T> >& Mat) {
+    for (int i = 0; i < Mat.size(); i++) {
+        if (i != 0) out << endl;
+        out << Mat[i];
+    }

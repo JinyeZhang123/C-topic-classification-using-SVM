@@ -1,0 +1,1 @@
+w(b.value, mod-2)%mod}                            

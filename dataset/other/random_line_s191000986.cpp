@@ -1,0 +1,1 @@
+	passed[y][x]=true;

@@ -1,0 +1,1 @@
+	ave=(double)(int)ave;

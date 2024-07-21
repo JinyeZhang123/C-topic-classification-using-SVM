@@ -1,0 +1,1 @@
+	best = max(curr, best);

@@ -1,0 +1,1 @@
+        cout<<list[j]<<endl;

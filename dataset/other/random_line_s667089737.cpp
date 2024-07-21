@@ -1,0 +1,1 @@
+            cout << plane[i][j];

@@ -1,0 +1,1 @@
+			ny=nny,nx=nnx;

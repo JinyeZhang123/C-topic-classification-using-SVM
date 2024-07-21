@@ -1,0 +1,1 @@
+void debug(auto f) {

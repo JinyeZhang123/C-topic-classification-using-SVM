@@ -1,0 +1,1 @@
+            rx=red[j].second;

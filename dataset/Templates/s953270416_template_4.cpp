@@ -1,0 +1,1 @@
+template<typename T> inline void _tostr(const T t, string& s){ostringstream o;o<<t;s=o.str();}

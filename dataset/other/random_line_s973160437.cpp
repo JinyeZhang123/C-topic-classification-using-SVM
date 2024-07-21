@@ -1,0 +1,1 @@
+  	cin >> button.at(i);

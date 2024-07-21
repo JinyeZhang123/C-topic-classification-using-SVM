@@ -1,0 +1,1 @@
+template <typename T> void CERR(const T &ELEM) { cerr << ELEM; }

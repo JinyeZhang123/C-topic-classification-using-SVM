@@ -1,0 +1,1 @@
+	else prin("Alice");

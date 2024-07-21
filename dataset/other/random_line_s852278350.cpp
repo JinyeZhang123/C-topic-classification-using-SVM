@@ -1,0 +1,1 @@
+    printCard(cardsBub[i]);

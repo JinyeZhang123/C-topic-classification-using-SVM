@@ -1,0 +1,1 @@
+    if (dist <= dist2) {

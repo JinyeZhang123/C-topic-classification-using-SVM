@@ -1,0 +1,1 @@
+T operator[](const int &i) { return rast[i]; }    

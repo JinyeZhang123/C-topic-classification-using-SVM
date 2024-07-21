@@ -1,0 +1,1 @@
+		else  ans[i]=count;

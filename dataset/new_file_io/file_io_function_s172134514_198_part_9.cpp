@@ -1,0 +1,1 @@
+            if(B[24]+N-1-i<B[25]) ans=min(ans,i+1)

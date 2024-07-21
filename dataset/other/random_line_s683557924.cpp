@@ -1,0 +1,1 @@
+        switch(com[0]) {

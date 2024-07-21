@@ -1,0 +1,1 @@
+template <typename D, typename R> inline void Max(D &a, R b){if(a<b) a=b;}

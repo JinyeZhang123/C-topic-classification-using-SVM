@@ -1,0 +1,1 @@
+  cout<<NZ[K]<<endl;

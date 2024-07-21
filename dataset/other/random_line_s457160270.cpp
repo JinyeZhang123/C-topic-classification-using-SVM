@@ -1,0 +1,1 @@
+//CF,CC,AtC,SPOJ: hp1999

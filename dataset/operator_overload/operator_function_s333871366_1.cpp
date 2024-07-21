@@ -1,0 +1,1 @@
+Seg operator+(const Seg &l,const Seg &r){return l.mn<=r.mn?Seg(l.mn,l.mnno):Seg(r.mn,r.mnno);}

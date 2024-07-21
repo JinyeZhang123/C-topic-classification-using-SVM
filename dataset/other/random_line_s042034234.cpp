@@ -1,0 +1,1 @@
+#define MINF LONG_LONG_MIN

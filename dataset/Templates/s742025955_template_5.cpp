@@ -1,0 +1,1 @@
+template<class T>inline const void scan( vector<T>& a){for(auto&& i:a)scan(i);}

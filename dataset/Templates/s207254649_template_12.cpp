@@ -1,0 +1,1 @@
+template<class T, size_t size>inline const void print(const T (&a)[size]){print(a[0]);for(auto i=a;++i!=end(a);){putchar(' ');print(*i);}

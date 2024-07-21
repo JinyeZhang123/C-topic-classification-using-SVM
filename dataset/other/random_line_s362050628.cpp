@@ -1,0 +1,1 @@
+        m = minfactor(n);

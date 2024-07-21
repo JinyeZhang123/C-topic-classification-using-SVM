@@ -1,0 +1,1 @@
+            if (mozi=='\n')break;

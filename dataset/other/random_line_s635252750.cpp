@@ -1,0 +1,1 @@
+typedef vt<ld> vld;

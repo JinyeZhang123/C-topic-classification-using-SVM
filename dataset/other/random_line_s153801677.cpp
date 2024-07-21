@@ -1,0 +1,1 @@
+            nxt=st.top().second;

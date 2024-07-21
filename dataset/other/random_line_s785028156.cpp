@@ -1,0 +1,1 @@
+            cout << miti[j][i];

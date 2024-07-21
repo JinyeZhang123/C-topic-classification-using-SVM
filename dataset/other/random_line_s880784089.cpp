@@ -1,0 +1,1 @@
+	nxt[ ++ num] = head[u];

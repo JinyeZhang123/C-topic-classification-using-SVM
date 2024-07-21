@@ -1,0 +1,1 @@
+[=](EmployeeSale const& sale){ return sale.employe

@@ -1,0 +1,1 @@
+template <class F, class T> void convert(const F &f, T &t){	stringstream ss; ss << f; ss >> t;}

@@ -1,0 +1,1 @@
+pt operator-(const pt& a) { return { -a.x, -a.y }

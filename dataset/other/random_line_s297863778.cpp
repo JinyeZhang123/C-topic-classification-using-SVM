@@ -1,0 +1,1 @@
+	cout << maxWidth * maxWidth << endl;

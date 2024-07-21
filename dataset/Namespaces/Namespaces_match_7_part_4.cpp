@@ -1,0 +1,2 @@
+/! データサイズ
+        static const

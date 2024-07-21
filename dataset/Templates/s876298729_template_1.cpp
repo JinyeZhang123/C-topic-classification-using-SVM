@@ -1,0 +1,1 @@
+template <typename Num> void maximize(Num &x, Num y) {x = mx(x, y);}

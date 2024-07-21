@@ -1,0 +1,1 @@
+bool operator<(object x,object y){return y.s-x.w>x

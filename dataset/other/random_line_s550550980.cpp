@@ -1,0 +1,1 @@
+#define INFTY 1000000000

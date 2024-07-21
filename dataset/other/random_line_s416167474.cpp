@@ -1,0 +1,1 @@
+			st.insert(rx+ry);

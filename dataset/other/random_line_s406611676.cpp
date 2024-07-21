@@ -1,0 +1,1 @@
+            hansum+=han[i];

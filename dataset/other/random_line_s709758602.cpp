@@ -1,0 +1,1 @@
+	string SS = S + S;

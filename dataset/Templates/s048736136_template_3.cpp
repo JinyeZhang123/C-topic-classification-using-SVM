@@ -1,0 +1,9 @@
+template <class C>
+inline void vcout(const C &c, const string separate)
+{
+  for (auto it = c.begin(); it != c.end(); it++)
+  {
+    if (it != c.begin())
+      cout << separate;
+    cout << *it;
+  }

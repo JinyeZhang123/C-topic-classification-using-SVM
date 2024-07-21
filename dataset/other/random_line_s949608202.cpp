@@ -1,0 +1,1 @@
+#define IL inline

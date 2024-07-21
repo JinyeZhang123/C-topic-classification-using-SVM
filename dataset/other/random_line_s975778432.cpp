@@ -1,0 +1,1 @@
+template<typename C, typename Pred> void sort(C& c, Pred p) { sort(ALL(c), p); }

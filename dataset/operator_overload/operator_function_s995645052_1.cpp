@@ -1,0 +1,1 @@
+void operator>>(istream& is,vector<T>& v) { for(int& i : v){ is>>i; }

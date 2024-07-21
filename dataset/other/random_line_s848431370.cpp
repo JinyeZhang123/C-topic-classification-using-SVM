@@ -1,0 +1,1 @@
+#define fgx cerr<<"-------------"<<endl

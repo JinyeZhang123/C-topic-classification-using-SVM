@@ -1,0 +1,1 @@
+    intager[num-1]++;

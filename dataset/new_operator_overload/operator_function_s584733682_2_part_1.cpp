@@ -1,0 +1,2 @@
+IntegerIterator operator--(int) {
+		IntegerIterato

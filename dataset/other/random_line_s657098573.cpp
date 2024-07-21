@@ -1,0 +1,1 @@
+	b = ceil(sqrt(s));

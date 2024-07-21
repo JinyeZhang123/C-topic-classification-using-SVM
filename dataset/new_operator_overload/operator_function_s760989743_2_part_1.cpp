@@ -1,0 +1,1 @@
+T operator+(T right) { return T(input_returnner())

@@ -1,0 +1,1 @@
+        if(!que[i].empty()){

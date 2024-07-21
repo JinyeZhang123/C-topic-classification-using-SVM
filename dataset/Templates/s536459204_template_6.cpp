@@ -1,0 +1,1 @@
+template<class T, class U>U COUNT(const T& a, const U& v) { return count(a.begin(),a.end(), v); }

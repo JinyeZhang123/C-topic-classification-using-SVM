@@ -1,0 +1,1 @@
+LL facctorialMethod(int k);

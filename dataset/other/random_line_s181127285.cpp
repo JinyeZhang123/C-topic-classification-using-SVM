@@ -1,0 +1,1 @@
+    int Scores[6];

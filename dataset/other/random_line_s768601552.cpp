@@ -1,0 +1,1 @@
+	totalS = totalTime % 60;

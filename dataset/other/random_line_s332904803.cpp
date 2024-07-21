@@ -1,0 +1,1 @@
+pii p[N], cur;

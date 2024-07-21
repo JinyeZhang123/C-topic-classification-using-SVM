@@ -1,0 +1,1 @@
+template<typename T>T sum(vector<T>&v){return accumulate(ALL(v),T());}

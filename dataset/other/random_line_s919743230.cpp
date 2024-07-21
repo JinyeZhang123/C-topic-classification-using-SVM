@@ -1,0 +1,1 @@
+int con(char c){

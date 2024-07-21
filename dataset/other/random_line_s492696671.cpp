@@ -1,0 +1,1 @@
+  InvFact.resize(P);

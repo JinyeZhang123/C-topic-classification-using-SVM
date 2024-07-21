@@ -1,0 +1,1 @@
+			bt.insert(n);

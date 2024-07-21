@@ -1,0 +1,1 @@
+    int maxWidth = 0;

@@ -1,0 +1,1 @@
+//int divr[maxn];

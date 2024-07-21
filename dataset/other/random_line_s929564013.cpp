@@ -1,0 +1,1 @@
+int formula(State &now) {

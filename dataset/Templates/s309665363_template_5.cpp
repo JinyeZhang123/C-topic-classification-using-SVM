@@ -1,0 +1,1 @@
+template <typename R, typename D> inline void Min(R &a, D b){if(a>b) a=b;}

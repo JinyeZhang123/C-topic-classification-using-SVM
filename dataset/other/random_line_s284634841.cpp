@@ -1,0 +1,1 @@
+                 int rgt=*hi;

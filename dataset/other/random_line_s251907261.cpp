@@ -1,0 +1,1 @@
+    cout << phi(n) << endl;

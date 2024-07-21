@@ -1,0 +1,1 @@
+void operator++() {val = least_bit(bit & -(1 << (v

@@ -1,0 +1,5 @@
+template<typename T> ostream& operator<<(ostream& os,const set<T> st){
+    os << "[";
+    for(T v : st) os << v << ",";
+    os << "]" << endl;
+}

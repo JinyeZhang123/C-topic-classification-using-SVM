@@ -1,0 +1,1 @@
+ertices[2], vertices[1]) == isAbove(vertices[0], v

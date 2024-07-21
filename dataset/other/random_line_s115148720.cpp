@@ -1,0 +1,1 @@
+      if(ha==n)break;

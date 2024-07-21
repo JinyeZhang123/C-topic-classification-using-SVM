@@ -1,0 +1,1 @@
+inline operator bool() { return peekChar(); }

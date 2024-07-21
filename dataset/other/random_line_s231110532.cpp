@@ -1,0 +1,1 @@
+string alph("abcdefghijklmnopqrstuvwxyz"), s;

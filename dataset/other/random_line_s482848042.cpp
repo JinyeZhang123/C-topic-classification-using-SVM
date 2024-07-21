@@ -1,0 +1,1 @@
+            res *= zero[indZ]%prime;

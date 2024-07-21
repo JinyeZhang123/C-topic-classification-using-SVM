@@ -1,0 +1,1 @@
+template<typename T> bool next_permutation(vector<T>& v) {return next_permutation(v.begin(), v.end());}

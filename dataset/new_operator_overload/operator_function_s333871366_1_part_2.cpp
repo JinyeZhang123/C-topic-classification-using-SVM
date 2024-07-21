@@ -1,0 +1,1 @@
+mn<=r.mn?Seg(l.mn,l.mnno):Seg(r.mn,r.mnno);}      

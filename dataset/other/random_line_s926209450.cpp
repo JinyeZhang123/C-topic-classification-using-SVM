@@ -1,0 +1,1 @@
+string encode(int n) {

@@ -1,0 +1,1 @@
+void Output(bool ok) {

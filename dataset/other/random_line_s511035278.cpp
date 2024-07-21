@@ -1,0 +1,1 @@
+int nextPrime(int N) 

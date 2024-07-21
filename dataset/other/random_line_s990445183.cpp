@@ -1,0 +1,1 @@
+        auto C = next<string>();

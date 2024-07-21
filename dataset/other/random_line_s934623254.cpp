@@ -1,0 +1,1 @@
+    auto count_participant = [&]() {

@@ -1,0 +1,1 @@
+bool operator==(pt p){return abs(x-p.x)<=EPS&&abs(y-p.y)<=EPS;}

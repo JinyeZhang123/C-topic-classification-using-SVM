@@ -1,0 +1,1 @@
+using VVD = vector<VD>;

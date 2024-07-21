@@ -1,0 +1,1 @@
+typedef string::iterator State;

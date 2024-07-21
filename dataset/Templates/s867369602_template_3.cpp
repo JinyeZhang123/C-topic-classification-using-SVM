@@ -1,0 +1,1 @@
+template<class T> void operator>> (istream& ist, vector<T>& vs) { for(auto& e: vs) cin >> e; }

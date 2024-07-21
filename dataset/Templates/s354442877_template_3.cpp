@@ -1,0 +1,1 @@
+template<typename T> void amin(T &a, T b) {if(a > b) a = b;}

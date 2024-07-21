@@ -1,0 +1,1 @@
+template<class T> T MIN(const T& a, const T& b) { return a < b ? a : b; }

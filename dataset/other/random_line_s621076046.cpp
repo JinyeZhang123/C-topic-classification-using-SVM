@@ -1,0 +1,1 @@
+	int a = in(), b = in(), c = in();

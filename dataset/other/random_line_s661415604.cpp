@@ -1,0 +1,1 @@
+int getMinIndex(int n) {

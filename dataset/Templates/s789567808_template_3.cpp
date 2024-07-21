@@ -1,0 +1,1 @@
+template<class T, class S> inline bool maxup(T& m, S x){ return m<=(T)x ? (m=(T)x, true) : false; }

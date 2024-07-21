@@ -1,0 +1,1 @@
+  cout << cnt * N << endl;

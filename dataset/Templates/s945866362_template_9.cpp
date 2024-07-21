@@ -1,0 +1,1 @@
+template<class T>T Age(T a, T b) { return (a + b - 1) / b; }

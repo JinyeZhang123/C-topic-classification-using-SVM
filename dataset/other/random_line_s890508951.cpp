@@ -1,0 +1,1 @@
+int getCount(int x) {

@@ -1,0 +1,1 @@
+bool operator<(S s){return b<s.b;}

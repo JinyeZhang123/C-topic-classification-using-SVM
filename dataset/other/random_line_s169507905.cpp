@@ -1,0 +1,1 @@
+#ifdef LOCAL_INPUT

@@ -1,0 +1,1 @@
+        nATmp = right;

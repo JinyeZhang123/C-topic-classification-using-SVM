@@ -1,0 +1,1 @@
+template<class T> inline void pri(T a){cout << a << endl;}

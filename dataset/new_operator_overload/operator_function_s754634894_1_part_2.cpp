@@ -1,0 +1,1 @@
+ p) {Polygon2D res = p; res.x_ *= val; res.y_ *= v

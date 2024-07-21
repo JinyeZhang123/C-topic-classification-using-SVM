@@ -1,0 +1,1 @@
+ x2 + ydif << " " << y2 - xdif  << " " << x1 + ydi

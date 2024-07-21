@@ -1,0 +1,1 @@
+  int kakeru=1;

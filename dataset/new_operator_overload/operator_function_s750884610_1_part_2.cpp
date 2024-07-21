@@ -1,0 +1,1 @@
+ective != other.effective ? effective > other.effe

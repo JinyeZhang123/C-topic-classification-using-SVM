@@ -1,0 +1,1 @@
+		i = nodes[i].takeRight();

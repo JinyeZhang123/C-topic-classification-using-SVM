@@ -1,0 +1,1 @@
+  ll res = val % m;

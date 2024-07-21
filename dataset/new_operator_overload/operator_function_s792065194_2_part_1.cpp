@@ -1,0 +1,1 @@
+Point operator-(Point p) { return Point(x - p.x, y

@@ -1,0 +1,1 @@
+		void rot(char dir){

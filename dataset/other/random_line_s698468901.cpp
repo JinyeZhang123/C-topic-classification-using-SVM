@@ -1,0 +1,1 @@
+    vg[b].insert(a);

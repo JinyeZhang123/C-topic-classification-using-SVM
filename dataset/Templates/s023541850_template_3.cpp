@@ -1,0 +1,4 @@
+template<class...T>
+ostream & operator << (ostream &os, tuple<T...> const &t){
+    _ot<0>(os, t); return os;
+}

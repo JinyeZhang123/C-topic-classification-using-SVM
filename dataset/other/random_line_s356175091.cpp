@@ -1,0 +1,1 @@
+ll func(ll x){

@@ -1,0 +1,1 @@
+  else rightc[y]=z;

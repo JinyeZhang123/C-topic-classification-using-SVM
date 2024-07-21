@@ -1,0 +1,1 @@
+		current = found + 1;

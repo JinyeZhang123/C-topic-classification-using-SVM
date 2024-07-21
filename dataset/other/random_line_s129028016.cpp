@@ -1,0 +1,1 @@
+cout<<o*e<<endl;

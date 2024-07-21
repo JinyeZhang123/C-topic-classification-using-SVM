@@ -1,0 +1,1 @@
+bool operator<(const P& p) { return y != p.y ? y < p.y : x < p.x; }

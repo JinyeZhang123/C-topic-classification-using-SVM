@@ -1,0 +1,1 @@
+template<typename... Ts> auto make_v(size_t n, Ts... ts){ return std::vector<decltype(make_v(ts...))>(n, make_v(ts...)); }

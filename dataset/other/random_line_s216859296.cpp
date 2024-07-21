@@ -1,0 +1,1 @@
+		cout << mx-mi << endl; 

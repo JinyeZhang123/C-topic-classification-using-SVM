@@ -1,0 +1,1 @@
+template<typename T> inline bool semile(T x, T y){ return x - y < -EPS; }

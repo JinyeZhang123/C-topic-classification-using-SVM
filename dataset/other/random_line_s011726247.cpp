@@ -1,0 +1,1 @@
+    Sosu=Eratosthenes(MAXA);

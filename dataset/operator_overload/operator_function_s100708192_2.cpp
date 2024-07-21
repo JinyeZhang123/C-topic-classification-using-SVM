@@ -1,0 +1,1 @@
+Point operator+(const Point &p) { return Point(p.x, p.y); }

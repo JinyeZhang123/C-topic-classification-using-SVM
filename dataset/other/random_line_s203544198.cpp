@@ -1,0 +1,1 @@
+    lint n; cin >> n;

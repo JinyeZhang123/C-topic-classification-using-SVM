@@ -1,0 +1,1 @@
+		LL temp = sqrt(n);

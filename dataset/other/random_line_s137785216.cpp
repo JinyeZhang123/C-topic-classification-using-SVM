@@ -1,0 +1,1 @@
+        ll Cnt=Mv/n;

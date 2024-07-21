@@ -1,0 +1,1 @@
+        int s = red.size();

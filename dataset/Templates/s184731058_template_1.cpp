@@ -1,0 +1,1 @@
+template <typename T> class pqasc : public priority_queue<T, vector<T>, greater<T>> {}

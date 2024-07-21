@@ -1,0 +1,1 @@
+template<typename T>void _(const char*s,T h){cerr<<s<<" = "<<h<<"\n";}

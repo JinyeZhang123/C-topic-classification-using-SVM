@@ -1,0 +1,1 @@
+		lazyFlg[k] = false;

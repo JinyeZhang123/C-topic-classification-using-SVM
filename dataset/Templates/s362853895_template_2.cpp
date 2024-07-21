@@ -1,0 +1,1 @@
+template<class t, class u> bool chmin(t &a, u b){if(a>b){a=b;return true;}

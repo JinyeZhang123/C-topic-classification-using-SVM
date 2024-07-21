@@ -1,0 +1,1 @@
+template<class TK,class TV>ostream &operator<<(ostream &o, const map<TK,TV>&m){ o<<"{"; fore(x,m)o<<x.fi<<"=>"<<x.se<<","; o<<"}

@@ -1,0 +1,1 @@
+			if (j<a&&cur==r[j]) dp[i+1][j+1] += dp[i][j];

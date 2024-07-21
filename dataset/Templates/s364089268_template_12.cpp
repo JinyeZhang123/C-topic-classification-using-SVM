@@ -1,0 +1,1 @@
+template<class T>void output(T *a,int n,int m){REP(i,n)output(a[i],m);}

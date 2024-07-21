@@ -1,0 +1,1 @@
+    cout<<ansAB<<" "<<ansB<<endl;

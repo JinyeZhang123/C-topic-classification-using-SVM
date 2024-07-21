@@ -1,0 +1,1 @@
+template<typename T> T &onth(T &a, const T &b){ return a = ont(a, b); }

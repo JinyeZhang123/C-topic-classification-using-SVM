@@ -1,0 +1,1 @@
+template<class T> inline T max(T a, T b, T c, T d) { RT max(max(a, b), max(c, d)); }

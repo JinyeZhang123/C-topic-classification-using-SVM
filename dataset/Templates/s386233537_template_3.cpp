@@ -1,0 +1,1 @@
+template<class x,class z> z inv(x b,z m){return expo(b,m-2,m);}

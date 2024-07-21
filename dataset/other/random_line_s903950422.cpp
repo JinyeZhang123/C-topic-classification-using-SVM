@@ -1,0 +1,1 @@
+#ifdef USE_LLONG_AS_INT

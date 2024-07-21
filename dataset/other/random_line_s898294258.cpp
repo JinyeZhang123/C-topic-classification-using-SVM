@@ -1,0 +1,1 @@
+template<class T> void debug(T v){rep(i,v.size()) cout<<v[i]<<" ";cout<<endl;}

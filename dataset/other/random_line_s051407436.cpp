@@ -1,0 +1,1 @@
+	cout<<primenum[i]<<endl;

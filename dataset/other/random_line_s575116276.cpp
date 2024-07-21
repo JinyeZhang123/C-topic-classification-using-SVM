@@ -1,0 +1,1 @@
+        if(nv == p)continue;

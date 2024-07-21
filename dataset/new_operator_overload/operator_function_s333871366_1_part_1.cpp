@@ -1,0 +1,1 @@
+Seg operator+(const Seg &l,const Seg &r){return l.

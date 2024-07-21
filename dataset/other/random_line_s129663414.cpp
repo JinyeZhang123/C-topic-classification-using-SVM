@@ -1,0 +1,1 @@
+						res += win[cnt][i];

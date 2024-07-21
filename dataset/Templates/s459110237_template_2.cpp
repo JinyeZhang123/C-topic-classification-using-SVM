@@ -1,0 +1,1 @@
+template<typename T> inline T LCM(T a,T b){T c=GCD(a,b);a/=c;return a*b;}

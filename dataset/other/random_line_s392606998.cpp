@@ -1,0 +1,1 @@
+	char Z, next;

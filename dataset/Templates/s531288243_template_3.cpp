@@ -1,0 +1,1 @@
+template <typename T> void up_self(T& a, T b){a = up(a,b);}

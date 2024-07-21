@@ -1,0 +1,1 @@
+	menseki = a*b;

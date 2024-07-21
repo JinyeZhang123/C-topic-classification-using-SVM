@@ -1,0 +1,1 @@
+template<class T> int GetInt(T a){ return a >= 0 ? floor(a) : ceil(a); }

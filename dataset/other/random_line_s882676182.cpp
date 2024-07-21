@@ -1,0 +1,1 @@
+bool maze = false;

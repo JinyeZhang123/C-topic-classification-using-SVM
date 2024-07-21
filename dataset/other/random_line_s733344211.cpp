@@ -1,0 +1,1 @@
+    cout << back << " " << front << endl;

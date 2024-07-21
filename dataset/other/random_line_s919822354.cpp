@@ -1,0 +1,1 @@
+#define MN 10

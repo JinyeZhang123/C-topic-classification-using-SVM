@@ -1,0 +1,1 @@
+int tot,head[N];

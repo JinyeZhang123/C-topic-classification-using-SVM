@@ -1,0 +1,1 @@
+const double BORROWING_AMOUNT = 100000;

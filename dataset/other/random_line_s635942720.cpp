@@ -1,0 +1,1 @@
+         if(col[ei]!=used){

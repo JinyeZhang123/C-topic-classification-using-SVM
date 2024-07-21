@@ -1,0 +1,2 @@
+ctive : name < other.name);
+	}                    

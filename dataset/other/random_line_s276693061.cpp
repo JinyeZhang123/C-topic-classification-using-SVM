@@ -1,0 +1,1 @@
+  cout << k - dif << endl;

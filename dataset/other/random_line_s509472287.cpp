@@ -1,0 +1,1 @@
+template<class T> auto min(const T& a){ return *min_element(all(a)); }

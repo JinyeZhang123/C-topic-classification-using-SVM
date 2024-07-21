@@ -1,0 +1,1 @@
+template<typename V> constexpr typename V::value_type sum(const V &v) { return accumulate(all(v), 0); }

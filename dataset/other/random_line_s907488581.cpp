@@ -1,0 +1,1 @@
+constexpr int IINF = (1 << 30) - 1;

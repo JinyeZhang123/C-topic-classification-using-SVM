@@ -1,0 +1,1 @@
+bitset <N*N> bst;

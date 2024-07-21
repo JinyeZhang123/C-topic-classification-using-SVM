@@ -1,0 +1,1 @@
+    switch(string[0]){

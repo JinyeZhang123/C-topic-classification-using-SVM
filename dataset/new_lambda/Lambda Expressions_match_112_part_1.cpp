@@ -1,0 +1,1 @@
+[](EmployeeSale const& sale){ std::cout << sale.em

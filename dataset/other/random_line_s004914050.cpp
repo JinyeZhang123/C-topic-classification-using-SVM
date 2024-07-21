@@ -1,0 +1,1 @@
+		while(prime[a] <= N) {

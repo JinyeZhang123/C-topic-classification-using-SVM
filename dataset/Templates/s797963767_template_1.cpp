@@ -1,0 +1,5 @@
+template<class T>
+string IntToString(T num){
+  string res;stringstream ss;ss<<num;
+  return ss.str();
+}

@@ -1,0 +1,1 @@
+        b = parent[i][b];

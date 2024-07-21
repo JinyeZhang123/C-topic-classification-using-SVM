@@ -1,0 +1,1 @@
+    off[x] += off[temp];

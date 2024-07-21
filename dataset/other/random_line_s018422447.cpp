@@ -1,0 +1,1 @@
+        if(cost==x) nsame++;

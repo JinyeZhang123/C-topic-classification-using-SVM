@@ -1,0 +1,1 @@
+template<class T> void view(const vector<T> &v) {for(const auto &e : v){cout << e << " ";}

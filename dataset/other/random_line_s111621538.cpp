@@ -1,0 +1,1 @@
+          wwall[i][j] = true;

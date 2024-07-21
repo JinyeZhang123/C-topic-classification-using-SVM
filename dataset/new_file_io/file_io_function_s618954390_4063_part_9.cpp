@@ -1,0 +1,1 @@
+ lower_bound(allpt_c(x_list), x_list[i] + l) - x_l

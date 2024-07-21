@@ -1,0 +1,1 @@
+            if (itr == left.begin()) {

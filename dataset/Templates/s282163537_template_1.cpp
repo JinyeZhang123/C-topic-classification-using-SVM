@@ -1,0 +1,1 @@
+template <typename T> ostream &operator<<(ostream &o, const vector<T> &v) { o << '{'; for(int i = 0; i < (int) v.size(); i++) o << v[i] << (i != (int)v.size()-1 ? ", " : ""); o << "}

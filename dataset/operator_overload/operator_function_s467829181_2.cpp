@@ -1,0 +1,3 @@
+Point operator-(Point p)
+    {
+        return Point{x - p.x, y - p.y, z - p.z}

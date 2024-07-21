@@ -1,0 +1,3 @@
+void operator++() {
+      i += s;
+    }

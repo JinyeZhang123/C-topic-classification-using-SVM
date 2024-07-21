@@ -1,0 +1,1 @@
+    int A,B,m,MIN,MINA=100001,MINB=100001;

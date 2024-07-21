@@ -1,0 +1,1 @@
+// -Think before coding & starting to debug. Have patience to look inside code and actually see how it works

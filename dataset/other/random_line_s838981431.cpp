@@ -1,0 +1,1 @@
+  cout<<vec[2]-vec[0]<<endl;

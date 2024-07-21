@@ -1,0 +1,1 @@
+	//freopen("output","w",stdout);

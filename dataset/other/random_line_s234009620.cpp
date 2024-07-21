@@ -1,0 +1,1 @@
+#define ceN ce("NO")

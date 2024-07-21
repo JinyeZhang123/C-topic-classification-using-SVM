@@ -1,0 +1,1 @@
+        int cnt=int(chk);

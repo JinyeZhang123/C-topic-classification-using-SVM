@@ -1,0 +1,1 @@
+ll kaizyou(ll n){

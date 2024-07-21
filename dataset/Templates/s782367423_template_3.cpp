@@ -1,0 +1,1 @@
+template<class T> inline bool is_min(T &a, const T &b) {return a > b ? a = b, true : false;}

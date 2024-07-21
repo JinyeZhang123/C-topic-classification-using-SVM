@@ -1,0 +1,1 @@
+				y=half-b%half;

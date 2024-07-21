@@ -1,0 +1,1 @@
+using Vb = vector<bool>;

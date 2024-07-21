@@ -1,0 +1,1 @@
+    input [karakterkecil]+=32;

@@ -1,0 +1,1 @@
+    vector<shop> s;

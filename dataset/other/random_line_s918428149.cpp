@@ -1,0 +1,1 @@
+        int ne = que.top();

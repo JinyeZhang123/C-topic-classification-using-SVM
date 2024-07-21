@@ -1,0 +1,1 @@
+   ans += kyori.at(i);

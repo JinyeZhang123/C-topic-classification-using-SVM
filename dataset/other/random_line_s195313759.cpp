@@ -1,0 +1,1 @@
+    switch (tempChar[0]) {

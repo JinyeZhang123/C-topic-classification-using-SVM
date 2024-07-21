@@ -1,0 +1,1 @@
+		string ss=itos(tnow);

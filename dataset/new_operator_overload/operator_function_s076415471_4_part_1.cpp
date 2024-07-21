@@ -1,0 +1,3 @@
+Iterator operator*() {
+      return *this;
+    }  

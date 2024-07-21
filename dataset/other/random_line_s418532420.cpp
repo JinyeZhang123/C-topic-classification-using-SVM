@@ -1,0 +1,1 @@
+	cin.exceptions(cin.failbit);

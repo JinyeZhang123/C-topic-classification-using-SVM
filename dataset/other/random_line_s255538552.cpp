@@ -1,0 +1,1 @@
+			cout<<stk.top()<<endl;

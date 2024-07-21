@@ -1,0 +1,1 @@
+    string pre = "", cur = "";

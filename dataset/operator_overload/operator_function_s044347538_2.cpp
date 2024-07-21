@@ -1,0 +1,1 @@
+MInt operator-(const MInt &y) { return (v - y.v + mod) % mod; }

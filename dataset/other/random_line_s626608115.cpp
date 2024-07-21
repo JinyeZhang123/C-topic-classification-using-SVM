@@ -1,0 +1,1 @@
+        cur += x * power;

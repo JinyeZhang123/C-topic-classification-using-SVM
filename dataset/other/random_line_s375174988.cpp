@@ -1,0 +1,1 @@
+    ans = flag ? "first" : "second";

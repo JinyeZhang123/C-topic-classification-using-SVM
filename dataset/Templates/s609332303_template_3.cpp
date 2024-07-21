@@ -1,0 +1,1 @@
+template<typename T> T min(vector<T>& v) {return *min_element(v.begin(), v.end());}

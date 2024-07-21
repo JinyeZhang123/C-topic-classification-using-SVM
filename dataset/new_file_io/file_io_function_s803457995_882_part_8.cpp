@@ -1,0 +1,2 @@
+ans>=mod) ans-=mod;
+    }                         

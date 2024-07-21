@@ -1,0 +1,1 @@
+using namespace std;int n,a;string s;main(){cin>>n;for(;n--;s+=a+48)cin>>a;for(;~s.find(to_string(++n)););cout<<n<<endl;}

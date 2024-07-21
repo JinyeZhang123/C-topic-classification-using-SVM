@@ -1,0 +1,1 @@
+template<typename T>writer& operator<<(T x){::write(x,0,0);return *this;}

@@ -1,0 +1,1 @@
+    output = K * init % div;

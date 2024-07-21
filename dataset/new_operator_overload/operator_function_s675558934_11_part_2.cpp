@@ -1,0 +1,2 @@
+(num - other + p) % p;
+	}                         

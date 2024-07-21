@@ -1,0 +1,1 @@
+bool operator>(const Cell &lhs, const Cell &rhs) { return lhs.cost > rhs.cost; }

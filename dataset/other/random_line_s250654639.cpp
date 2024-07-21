@@ -1,0 +1,1 @@
+  Weight total = 0;

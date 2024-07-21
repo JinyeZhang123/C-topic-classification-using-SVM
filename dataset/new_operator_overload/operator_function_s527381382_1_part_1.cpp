@@ -1,0 +1,1 @@
+T1 operator[](size_t i) { return find(i,i+1);}    

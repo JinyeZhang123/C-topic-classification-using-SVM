@@ -1,0 +1,1 @@
+template <class T> void checkmin(T &a, T b) { if (b<a) a=b; }

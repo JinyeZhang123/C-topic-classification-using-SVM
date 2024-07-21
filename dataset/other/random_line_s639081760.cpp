@@ -1,0 +1,1 @@
+    std::string s; std::cin >> s;

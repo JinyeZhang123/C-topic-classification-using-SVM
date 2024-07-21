@@ -1,0 +1,1 @@
+                state[edge[j].second]--;

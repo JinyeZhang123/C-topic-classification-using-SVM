@@ -1,0 +1,1 @@
+					start = kiro[i].t;

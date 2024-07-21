@@ -1,0 +1,1 @@
+	std::sort(ALL(c));

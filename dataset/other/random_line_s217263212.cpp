@@ -1,0 +1,1 @@
+        return tot[n];

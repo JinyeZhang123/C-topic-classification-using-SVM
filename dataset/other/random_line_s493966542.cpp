@@ -1,0 +1,1 @@
+using namespace std;main(){string s;cin>>s;for(int i=0;i<s.size();i++){char c=s[i]-3;s[i]=('A'<=c&&c<='Z')?c:'Z'-'@'+c;}cout<<s<<endl;return 0;}

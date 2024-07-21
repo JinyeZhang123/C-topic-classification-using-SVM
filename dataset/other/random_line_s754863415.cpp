@@ -1,0 +1,1 @@
+            vcost[b][a] = cost; 

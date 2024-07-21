@@ -1,0 +1,1 @@
+    	else ri=mid;

@@ -1,0 +1,1 @@
+ModfieldInt operator^(ModfieldInt val, long long p

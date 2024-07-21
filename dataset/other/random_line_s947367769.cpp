@@ -1,0 +1,1 @@
+        return capacity - flow;

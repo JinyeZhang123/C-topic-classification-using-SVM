@@ -1,0 +1,1 @@
+        tmp += ab[i].second;

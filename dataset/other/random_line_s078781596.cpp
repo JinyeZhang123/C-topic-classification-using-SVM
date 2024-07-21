@@ -1,0 +1,1 @@
+int reader(char c[]) { int i, s = 0; for (;;) { mygc(i); if (i != ' ' && i != '\n' && i != '\r' && i != '\t' && i != EOF) break; }c[s++] = i; for (;;) { mygc(i); if (i == ' ' || i == '\n' || i == '\r' || i == '\t' || i == EOF) break; c[s++] = i; }c[s] = '\0'; return s; }

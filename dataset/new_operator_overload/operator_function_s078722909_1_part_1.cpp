@@ -1,0 +1,1 @@
+bool operator<(const data &dt1,const data &dt2){if

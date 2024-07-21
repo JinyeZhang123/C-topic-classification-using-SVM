@@ -1,0 +1,1 @@
+		A[minj] = tmp;

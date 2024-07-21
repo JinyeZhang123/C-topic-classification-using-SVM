@@ -1,0 +1,1 @@
+(x - b) * u + b * l < (exam.x - exam.b) * exam.u +

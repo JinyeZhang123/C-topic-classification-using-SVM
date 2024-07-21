@@ -1,0 +1,1 @@
+double operator%(pdd a, pdd b) { return a.fs*b.sc - a.sc*b.fs; }

@@ -1,0 +1,1 @@
+template <class T>void write(vector<T> &a){for(T x : a) cout<<x<<' ';cout<<'\n';}

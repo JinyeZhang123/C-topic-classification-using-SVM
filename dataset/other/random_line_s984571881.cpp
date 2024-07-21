@@ -1,0 +1,1 @@
+   int white = sum - b;

@@ -1,0 +1,1 @@
+        chmin(mv[cnt], sum);

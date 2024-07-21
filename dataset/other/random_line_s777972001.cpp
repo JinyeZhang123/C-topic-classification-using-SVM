@@ -1,0 +1,1 @@
+}fastio_beet;

@@ -1,0 +1,1 @@
+mint operator-=(const mint& a){ if((x+=MOD-a.x)>=M

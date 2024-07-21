@@ -1,0 +1,1 @@
+  genaratePostorder(tree[id].right);

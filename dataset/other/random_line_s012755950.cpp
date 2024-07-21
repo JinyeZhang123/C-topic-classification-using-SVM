@@ -1,0 +1,1 @@
+using minpq = priority_queue<T, vector<T>, greater<T>>;

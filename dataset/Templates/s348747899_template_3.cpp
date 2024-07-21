@@ -1,0 +1,1 @@
+template <class T> string print_v( vector<T> v ) { OSS oss; for ( typename vector<T>::iterator it_i = v.begin(); it_i != v.end(); ++ it_i ) { oss << *it_i << ", "; }

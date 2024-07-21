@@ -1,0 +1,1 @@
+constexpr ll INF = 1001001001001001LL;

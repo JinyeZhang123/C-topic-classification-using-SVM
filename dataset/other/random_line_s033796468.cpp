@@ -1,0 +1,1 @@
+	AFavoriteSound solver;

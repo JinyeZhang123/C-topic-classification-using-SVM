@@ -1,0 +1,1 @@
+			cout << distance[i] << endl;

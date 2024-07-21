@@ -1,0 +1,1 @@
+	lens=strlen(s);

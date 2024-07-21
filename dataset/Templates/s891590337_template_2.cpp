@@ -1,0 +1,1 @@
+template<class T> ll rounding(T n){return (long double)n+0.5;}

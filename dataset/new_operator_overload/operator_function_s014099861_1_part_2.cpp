@@ -1,0 +1,1 @@
+lveNum == r._solveNum && this->_time == r._time ){

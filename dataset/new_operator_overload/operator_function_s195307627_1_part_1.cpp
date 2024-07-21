@@ -1,0 +1,1 @@
+bool operator<(const result& lhs, const result& rh

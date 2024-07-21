@@ -1,0 +1,1 @@
+const LLONG MOD = 1000000007;

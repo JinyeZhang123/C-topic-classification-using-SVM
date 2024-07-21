@@ -1,0 +1,1 @@
+  	cout<< mi << " " << ma <<endl;

@@ -1,0 +1,1 @@
+    istringstream stream(line);

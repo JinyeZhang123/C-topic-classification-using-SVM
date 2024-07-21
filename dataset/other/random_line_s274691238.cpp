@@ -1,0 +1,1 @@
+int main(){for(;scanf("%d",&a)!=EOF;)s+=(a<40)?8:a/5;printf("%d\n",s);}

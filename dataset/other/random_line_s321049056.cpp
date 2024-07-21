@@ -1,0 +1,1 @@
+inline int Q2() {

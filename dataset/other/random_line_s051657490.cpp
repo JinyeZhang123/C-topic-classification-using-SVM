@@ -1,0 +1,1 @@
+	for (; '0' <= ch && ch <= '9'; ch = getchar()) x = x * 10 + ch - '0';

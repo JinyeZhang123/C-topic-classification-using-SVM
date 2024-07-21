@@ -1,0 +1,1 @@
+r(int i=1;i<=a%4;i++){int swp=p.a;p.a=p.b;p.b=p.c;

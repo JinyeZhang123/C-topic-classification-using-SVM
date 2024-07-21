@@ -1,0 +1,1 @@
+max(mnprefix, y.mnprefix-sum) < max(y.mnprefix, mn

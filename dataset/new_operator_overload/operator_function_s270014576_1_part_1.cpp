@@ -1,0 +1,1 @@
+node operator+(node other){		// TODO merge "val" o

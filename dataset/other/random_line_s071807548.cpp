@@ -1,0 +1,1 @@
+        if(isp) a = cnt;

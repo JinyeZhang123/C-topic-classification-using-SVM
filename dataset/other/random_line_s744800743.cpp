@@ -1,0 +1,1 @@
+    cout << blood[i] << endl;

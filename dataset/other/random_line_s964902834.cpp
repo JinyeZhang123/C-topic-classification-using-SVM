@@ -1,0 +1,1 @@
+    cin >> time.at(i);

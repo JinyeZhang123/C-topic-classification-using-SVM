@@ -1,0 +1,1 @@
+    if (founds && foundt) ans++;

@@ -1,0 +1,1 @@
+#define ULLINF (ULLONG_MAX)

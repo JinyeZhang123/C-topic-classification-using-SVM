@@ -1,0 +1,1 @@
+string GetColor(int p) {

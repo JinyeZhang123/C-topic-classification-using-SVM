@@ -1,0 +1,1 @@
+  vector<ll>a(N);

@@ -1,0 +1,1 @@
+virtual int eval(int p, int q, int r) = 0;        

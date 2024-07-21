@@ -1,0 +1,1 @@
+    fastio;  cin >> n >> k ;

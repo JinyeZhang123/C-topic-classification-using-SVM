@@ -1,0 +1,1 @@
+ return (abs(a.real() > b.real()) > EPS ? a.real()

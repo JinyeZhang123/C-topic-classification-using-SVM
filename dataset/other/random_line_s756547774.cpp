@@ -1,0 +1,1 @@
+						int nj=ni-k;

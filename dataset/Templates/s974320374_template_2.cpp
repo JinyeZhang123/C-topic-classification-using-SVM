@@ -1,0 +1,1 @@
+template<class T>void geti(T&a){for(auto&_:a)cin>>_;}

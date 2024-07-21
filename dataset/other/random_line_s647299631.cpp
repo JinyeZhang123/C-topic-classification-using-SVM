@@ -1,0 +1,1 @@
+vi adj[MAX];

@@ -1,0 +1,1 @@
+typedef vector<cmp> vcl;

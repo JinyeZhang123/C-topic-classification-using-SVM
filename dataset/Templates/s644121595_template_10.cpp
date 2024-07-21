@@ -1,0 +1,1 @@
+template<class T>T gcd(T n, T m) { return m == 0 ? n : gcd(m, n % m); }

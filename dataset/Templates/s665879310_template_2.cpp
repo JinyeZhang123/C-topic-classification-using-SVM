@@ -1,0 +1,1 @@
+template<typename T>inline void ckmi(T &x,T y){x=min(x,y);}

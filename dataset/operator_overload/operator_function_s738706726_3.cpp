@@ -1,0 +1,1 @@
+pt operator-(pt p){return pt(x-p.x,y-p.y);}

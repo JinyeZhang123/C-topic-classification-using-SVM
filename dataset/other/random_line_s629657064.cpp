@@ -1,0 +1,1 @@
+				sieve[n] = !sieve[n];

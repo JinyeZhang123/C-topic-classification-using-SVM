@@ -1,0 +1,1 @@
+  vector< Monoid > seg;

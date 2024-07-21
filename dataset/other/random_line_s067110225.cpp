@@ -1,0 +1,1 @@
+    cout << time * ans << "\n";

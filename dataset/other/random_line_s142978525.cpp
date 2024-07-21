@@ -1,0 +1,1 @@
+	return modexp(a,x);

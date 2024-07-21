@@ -1,0 +1,1 @@
+f (stat("/dev/shm/input.txt",&sb)==0){ cin.rdbuf(i

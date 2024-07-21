@@ -1,0 +1,1 @@
+	cout << Takahashi << ' ' << Aoki << '\n';

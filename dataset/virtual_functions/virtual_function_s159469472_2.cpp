@@ -1,0 +1,1 @@
+virtual ll fm(ll m1,ll m2)=0;

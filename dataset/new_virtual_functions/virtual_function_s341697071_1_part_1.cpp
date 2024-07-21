@@ -1,0 +1,1 @@
+virtual int query(int, int, int, int, int) = 0;   

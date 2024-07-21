@@ -1,0 +1,1 @@
+template<class T> int sig(T a,T b = 0) {return a < b ? -1 : b > a ? 1 : 0;}

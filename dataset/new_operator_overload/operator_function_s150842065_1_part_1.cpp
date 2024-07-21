@@ -1,0 +1,1 @@
+bool operator<(const cube &cb1,const cube &cb2){if

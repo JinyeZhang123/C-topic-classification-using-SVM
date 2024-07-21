@@ -1,0 +1,1 @@
+Point operator+(const Point &oth) { return Point( X + oth.X, Y + oth.Y ); }

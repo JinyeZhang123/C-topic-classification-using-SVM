@@ -1,0 +1,1 @@
+typedef vector<T> vt;

@@ -1,0 +1,1 @@
+i, N) {ll A; cin >> A; if(A > 0) AP.push_back(A); 

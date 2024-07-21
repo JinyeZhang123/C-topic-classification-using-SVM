@@ -1,0 +1,1 @@
+    Dice tmp(tmpv);

@@ -1,0 +1,1 @@
+        monster[i] = {x, h};

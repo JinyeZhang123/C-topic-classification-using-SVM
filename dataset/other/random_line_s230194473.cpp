@@ -1,0 +1,1 @@
+    cout << lis[i] << endl;

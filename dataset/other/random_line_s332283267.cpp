@@ -1,0 +1,1 @@
+      diff = abs(dist - E);

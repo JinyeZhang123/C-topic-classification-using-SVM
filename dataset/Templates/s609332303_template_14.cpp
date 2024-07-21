@@ -1,0 +1,1 @@
+template<typename T> int find(vector<T>& v, T t) {return find(v.begin(), v.end(), t) - v.begin();}

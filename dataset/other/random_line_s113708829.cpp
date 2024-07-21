@@ -1,0 +1,1 @@
+# define VLL vector<ll>

@@ -1,0 +1,1 @@
+      current = p.at(current);

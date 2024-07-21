@@ -1,0 +1,1 @@
+	cout << sum - mn << endl; 

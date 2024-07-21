@@ -1,0 +1,1 @@
+        adja[u].resize(k);

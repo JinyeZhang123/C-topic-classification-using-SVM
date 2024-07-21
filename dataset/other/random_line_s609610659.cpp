@@ -1,0 +1,1 @@
+#define enter putchar('\n')

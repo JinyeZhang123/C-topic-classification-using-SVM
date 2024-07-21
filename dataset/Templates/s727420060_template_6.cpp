@@ -1,0 +1,1 @@
+template<class First> void debug2(const First& first) {cerr<<first<<" ";}

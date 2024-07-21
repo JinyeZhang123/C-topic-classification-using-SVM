@@ -1,0 +1,1 @@
+void calcFacAndInv(ll n)

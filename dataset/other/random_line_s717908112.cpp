@@ -1,0 +1,1 @@
+                currentPhraseCount = 0;

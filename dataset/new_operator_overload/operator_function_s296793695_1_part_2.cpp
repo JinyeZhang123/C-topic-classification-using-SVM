@@ -1,0 +1,3 @@
+ sz);
+    return lazy[k];
+  }                     

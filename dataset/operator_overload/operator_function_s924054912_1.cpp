@@ -1,0 +1,1 @@
+bool operator<(edge a,edge b){return a.v<b.v;}

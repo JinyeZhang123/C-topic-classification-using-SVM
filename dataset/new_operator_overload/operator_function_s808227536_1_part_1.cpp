@@ -1,0 +1,1 @@
+Monoid operator[](int a) { return dat[a + SIZE_R];

@@ -1,0 +1,1 @@
+	int tLen = t.length();

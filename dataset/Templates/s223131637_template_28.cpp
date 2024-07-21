@@ -1,0 +1,1 @@
+template<typename T, typename Function> bool none_of(vector<T> v, Function func) {return none_of(v.begin(), v.end(), func);}

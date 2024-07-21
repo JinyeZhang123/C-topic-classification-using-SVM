@@ -1,0 +1,1 @@
+template <typename T> inline void writep(T x){if(x>9)writep(x/10);putchar(x%10+48);}

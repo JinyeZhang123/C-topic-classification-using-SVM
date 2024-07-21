@@ -1,0 +1,1 @@
+  uint* const g_;

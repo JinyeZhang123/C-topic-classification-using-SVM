@@ -1,0 +1,1 @@
+    inicio = data[0];

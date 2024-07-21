@@ -1,0 +1,1 @@
+[&](){ ++point; if(runner & 0x01) ++point; if (runner & 0x02) ++point; if (runner & 0x04) ++point; runner = 0; }

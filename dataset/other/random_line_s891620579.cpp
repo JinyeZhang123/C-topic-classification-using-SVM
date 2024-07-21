@@ -1,0 +1,1 @@
+    cout << opt[len] << endl;

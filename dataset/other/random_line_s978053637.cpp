@@ -1,0 +1,1 @@
+      itr = str.erase(itr);

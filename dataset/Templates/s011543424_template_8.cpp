@@ -1,0 +1,1 @@
+template<typename ...T> void die(T ...tok) { write(tok...); exit(0); }

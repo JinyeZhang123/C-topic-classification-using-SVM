@@ -1,0 +1,1 @@
+template<class H,class...T>void bulk(H&h,T&...t){cin>>h;bulk(t...);}

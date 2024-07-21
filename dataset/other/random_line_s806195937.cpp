@@ -1,0 +1,1 @@
+		kakutei[point]=1;

@@ -1,0 +1,1 @@
+Vector2 operator-(Vector2 p) { return Vector2(x - 

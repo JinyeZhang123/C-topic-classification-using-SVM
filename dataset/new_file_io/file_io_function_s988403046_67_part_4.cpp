@@ -1,0 +1,5 @@
+);
+  //*/
+  int N;
+  cin >> N;
+  for(int i = 0; i 

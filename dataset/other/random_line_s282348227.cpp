@@ -1,0 +1,1 @@
+      cout << app[i] << endl;

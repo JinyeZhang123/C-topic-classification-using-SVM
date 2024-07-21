@@ -1,0 +1,1 @@
+	vector<Score> sc(T);

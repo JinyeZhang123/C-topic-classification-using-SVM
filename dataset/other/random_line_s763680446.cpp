@@ -1,0 +1,1 @@
+      printf("straight\n");

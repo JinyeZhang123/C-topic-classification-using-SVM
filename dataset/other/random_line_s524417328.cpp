@@ -1,0 +1,1 @@
+        left.insert(x + i);

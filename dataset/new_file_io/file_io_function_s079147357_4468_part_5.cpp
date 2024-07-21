@@ -1,0 +1,1 @@
+N) {ll A, B; cin >> A >> B; AB[i] = make_pair(A, B

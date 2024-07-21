@@ -1,0 +1,1 @@
+gf operator+(gf x) { return gf((n + x.n) % MOD); }

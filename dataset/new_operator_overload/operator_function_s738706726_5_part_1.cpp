@@ -1,0 +1,1 @@
+pt operator/(double t){return pt(x/t,y/t);}       

@@ -1,0 +1,1 @@
+void operator<<(ostream& os,const vector<T>& v) { 

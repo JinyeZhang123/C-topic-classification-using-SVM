@@ -1,0 +1,1 @@
+      tensuu=new_tensuu;

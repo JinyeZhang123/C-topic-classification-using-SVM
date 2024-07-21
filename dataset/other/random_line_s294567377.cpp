@@ -1,0 +1,1 @@
+        int prices[n];

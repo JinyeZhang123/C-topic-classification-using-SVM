@@ -1,0 +1,1 @@
+    visited[next] = 1;

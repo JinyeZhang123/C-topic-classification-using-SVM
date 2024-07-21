@@ -1,0 +1,1 @@
+int pblack[MAXN];

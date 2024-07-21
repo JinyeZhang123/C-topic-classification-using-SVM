@@ -1,0 +1,1 @@
+        else if (m == -1 || f == -1) cout << 'F' << endl;

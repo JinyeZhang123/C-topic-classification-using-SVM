@@ -1,0 +1,1 @@
+  each(next, adj[index]) {

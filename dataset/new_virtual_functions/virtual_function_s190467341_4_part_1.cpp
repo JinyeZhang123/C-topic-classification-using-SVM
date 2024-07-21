@@ -1,0 +1,1 @@
+virtual OM GetOperator(const OM& opl, const int n)

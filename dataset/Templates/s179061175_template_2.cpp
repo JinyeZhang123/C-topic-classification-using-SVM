@@ -1,0 +1,1 @@
+template <class T> string tos2(T x, unsigned int digit, const char fillBy) {stringstream s; s << setw(digit) << setfill(fillBy) << x; return s.str();}

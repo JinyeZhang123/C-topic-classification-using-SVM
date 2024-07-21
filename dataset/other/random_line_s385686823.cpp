@@ -1,0 +1,1 @@
+        Point start = pairs[i];

@@ -1,0 +1,1 @@
+            ty += point[j].y;

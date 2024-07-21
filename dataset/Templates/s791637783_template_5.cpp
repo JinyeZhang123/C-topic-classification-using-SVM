@@ -1,0 +1,1 @@
+template<class T>inline T emod(T a, T p) { return (a%p + p) % p;}

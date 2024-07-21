@@ -1,0 +1,1 @@
+template < typename T > inline string toString(const T &a)   { OSS oss; oss << a; return oss.str(); }

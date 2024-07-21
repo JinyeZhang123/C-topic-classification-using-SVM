@@ -1,0 +1,1 @@
+template<C T>void PR(T a,int n){rep(i,n){if(i)cout<<' ';cout<<a[i];}

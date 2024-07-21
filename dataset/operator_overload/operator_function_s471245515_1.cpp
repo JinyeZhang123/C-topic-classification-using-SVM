@@ -1,0 +1,1 @@
+T operator*(const pair<T, T> &a, const pair<T, T> &b) { return (a.x * b.x + a.y * b.y); }

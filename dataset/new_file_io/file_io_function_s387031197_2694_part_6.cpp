@@ -1,0 +1,3 @@
+in >> key;
+            insert(key);
+        }     

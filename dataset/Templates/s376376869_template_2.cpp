@@ -1,0 +1,1 @@
+template<typename Head,typename... Tail> void print0(Head head,Tail... tail){cout<<head;print0(tail...);}

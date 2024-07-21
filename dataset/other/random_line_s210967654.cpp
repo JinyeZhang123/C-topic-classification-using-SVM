@@ -1,0 +1,1 @@
+	LL numerator = fact[n];

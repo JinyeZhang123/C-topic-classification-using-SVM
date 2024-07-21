@@ -1,0 +1,1 @@
+	while(fat[z]!=z)

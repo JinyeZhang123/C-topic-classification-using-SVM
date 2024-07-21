@@ -1,0 +1,1 @@
+#ifdef USING_LONG_LONG

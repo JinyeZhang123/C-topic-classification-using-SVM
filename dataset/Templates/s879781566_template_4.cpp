@@ -1,0 +1,1 @@
+template<typename T> T& maxset(T& to, const T& val) { return to = max(to, val); }

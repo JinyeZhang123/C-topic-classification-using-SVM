@@ -1,0 +1,3 @@
+f",&num);
+		return *this;
+	}                      

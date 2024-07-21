@@ -1,0 +1,3 @@
+value+=MOD;
+		return value;
+	}                    

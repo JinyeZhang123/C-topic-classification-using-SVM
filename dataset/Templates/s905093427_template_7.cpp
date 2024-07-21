@@ -1,0 +1,1 @@
+template<class T> void writerVec(vector<T> x){int n=x.size();int i;if(!n){putchar('\n');return;}

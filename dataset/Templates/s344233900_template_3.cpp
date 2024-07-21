@@ -1,0 +1,1 @@
+template<typename Itr> RollingHash(Itr first, Itr last) : siz(distance(first, last)) { build(first, last); }

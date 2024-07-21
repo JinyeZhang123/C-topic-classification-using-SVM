@@ -1,0 +1,1 @@
+        sum += pw * ans;

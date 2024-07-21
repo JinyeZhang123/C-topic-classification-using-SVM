@@ -1,0 +1,1 @@
+template<class T> void chmin(T& x, T y){if(x > y) x = y;}

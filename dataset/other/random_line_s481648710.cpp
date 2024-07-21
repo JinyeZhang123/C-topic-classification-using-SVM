@@ -1,0 +1,1 @@
+#define ntest 0

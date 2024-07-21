@@ -1,0 +1,1 @@
+_Reader operator ,(T &rhs) { cin >> rhs; return *t

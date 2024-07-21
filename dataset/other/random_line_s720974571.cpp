@@ -1,0 +1,1 @@
+vector<pii>adj[N];

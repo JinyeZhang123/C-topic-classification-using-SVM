@@ -1,0 +1,1 @@
+							posAn = posAn % mod;

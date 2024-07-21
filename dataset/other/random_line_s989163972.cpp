@@ -1,0 +1,1 @@
+        column.at(j) = true;

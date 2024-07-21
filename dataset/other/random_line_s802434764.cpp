@@ -1,0 +1,1 @@
+    while(suf[++p] != c);

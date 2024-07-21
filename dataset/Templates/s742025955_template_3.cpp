@@ -1,0 +1,1 @@
+template<class T,class U>inline const bool chmin(T& a,const U& b){if(a>b){a=b;return 1;}

@@ -1,0 +1,1 @@
+   if(find(out.begin(), out.end(), x) == out.end()

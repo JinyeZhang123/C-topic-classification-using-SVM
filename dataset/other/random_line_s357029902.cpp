@@ -1,0 +1,1 @@
+    cin >> table.at(i);

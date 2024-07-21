@@ -1,0 +1,1 @@
+		bunbo=(bunbo*bunbo)%mod;

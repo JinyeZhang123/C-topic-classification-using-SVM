@@ -1,0 +1,1 @@
+  print(isok?"AC":"WA");

@@ -1,0 +1,1 @@
+    vector<P> magic(n);

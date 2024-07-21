@@ -1,0 +1,1 @@
+         << duration.count() << " microseconds" << endl;

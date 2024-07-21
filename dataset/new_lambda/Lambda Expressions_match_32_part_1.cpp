@@ -1,0 +1,1 @@
+[](Point a, Point b){ return (myarg(a) < myarg(b))

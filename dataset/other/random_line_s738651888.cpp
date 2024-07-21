@@ -1,0 +1,1 @@
+		bool kuri = 0;

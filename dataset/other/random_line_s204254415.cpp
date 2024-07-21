@@ -1,0 +1,1 @@
+ll calc(string s){

@@ -1,0 +1,1 @@
+template<C T>void pr1(T a){cout<<a;ln;}

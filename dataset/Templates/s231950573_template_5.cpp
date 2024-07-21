@@ -1,0 +1,1 @@
+template<class T, class... Ts>auto multi_vector(size_t a, Ts... ts){return vector<decltype(multi_vector<T>(ts...))>(a, multi_vector<T>(ts...));}

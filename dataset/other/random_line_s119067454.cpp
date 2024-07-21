@@ -1,0 +1,1 @@
+				cout << time[p - 1][q - 1] << endl;

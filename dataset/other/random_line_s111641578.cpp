@@ -1,0 +1,1 @@
+    int size = SYURUI.size();

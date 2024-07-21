@@ -1,0 +1,1 @@
+const lli INF = 0xFFFFFFFFFFFFFFFL;

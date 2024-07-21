@@ -1,0 +1,1 @@
+typedef list<int> L;

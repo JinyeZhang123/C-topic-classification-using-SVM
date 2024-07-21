@@ -1,0 +1,1 @@
+        answer=ans%7;

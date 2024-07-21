@@ -1,0 +1,1 @@
+                max_counter = counter;

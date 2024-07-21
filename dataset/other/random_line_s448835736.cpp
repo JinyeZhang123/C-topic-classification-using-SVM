@@ -1,0 +1,1 @@
+      res *= x; res %= MOD;

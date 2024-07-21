@@ -1,0 +1,1 @@
+    //fout << a+b << endl;

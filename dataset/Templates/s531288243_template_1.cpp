@@ -1,0 +1,1 @@
+template <typename T> void add(T& a, T b){a+=b;while(a>=mod)a-=mod;while(a<0)a+=mod;}

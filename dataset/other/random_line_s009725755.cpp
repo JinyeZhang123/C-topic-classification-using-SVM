@@ -1,0 +1,1 @@
+    bool build(int s) {

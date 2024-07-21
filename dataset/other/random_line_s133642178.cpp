@@ -1,0 +1,1 @@
+        int remain = x - a;

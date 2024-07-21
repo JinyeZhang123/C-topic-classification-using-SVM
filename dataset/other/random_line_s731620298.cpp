@@ -1,0 +1,1 @@
+			cout << aans << " "<< bans << endl;	

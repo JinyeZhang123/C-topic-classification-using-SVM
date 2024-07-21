@@ -1,0 +1,1 @@
+  seg[n + index] += x;

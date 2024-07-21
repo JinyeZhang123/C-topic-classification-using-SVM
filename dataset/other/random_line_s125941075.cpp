@@ -1,0 +1,1 @@
+	cerr.precision(6);

@@ -1,0 +1,1 @@
+n) >= MOD ? a.n - MOD : a.n; }                    

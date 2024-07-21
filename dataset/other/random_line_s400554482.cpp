@@ -1,0 +1,1 @@
+        isEnd[now]=true;

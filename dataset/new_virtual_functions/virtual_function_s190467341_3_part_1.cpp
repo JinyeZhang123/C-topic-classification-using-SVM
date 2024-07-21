@@ -1,0 +1,1 @@
+virtual VM Operate(const VM& val, const OM& opl)=0

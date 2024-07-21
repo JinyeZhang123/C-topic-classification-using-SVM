@@ -1,0 +1,1 @@
+template<typename T,typename...A>void ashow(T t,A...a){cout<<t<<" ";ashow(a...);}

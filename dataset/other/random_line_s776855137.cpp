@@ -1,0 +1,1 @@
+string beautify(string str) {

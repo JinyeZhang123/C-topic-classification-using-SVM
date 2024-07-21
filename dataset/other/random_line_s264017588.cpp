@@ -1,0 +1,1 @@
+	paint(x);paint(y);

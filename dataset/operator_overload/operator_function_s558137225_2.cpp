@@ -1,0 +1,1 @@
+pdd operator-(pdd a, pdd b) { return mp(a.fs-b.fs, a.sc-b.sc); }

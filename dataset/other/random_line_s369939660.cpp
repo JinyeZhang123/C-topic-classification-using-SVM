@@ -1,0 +1,1 @@
+  dice[l]=dice[k];

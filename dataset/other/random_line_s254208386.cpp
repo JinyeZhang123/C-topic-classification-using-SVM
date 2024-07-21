@@ -1,0 +1,1 @@
+using namespace std;main(){int a[10],n,i,sum;cin>>n;for(i=0;i<n;i++){cin>>a[i];if(i){sum=sum*a[i]/__gcd(sum,a[i]);}else{sum=a[i];}}cout<<sum<<endl;}

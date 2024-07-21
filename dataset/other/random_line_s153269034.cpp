@@ -1,0 +1,1 @@
+#define Flush fflush(stdout)

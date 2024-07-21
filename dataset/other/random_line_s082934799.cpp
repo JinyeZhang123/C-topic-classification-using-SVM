@@ -1,0 +1,1 @@
+                prm[i*j] = false;

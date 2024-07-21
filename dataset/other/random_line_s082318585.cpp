@@ -1,0 +1,1 @@
+        now = light.at(now);

@@ -1,0 +1,1 @@
+    cout<<N/a<<endl;

@@ -1,0 +1,1 @@
+	g.assign(n,vi());

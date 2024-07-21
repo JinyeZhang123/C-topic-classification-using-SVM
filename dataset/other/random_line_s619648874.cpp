@@ -1,0 +1,1 @@
+void deleteNode(Node *t){

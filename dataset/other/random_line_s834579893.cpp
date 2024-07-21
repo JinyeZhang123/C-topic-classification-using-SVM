@@ -1,0 +1,1 @@
+#define yes puts("YES")

@@ -1,0 +1,1 @@
+			ans+=e[i].first;

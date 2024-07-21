@@ -1,0 +1,1 @@
+      (lcm *= e.first) %= MOD;

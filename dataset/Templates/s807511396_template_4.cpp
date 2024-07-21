@@ -1,0 +1,1 @@
+template<class T> inline bool amin(T &x, T y) { if (x <= y) return 0; x = y; return 1; }

@@ -1,0 +1,1 @@
+virtual ll fp(ll m,ll n)=0;                       

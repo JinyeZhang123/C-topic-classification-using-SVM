@@ -1,0 +1,1 @@
+	if (!ls[a]) return ;

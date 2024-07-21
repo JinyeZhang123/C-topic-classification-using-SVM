@@ -1,0 +1,1 @@
+    if(money>=x)break;

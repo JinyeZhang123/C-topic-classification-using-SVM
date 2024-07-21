@@ -1,0 +1,1 @@
+void in(){} template <typename T,class... U> void in(T &t,U &...u){ cin >> t; in(u...);}

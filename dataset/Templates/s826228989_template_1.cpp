@@ -1,0 +1,1 @@
+template<class T> inline string toStr(T a) { ostringstream oss; oss << a; return oss.str(); }

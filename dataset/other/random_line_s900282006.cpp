@@ -1,0 +1,1 @@
+    return numerator * denominator % mod;

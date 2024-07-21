@@ -1,0 +1,1 @@
+        num.resize(sz);

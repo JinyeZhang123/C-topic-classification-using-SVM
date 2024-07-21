@@ -1,0 +1,1 @@
+T operator[](int i) { return push(i += size), tree

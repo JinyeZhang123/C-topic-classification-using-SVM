@@ -1,0 +1,1 @@
+    mod_num[minus]--;

@@ -1,0 +1,1 @@
+    p = nearbyint(sum/n);

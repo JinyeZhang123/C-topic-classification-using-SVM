@@ -1,0 +1,1 @@
+template<class y,class z> z expo(ll b,y e,z m){ll a=1;b%=m;while(e!=0){if((e&1)==1){a=a*b;a=a%m;}

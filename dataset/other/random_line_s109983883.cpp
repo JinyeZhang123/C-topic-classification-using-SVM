@@ -1,0 +1,1 @@
+  cout << good.size() << "\n";

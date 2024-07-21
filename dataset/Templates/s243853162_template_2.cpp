@@ -1,0 +1,1 @@
+template<class T> void DEBUG(string str, T e){std::cout <<str << ">>" << e << std::endl;}

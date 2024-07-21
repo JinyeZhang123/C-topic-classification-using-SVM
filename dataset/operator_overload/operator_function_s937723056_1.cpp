@@ -1,0 +1,1 @@
+bool operator<(const node&u,const node&v){return u.z<v.z;}

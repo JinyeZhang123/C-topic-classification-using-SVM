@@ -1,0 +1,1 @@
+using namespace std;int64_t g,N,i,c,b,n[1<<20],d[1<<20],p[1<<20];main(){for(cin>>N;i<N;)cin>>c>>b,c+=1e9,p[i++]=(c<<32)+c+b;for(sort(p,p+N);c=i--;g=d[i]=(g+d[n[i]=c]+1)%998244353)for(;c<N&p[c]<p[i]<<32;c=n[c]);cout<<g+1;}

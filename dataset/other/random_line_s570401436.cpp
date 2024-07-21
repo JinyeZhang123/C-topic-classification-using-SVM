@@ -1,0 +1,1 @@
+    int alphabet[26] = {};

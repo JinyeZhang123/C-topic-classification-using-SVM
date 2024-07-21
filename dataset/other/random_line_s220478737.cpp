@@ -1,0 +1,1 @@
+long func(long x){

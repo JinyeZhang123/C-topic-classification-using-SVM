@@ -1,0 +1,1 @@
+		ans+=bit.query(pos);

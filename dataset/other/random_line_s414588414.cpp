@@ -1,0 +1,1 @@
+int n,m[3];main(){for(scanf("%d",&n);n-->0;)scanf("%d",m+n);for(n++;n++<*m;)*m%n+m[1]%n+m[2]%n||printf("%d\n",n);}

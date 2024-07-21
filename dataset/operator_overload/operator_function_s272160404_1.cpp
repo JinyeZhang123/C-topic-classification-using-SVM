@@ -1,0 +1,1 @@
+long operator*(Point o) { return abs(x_ - o.x_) + abs(y_ - o.y_); }

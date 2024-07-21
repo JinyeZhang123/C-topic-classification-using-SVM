@@ -1,0 +1,1 @@
+[](double& x) -> void { if(abs(x)< EPS){ x=0.0; }

@@ -1,0 +1,1 @@
+parent = treeNodes[i].left = treeNodes[i].right = 

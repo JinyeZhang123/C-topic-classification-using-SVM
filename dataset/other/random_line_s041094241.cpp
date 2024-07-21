@@ -1,0 +1,1 @@
+	double h = 2 * S / a;

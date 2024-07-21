@@ -1,0 +1,1 @@
+      matrix[i][n] = sum; 

@@ -1,0 +1,1 @@
+bool operator==(Edge a,Edge b) {return a.first==b.

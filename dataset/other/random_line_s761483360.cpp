@@ -1,0 +1,1 @@
+    nprint(move(tail)...);

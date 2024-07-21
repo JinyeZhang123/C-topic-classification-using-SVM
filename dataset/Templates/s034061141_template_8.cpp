@@ -1,0 +1,1 @@
+template<typename T> string join(vector<T>& vec, string sep=" ") { stringstream ss; for(int i = 0; i < (int)vec.size(); i++) { ss << vec[i] << (i + 1 == (int)vec.size() ? "\n" : sep); }

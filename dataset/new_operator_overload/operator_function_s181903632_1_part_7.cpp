@@ -1,0 +1,1 @@
+nd)-1)%base)*((topow(y.first)-1)%base)%base)%base;

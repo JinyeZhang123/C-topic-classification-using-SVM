@@ -1,0 +1,1 @@
+		else Pofhanako += 3;

@@ -1,0 +1,1 @@
+void P(){cerr<<endl;} 

@@ -1,0 +1,1 @@
+        keta = keta*keta % d;

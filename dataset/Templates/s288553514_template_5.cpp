@@ -1,0 +1,1 @@
+template<class T1, class T2> long long bcount(T1 v, T2 a){return upper_index(v, a) - lower_index(v, a);}

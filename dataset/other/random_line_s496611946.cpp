@@ -1,0 +1,1 @@
+#ifndef _GLIBCXX_NO_ASSERT

@@ -1,0 +1,2 @@
+nt = num;
+        this->lank =

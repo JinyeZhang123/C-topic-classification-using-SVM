@@ -1,0 +1,1 @@
+ maxn - 1) ifact[i] = ifact[i + 1] * (i + 1) % MOD

@@ -1,0 +1,1 @@
+template<class itr> void cins(itr first, itr last){ for(auto i = first; i != last; i++){ cin >> (*i); }

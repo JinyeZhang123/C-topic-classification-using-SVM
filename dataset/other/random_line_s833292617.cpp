@@ -1,0 +1,1 @@
+int main(){int a,b,c,d,p;scanf("%d%d%d%d%d",&a,&b,&c,&d,&p);printf("%d\n",a*p<b+(p-c)*(c<p?d:0)?a*p:b+(p-c)*(c<p?d:0));}

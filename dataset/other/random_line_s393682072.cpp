@@ -1,0 +1,1 @@
+		tmp *= i, tmp %= MOD;

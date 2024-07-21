@@ -1,0 +1,1 @@
+bool operator!=(my_iterator& r){return it!=r.it;} 

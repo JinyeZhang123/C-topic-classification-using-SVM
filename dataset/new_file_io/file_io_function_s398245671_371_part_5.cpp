@@ -1,0 +1,1 @@
+me_side(x2,y2,x3,y3,xp,yp,x1,y1) && same_side(x3,y

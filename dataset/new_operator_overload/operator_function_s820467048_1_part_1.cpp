@@ -1,0 +1,1 @@
+bool operator<( const CAKE& left, const CAKE& righ

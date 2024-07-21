@@ -1,0 +1,1 @@
+template<typename T,typename U>inline bool chmax(T&x,U a){if(x>=a)return 0;x=a;return 1;}

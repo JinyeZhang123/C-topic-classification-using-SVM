@@ -1,0 +1,1 @@
+template<class T> ostream& operator<< (ostream& o, const set<T> &v){o << "{";for(auto e : v) o << e << ", ";return o << "}

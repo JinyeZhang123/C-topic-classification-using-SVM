@@ -1,0 +1,1 @@
+template<class T, class U> void chmin(T &x, const U &y){ x = min<T>(x, y); }

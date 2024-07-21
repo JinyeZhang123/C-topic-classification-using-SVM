@@ -1,0 +1,1 @@
+#define vvl vector<vl>

@@ -1,0 +1,1 @@
+T operator[](int k){return btree[k+n-1];}

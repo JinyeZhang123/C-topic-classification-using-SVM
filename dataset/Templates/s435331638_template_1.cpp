@@ -1,0 +1,1 @@
+template <typename T> void maxUpdate(T& a, T b){a = max(a,b);}

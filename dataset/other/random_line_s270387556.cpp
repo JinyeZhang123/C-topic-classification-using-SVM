@@ -1,0 +1,1 @@
+  int ssize = S.size();

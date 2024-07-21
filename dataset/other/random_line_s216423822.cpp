@@ -1,0 +1,1 @@
+	    maxNodes[i] = 0;

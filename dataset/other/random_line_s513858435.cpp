@@ -1,0 +1,1 @@
+	if (gets(line)) {

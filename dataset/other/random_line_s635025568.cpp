@@ -1,0 +1,1 @@
+void br() { putchar('\n'); }

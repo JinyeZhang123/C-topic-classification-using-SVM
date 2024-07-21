@@ -1,0 +1,1 @@
+#define sp cout<<" ";

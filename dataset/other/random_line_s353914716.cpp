@@ -1,0 +1,1 @@
+                mx = mx^basis[i];

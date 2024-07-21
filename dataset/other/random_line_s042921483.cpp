@@ -1,0 +1,1 @@
+			p[id]+=price*num;

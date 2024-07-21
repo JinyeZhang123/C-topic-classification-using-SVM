@@ -1,0 +1,2 @@
+template <typename Arg1, typename... Args>
+void printall(const char* names,Arg1&& arg1,Args&&... args){const char* comma=strchr(names,',');cerr.write(names,comma-names)<<" : " <<arg1<<" | ";printall(comma+1,args...);}

@@ -1,0 +1,1 @@
+		num.echo_lcm();

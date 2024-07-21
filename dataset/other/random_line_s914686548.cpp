@@ -1,0 +1,1 @@
+int keta(ll x){

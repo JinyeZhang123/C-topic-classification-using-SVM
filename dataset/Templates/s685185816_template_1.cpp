@@ -1,0 +1,1 @@
+template <class X> void print(X Target){ cout << Target << '\n'; }

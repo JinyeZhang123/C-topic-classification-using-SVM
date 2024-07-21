@@ -1,0 +1,1 @@
+        if(md > d) {md = d; cnt = j+1;}           

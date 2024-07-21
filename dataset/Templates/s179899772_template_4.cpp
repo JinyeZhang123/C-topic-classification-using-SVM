@@ -1,0 +1,1 @@
+template<class T,size_t N> constexpr int size(const T (&xs)[N])noexcept{return (int)N;}

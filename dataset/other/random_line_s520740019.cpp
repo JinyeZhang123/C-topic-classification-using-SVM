@@ -1,0 +1,1 @@
+    child.resize(n);

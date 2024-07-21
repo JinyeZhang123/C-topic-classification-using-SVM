@@ -1,0 +1,1 @@
+	getchar_unlocked();

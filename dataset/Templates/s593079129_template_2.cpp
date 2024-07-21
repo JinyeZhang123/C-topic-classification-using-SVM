@@ -1,0 +1,1 @@
+template<class A,class B>void pr(A a,B b){cout << a << " "  ;pr(b);}

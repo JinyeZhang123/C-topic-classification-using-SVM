@@ -1,0 +1,1 @@
+vec2 operator-(vec2 x,vec2 y){ return vec2(x.x-y.x

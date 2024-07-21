@@ -1,0 +1,1 @@
+ pA, N)) % MOD * inverse((1 - pC + MOD) % MOD) % M

@@ -1,0 +1,1 @@
+int operator[](size_t i){return v[i];}            

@@ -1,0 +1,1 @@
+				cout.width(5);

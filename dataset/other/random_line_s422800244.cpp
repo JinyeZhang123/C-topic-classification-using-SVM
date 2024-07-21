@@ -1,0 +1,1 @@
+#define rn return

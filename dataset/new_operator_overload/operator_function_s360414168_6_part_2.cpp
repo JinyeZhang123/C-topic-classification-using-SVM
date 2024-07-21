@@ -1,0 +1,1 @@
+ { b.first / c,b.second/c }                       

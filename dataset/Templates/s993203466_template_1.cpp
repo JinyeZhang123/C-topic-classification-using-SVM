@@ -1,0 +1,1 @@
+template<class T> void pr(const complex<T>& x) { cout << x; }

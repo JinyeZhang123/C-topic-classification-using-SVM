@@ -1,0 +1,1 @@
+ = 0; rep(i, N) {if(ctoi(X[i])) pcX++;}           

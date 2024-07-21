@@ -1,0 +1,1 @@
+       return sum[find(x)];

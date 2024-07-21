@@ -1,0 +1,1 @@
+template<typename T = int> T in(T &&x) { T z(forward<T>(x)); cin >> z; return z; }

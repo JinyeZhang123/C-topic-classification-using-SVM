@@ -1,0 +1,1 @@
+unsigned GetDigit(unsigned num){

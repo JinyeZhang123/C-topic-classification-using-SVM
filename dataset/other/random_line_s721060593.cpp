@@ -1,0 +1,1 @@
+                else             cout << s[j]; 

@@ -1,0 +1,24 @@
+template<typename Monoid, typename OperatorMonoid=Monoid>
+struct LazySegmentTree{
+    // Monoid: 要素  OperatorMonoid: 作用素
+    // 各マージ関数
+    using F=function<Monoid(Monoid,Monoid)>;
+    using G=function<Monoid(Monoid,OperatorMonoid)>;
+    using H=function<OperatorMonoid(OperatorMonoid,OperatorMonoid)>;
+ 
+    int sz,height;
+    vector<Monoid> data;
+    vector<OperatorMonoid> lazy;
+    const F f;
+    const G g;
+    const H h;
+    // 単位元
+    const Monoid M1;
+    const OperatorMonoid OM0;
+ 
+    LazySegmentTree(int n,const F f,const G g,const H h,const Monoid &M1,const OperatorMonoid OM0)
+    : f(f),g(g),h(h),M1(M1),OM0(OM0) {
+        sz=1;height=0;
+        while(sz<n) sz<<=1,height++;
+        data.assign(2*sz,M1);lazy.assign(2*sz,OM0);
+    }

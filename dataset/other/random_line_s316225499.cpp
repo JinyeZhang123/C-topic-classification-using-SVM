@@ -1,0 +1,1 @@
+        nodes[left].parent  = id;

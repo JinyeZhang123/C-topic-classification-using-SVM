@@ -1,0 +1,1 @@
+#define ouct cout

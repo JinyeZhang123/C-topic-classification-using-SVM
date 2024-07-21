@@ -1,0 +1,1 @@
+Mod operator*=(Mod &a, Mod b) { a.n = (a.n * b.n) 

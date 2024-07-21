@@ -1,0 +1,1 @@
+template <typename X, typename T> auto vectors(X x, T a) { return vector<T>(x, a); }

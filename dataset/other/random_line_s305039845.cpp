@@ -1,0 +1,1 @@
+    count = dq.front().second;

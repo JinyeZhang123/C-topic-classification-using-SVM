@@ -1,0 +1,1 @@
+    const Monoid M1;

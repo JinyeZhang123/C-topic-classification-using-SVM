@@ -1,0 +1,1 @@
+	vector<ull> a(n);

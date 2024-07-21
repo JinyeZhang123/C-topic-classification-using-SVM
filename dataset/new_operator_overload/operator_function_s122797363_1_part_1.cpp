@@ -1,0 +1,1 @@
+int operator [](cs u){return head[u];}            

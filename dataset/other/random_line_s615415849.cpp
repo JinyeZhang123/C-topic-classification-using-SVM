@@ -1,0 +1,1 @@
+        res += digit * X[i];

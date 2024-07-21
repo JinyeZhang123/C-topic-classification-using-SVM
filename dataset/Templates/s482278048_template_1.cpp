@@ -1,0 +1,1 @@
+template<class T> int popcount(T n){int cnt=0;while(n){if(n%2)cnt++;n/=2;}

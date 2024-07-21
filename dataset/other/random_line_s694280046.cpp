@@ -1,0 +1,1 @@
+    int sn = sqrt(n);

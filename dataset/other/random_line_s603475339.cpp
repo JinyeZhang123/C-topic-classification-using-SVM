@@ -1,0 +1,1 @@
+            DecideCol(now + 1);

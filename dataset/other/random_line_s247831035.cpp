@@ -1,0 +1,1 @@
+	char contest[3];

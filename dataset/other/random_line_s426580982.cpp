@@ -1,0 +1,1 @@
+	cout << maxn*maxn << endl;

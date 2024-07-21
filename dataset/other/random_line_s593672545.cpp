@@ -1,0 +1,1 @@
+	int cost,point,rank;

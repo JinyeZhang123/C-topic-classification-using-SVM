@@ -1,0 +1,1 @@
+// operator << (cout,a);

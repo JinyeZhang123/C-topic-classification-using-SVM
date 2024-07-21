@@ -1,0 +1,1 @@
+template<typename T> int max_element(vector<T>& v) {return max_element(v.begin(), v.end()) - v.begin();}

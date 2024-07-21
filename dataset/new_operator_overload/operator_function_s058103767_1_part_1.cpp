@@ -1,0 +1,1 @@
+bool operator<(S a){return hen<a.hen;}            

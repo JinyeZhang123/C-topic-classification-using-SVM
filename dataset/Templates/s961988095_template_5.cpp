@@ -1,0 +1,1 @@
+template<class S>S min(vector<S>&a){return *min_element(all(a));}

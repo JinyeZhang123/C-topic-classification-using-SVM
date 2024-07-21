@@ -1,0 +1,1 @@
+  cout<<ans<<" "<<penalty<<endl;

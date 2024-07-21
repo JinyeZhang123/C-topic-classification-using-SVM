@@ -1,0 +1,2 @@
+lag ? "YES" : "NO") << endl;
+	}                   

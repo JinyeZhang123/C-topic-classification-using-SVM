@@ -1,0 +1,1 @@
+#define bv vector<bool>

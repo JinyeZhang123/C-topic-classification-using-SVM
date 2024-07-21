@@ -1,0 +1,1 @@
+		sort(ansArray , ansArray + SIZE);

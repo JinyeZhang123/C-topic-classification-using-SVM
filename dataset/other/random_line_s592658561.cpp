@@ -1,0 +1,1 @@
+template<class T>ld deg2rad(T deg) { return M_PI * deg / 180.0; }

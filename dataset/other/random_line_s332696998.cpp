@@ -1,0 +1,1 @@
+    vis[a[i]] = true;

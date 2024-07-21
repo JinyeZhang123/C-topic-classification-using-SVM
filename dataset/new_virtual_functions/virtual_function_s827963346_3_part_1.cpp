@@ -1,0 +1,1 @@
+virtual void Merge(vector<char>& out, const vector

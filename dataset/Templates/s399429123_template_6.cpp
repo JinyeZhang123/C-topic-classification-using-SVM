@@ -1,0 +1,1 @@
+template<typename T> T make_v(T val){ return val; }

@@ -1,0 +1,1 @@
+    cout << fa << ' ' << u << endl;

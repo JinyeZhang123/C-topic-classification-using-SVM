@@ -1,0 +1,1 @@
+using sint = stack<int>;

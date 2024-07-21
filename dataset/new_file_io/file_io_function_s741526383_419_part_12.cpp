@@ -1,0 +1,1 @@
+	nodes[previousChildNode].rightSibling = childNode

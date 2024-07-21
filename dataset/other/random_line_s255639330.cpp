@@ -1,0 +1,1 @@
+  while (minVal != 0) {

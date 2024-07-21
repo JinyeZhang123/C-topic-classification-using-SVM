@@ -1,0 +1,1 @@
+template<typename T> std::istream &operator>>(std::istream &is, std::vector<T> &v) { rep(i,v.size()) is >> v[i]; return is; }

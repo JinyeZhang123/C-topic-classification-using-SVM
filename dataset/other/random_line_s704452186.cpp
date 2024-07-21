@@ -1,0 +1,1 @@
+		cin>>from>>com>>to;

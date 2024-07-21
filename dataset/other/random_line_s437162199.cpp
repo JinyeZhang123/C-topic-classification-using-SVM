@@ -1,0 +1,1 @@
+  cout << (int)y << endl;

@@ -1,0 +1,1 @@
+  else cout << "red" << endl;

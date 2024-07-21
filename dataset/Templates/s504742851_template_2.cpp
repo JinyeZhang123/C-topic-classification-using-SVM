@@ -1,0 +1,1 @@
+template<typename T, typename U> T &ctmin(T &x, const U &y){ return x = min<T>(x, y); }

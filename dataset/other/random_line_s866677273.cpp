@@ -1,0 +1,1 @@
+    sstr+=char(i+'a');

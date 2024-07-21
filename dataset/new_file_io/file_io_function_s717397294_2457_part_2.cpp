@@ -1,0 +1,1 @@
+rgc == 1) ? std::ifstream() : std::ifstream(argv[1

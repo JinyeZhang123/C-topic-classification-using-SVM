@@ -1,0 +1,1 @@
+ll isprime(ll n)

@@ -1,0 +1,1 @@
+    numR -= match;

@@ -1,0 +1,1 @@
+    pre_dfs(root);

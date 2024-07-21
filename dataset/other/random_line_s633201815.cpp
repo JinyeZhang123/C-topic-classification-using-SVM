@@ -1,0 +1,1 @@
+	if(tama[i]>left){

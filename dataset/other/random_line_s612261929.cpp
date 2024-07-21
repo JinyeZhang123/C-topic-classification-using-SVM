@@ -1,0 +1,1 @@
+main(){float L,A,B,C,D;std::cin>>L>>A>>B>>C>>D;std::cout<<(int)(L-std::max(A/C,B/D))<<"\n";}

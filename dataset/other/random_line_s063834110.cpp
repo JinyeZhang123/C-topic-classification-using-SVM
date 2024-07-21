@@ -1,0 +1,1 @@
+    kouten=kouten%3;

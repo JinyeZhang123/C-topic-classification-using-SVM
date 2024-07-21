@@ -1,0 +1,1 @@
+    if (ibitcount < K) continue;

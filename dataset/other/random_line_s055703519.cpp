@@ -1,0 +1,1 @@
+    nm=qn.front();

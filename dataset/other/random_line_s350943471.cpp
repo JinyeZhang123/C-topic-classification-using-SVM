@@ -1,0 +1,1 @@
+	stones(A,N,K);

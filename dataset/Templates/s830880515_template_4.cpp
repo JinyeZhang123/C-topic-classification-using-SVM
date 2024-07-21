@@ -1,0 +1,1 @@
+template<class T>inline int popcount(T a) {return __builtin_popcountll(a);}

@@ -1,0 +1,1 @@
+	max = atoi(mozi);

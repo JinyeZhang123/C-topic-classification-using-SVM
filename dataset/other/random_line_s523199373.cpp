@@ -1,0 +1,1 @@
+  #define cerrendl 42

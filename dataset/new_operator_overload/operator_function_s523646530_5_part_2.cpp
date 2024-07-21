@@ -1,0 +1,1 @@
+return { lhs.x * k, lhs.y * k }                   

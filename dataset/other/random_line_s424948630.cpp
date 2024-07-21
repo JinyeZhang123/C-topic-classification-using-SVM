@@ -1,0 +1,1 @@
+    vector<bool> S(N);

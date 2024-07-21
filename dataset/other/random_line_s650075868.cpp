@@ -1,0 +1,1 @@
+    int n, numofpush, light;

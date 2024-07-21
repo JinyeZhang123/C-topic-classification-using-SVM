@@ -1,0 +1,1 @@
+P operator+(P p) { return P(x + p.x, y + p.y, 0); 

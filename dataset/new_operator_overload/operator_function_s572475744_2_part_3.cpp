@@ -1,0 +1,3 @@
+   num--;
+    return ans;
+  }                     

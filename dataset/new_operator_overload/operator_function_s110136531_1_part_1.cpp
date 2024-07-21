@@ -1,0 +1,1 @@
+P operator-(P l,P r){P a={l.x-r.x,l.y-r.y}        

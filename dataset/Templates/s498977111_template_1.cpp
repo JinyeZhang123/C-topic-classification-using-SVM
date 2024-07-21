@@ -1,0 +1,1 @@
+template <class T> inline bool chmin(T &x, const T &y) {if (x > y) {x = y; return 1;}

@@ -1,0 +1,1 @@
+        norm += diff * diff;

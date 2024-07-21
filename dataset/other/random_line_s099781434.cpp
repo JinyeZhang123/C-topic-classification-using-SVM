@@ -1,0 +1,1 @@
+	LA = strlen(A);

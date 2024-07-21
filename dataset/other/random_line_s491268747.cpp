@@ -1,0 +1,1 @@
+                        can &= cnt == q.cnt;

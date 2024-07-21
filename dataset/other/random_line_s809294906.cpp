@@ -1,0 +1,1 @@
+	int lenb=b.length();

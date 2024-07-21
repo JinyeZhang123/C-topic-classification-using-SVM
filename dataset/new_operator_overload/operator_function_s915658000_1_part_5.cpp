@@ -1,0 +1,3 @@
+other.bottom) {
+      return true;
+    }          

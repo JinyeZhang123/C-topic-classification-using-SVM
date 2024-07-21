@@ -1,0 +1,1 @@
+	dice X = Enter(X);

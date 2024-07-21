@@ -1,0 +1,1 @@
+#define vbool           vector<bool>

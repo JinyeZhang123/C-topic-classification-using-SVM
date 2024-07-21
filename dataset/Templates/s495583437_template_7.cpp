@@ -1,0 +1,1 @@
+template<typename T> inline T CHMAX(T& a, const T b) { return a = (a < b) ? b : a; }

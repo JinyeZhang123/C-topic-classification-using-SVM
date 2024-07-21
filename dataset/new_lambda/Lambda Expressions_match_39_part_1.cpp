@@ -1,0 +1,1 @@
+[](const std::string& buff, const int offset)->int

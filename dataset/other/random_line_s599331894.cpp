@@ -1,0 +1,1 @@
+		posttraverse(p->Left);

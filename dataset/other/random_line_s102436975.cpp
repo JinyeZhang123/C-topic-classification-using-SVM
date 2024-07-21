@@ -1,0 +1,1 @@
+        pb.second += b[j];

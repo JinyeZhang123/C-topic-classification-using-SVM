@@ -1,0 +1,1 @@
+	int hasil = 0;

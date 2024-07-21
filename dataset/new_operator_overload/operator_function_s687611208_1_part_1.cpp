@@ -1,0 +1,1 @@
+T operator+(const T& t) { return T(min(v, t.v)); }

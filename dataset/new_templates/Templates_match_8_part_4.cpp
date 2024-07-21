@@ -1,0 +1,1 @@
+=T()):a(ax,ay),b(bx,by),c(cx,cy){}                

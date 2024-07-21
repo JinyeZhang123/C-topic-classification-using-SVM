@@ -1,0 +1,1 @@
+    vector<long> R(N);

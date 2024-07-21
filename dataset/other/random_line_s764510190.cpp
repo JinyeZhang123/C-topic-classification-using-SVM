@@ -1,0 +1,1 @@
+			//OUT str[i] E

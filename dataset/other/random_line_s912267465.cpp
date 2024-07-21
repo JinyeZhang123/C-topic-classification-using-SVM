@@ -1,0 +1,1 @@
+      cout << B << endl;

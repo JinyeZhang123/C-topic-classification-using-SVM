@@ -1,0 +1,1 @@
+#define lin printf("\n")

@@ -1,0 +1,1 @@
+	if(!matrix[x][y]){

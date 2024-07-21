@@ -1,0 +1,1 @@
+        auto x = rd[xi];

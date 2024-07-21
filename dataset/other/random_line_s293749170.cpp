@@ -1,0 +1,1 @@
+    while(!sta.empty()){

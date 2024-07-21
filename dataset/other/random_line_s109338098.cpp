@@ -1,0 +1,1 @@
+            que[x].ans+=res;

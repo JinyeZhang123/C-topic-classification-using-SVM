@@ -1,0 +1,1 @@
+	sosu[j] = true;

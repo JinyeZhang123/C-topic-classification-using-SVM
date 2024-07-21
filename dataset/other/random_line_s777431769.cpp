@@ -1,0 +1,1 @@
+        Bob += vec.at(i);

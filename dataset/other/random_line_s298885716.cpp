@@ -1,0 +1,1 @@
+   cout<<kozeni<<"\n";

@@ -1,0 +1,1 @@
+        else fin[x]='B';

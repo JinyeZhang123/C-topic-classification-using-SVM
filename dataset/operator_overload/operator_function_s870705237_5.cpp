@@ -1,0 +1,1 @@
+void operator-=(const int_m &y) { *this = *this - y; }

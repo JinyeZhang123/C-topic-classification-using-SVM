@@ -1,0 +1,1 @@
+#ifdef _MSC_VER

@@ -1,0 +1,1 @@
+const int MAXN=505,MAXM=100005;

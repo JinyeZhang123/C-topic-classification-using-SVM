@@ -1,0 +1,1 @@
+gf operator*(gf x) { return gf((1LL * n * x.n) % M

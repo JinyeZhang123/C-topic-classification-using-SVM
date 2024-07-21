@@ -1,0 +1,1 @@
+	InputCards(Count,Cards);

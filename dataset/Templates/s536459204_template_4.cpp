@@ -1,0 +1,1 @@
+template<class T>auto MIN(const T& a) { return *min_element(a.begin(),a.end()); }

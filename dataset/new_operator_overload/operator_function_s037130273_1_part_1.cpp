@@ -1,0 +1,1 @@
+bool operator<( const t_piece &l, const t_piece &r

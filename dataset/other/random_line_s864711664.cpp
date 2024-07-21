@@ -1,0 +1,1 @@
+    double tmp = i;

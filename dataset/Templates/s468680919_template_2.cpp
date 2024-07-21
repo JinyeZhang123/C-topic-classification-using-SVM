@@ -1,0 +1,1 @@
+template <typename... T> _OUTL(T... t){out(t...);outl();}

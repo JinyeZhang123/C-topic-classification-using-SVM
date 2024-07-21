@@ -1,0 +1,1 @@
+    RangeAddorUpdateQuery segtree(n);

@@ -1,0 +1,1 @@
+		temp = scanf("%d", &in);

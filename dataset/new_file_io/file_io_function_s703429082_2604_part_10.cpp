@@ -1,0 +1,4 @@
+tmp]++;
+
+        last = tmp.back();
+    }         

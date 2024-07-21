@@ -1,0 +1,1 @@
+  cout << *min_element(c, c + 3);}

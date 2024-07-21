@@ -1,0 +1,1 @@
+vector<PII> x[N];

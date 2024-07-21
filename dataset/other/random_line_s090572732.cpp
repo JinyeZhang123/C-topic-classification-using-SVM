@@ -1,0 +1,1 @@
+	stk.resize(n + sz);

@@ -1,0 +1,1 @@
+            if (wDel[j] == true)

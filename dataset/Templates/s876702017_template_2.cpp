@@ -1,0 +1,1 @@
+template<typename T> void chmin(T& a, T b) { a = std::min(a, b); }

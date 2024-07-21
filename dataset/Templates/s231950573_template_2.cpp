@@ -1,0 +1,1 @@
+template<typename T> struct UnionFind{vector<T> par;UnionFind(T n) : par(n, -1){}

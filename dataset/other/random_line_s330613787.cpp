@@ -1,0 +1,1 @@
+#define string_mod 2549536629329_base_255

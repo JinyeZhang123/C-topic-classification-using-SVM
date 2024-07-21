@@ -1,0 +1,1 @@
+template <typename T> operator T () const { T a; std::cin >> a; return a; }

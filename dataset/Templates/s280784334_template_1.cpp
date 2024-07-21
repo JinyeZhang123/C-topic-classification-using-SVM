@@ -1,0 +1,1 @@
+template<typename F,typename... R>inline void IN(F& f, R&... r){cin>>f;IN(r...);}

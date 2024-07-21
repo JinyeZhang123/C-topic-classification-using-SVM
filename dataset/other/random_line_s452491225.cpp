@@ -1,0 +1,1 @@
+		while (node->left != NULL)

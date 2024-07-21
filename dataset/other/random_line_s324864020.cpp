@@ -1,0 +1,1 @@
+	while (!Check(ans))	ans++;

@@ -1,0 +1,1 @@
+                dist[nv]=dist[v];

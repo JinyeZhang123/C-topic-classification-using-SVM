@@ -1,0 +1,1 @@
+template<typename T> int kinds(const vector<T>& v) {return set<T>(v.begin(), v.end()).size();}

@@ -1,0 +1,1 @@
+  Sieve s(sqrt(n));

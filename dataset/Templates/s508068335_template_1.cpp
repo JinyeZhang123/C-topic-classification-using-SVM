@@ -1,0 +1,1 @@
+template<class T> void assign(V<T>& v, int n, const T& a = T()) { v.assign(n, a); }

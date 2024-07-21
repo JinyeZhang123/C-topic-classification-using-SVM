@@ -1,0 +1,1 @@
+      nmax=max(nmax,s);

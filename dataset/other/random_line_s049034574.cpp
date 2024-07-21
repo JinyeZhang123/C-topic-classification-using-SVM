@@ -1,0 +1,1 @@
+string field[12];

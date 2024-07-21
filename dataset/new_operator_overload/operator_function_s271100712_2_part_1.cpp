@@ -1,0 +1,1 @@
+vec operator-(const vec& a, const vec& b) { return

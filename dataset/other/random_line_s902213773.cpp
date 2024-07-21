@@ -1,0 +1,1 @@
+				cout<<maizu[i][j];

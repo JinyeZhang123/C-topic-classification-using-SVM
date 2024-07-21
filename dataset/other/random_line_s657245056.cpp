@@ -1,0 +1,1 @@
+int term(State &);

@@ -1,0 +1,1 @@
+      cout << char('a' + i);

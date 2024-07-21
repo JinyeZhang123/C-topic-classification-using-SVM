@@ -1,0 +1,1 @@
+        ans += anibu*cnibu;

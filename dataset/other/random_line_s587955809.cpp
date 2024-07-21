@@ -1,0 +1,1 @@
+    cout << imin << endl;

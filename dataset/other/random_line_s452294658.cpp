@@ -1,0 +1,1 @@
+    LasySegmentTree(vector<ll> v) {

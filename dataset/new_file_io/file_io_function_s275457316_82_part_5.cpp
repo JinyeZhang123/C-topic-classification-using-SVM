@@ -1,0 +1,1 @@
+/ kokud : koku / kokud + 1, koku % kokud == 0 ? su

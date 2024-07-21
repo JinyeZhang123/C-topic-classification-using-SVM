@@ -1,0 +1,1 @@
+            rmaxindex.resize(0);

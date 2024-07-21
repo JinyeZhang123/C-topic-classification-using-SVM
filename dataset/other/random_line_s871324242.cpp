@@ -1,0 +1,1 @@
+    temp = mul(temp,temp);

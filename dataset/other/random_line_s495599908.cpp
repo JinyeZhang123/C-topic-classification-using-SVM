@@ -1,0 +1,1 @@
+#define GLIBCXX_DEBUG_PEDANTIC

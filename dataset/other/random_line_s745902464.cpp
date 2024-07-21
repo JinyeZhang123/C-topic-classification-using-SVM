@@ -1,0 +1,1 @@
+    int ta = binary(a);

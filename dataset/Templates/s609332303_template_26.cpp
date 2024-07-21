@@ -1,0 +1,1 @@
+template<typename T, typename Function> bool all_of(vector<T> v, Function func) {return all_of(v.begin(), v.end(), func);}

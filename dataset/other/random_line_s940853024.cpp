@@ -1,0 +1,1 @@
+                << showpoint << p.y << endl;

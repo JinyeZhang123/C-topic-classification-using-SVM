@@ -1,0 +1,1 @@
+    cout << K - max << endl;

@@ -1,0 +1,1 @@
+	bool table[ LIMIT ] = { false };

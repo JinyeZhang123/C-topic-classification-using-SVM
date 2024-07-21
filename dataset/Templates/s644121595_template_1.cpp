@@ -1,0 +1,1 @@
+template<class T>T Sort(T& a) { sort(a.begin(), a.end()); return a; }

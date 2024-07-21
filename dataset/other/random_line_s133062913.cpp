@@ -1,0 +1,1 @@
+    auto dd=d[k];

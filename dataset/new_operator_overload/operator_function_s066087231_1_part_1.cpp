@@ -1,0 +1,1 @@
+mint operator+(const mint& o){return o.i+i;}      

@@ -1,0 +1,1 @@
+	char mat[h][w];

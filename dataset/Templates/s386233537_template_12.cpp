@@ -1,0 +1,1 @@
+template<class x> constexpr int onbits(x a){return __builtin_popcount(a);}

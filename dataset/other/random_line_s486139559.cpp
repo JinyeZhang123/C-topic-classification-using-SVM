@@ -1,0 +1,1 @@
+	firstmem=x[i];

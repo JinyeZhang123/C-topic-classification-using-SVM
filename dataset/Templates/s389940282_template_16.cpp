@@ -1,0 +1,1 @@
+template<typename InputIterator> RangeMinimumRangeUpdate(InputIterator first, InputIterator last) : lst(first, last) {}

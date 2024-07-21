@@ -1,0 +1,1 @@
+template <typename T> ostream &operator<<(ostream &o, const vector<T> &v) { o << '{'; EACH(i, v) o << v[i] << (i != v.size()-1 ? ", " : ""); o << "}

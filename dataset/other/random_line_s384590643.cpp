@@ -1,0 +1,1 @@
+			bt.Delete(n);

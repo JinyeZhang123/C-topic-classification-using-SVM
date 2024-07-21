@@ -1,0 +1,1 @@
+							houseki[j][nowy] = false;

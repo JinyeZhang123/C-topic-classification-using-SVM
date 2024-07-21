@@ -1,0 +1,1 @@
+[](const sipair & a, const sipair & b) { return a.first.length() < b.first.length(); }

@@ -1,0 +1,1 @@
+template<typename T> void caut(T a){cout<<"("<<a<<") ";}

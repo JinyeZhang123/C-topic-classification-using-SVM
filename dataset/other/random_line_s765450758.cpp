@@ -1,0 +1,1 @@
+            px=cx+addX[i];

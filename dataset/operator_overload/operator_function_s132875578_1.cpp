@@ -1,0 +1,1 @@
+D operator[](int i) { return data[i+n]; }

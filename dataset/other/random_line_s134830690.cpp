@@ -1,0 +1,1 @@
+	while (!stk.empty()) {

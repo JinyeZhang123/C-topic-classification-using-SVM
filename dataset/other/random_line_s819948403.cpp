@@ -1,0 +1,1 @@
+            nin = min(cur, nin);

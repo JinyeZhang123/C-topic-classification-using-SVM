@@ -1,0 +1,1 @@
+bool operator<(const Point& a1, const Point& a2) {

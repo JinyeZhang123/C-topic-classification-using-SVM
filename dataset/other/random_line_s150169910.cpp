@@ -1,0 +1,1 @@
+    intarr(a,n);

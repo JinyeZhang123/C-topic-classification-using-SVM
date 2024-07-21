@@ -1,0 +1,1 @@
+template<class T> inline const int out(const T& t){print(t);putchar('\n');return 0;}

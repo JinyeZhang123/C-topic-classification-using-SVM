@@ -1,0 +1,1 @@
+#define pY puts("YES")

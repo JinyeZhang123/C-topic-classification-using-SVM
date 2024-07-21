@@ -1,0 +1,1 @@
+int root,n;

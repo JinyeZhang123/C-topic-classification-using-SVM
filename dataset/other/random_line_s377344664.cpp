@@ -1,0 +1,1 @@
+       if(s.count(x)) {

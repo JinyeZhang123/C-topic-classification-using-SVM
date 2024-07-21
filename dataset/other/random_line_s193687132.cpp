@@ -1,0 +1,1 @@
+    Sval+=val*num;

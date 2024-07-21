@@ -1,0 +1,1 @@
+		int nx = ed.first;

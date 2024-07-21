@@ -1,0 +1,1 @@
+      saikoro[i] =me;

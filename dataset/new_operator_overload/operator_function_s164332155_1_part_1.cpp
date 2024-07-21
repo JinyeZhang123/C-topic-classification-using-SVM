@@ -1,0 +1,1 @@
+bool operator<(P a,P b){return a.x<b.x;}          

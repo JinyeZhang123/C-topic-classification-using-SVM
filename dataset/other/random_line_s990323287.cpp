@@ -1,0 +1,1 @@
+void MakeTable(int n){

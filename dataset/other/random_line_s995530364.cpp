@@ -1,0 +1,1 @@
+typedef vv<pll> vpll;

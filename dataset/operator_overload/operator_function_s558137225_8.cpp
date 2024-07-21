@@ -1,0 +1,1 @@
+bool operator==(pdd a, pdd b) { return cmp(a,b) == 0; }

@@ -1,0 +1,1 @@
+#define rui register ui

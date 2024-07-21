@@ -1,0 +1,1 @@
+		int max=0,min=0;

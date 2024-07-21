@@ -1,0 +1,1 @@
+            result = group[i];

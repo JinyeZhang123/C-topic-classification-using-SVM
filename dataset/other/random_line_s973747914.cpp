@@ -1,0 +1,1 @@
+  cout << calc(h) << endl;

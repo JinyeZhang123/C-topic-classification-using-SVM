@@ -1,0 +1,1 @@
+template<class T> void mkuni(V<T>& v){sort(all(v));v.erase(unique(all(v)),v.end());}

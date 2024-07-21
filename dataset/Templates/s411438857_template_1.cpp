@@ -1,0 +1,1 @@
+template<typename ...> static inline int getchar_unlocked(void) { return getchar(); }

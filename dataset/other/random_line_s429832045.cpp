@@ -1,0 +1,1 @@
+    character.push_back(".,!? ");

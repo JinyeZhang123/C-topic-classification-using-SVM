@@ -1,0 +1,2 @@
+return RMQ(rhs.val);
+	}                           

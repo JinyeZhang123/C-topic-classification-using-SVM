@@ -1,0 +1,3 @@
+double operator*(Vec t) {
+        return v[0]*t[0]+v[1]*t[1];
+    }

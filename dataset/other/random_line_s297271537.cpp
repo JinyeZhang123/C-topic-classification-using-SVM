@@ -1,0 +1,1 @@
+    RollingHash rh(s);

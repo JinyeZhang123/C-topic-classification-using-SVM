@@ -1,0 +1,1 @@
+template<class T>istream &operator>>(istream&i, v(T)&v){ fore(x,v){ i >> v; }

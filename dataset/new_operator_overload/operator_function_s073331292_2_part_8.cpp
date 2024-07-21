@@ -1,0 +1,3 @@
+						bSame = false;
+							break;
+						}        

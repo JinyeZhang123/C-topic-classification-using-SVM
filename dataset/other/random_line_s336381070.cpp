@@ -1,0 +1,1 @@
+        cout << trains.size() << endl;

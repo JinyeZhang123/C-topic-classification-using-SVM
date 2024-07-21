@@ -1,0 +1,1 @@
+p = (res.dp * modinv(COM(res.t+a.t, res.t), MOD)%M

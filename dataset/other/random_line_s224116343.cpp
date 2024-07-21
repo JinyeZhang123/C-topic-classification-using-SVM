@@ -1,0 +1,1 @@
+		bs.insert(a[i]);

@@ -1,0 +1,1 @@
+        trains[data] = 1;

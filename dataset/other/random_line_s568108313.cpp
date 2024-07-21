@@ -1,0 +1,1 @@
+		minSum[v] += cnty[v];

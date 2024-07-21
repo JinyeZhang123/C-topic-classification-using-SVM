@@ -1,0 +1,1 @@
+template <typename T_char>T_char TL(T_char cX) { return tolower(cX); };

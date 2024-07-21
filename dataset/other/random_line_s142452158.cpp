@@ -1,0 +1,1 @@
+      if (nCurLod > nLod)  break;

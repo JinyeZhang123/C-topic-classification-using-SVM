@@ -1,0 +1,1 @@
+template<typename T>void pp(T x){cout<<x<<endl;}

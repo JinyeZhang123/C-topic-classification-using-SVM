@@ -1,0 +1,1 @@
+        rE.resize(V);

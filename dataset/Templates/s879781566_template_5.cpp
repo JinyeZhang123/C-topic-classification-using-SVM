@@ -1,0 +1,1 @@
+template<typename T> T& minset(T& to, const T& val) { return to = min(to, val); }

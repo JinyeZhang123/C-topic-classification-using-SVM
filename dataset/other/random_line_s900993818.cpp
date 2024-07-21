@@ -1,0 +1,1 @@
+int stk[MAXN], top;	

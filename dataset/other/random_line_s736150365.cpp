@@ -1,0 +1,1 @@
+        if(!checked[i]){

@@ -1,0 +1,1 @@
+    if (!vis[cnt]) ans++;

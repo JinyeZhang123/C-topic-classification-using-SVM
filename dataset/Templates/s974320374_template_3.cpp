@@ -1,0 +1,1 @@
+template<class T>void getii(T&a){for(auto&_:a)geti(_);}

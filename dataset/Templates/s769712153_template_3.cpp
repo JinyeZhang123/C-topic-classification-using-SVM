@@ -1,0 +1,1 @@
+template<class T> void _W(const T &x) { cout << x; }

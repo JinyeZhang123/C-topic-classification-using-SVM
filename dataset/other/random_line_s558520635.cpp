@@ -1,0 +1,1 @@
+	cout << replaceAAAtoBBB(buf) << endl;

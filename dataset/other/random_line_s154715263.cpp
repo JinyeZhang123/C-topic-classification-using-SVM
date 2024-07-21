@@ -1,0 +1,1 @@
+	road[i][j]=INF;

@@ -1,0 +1,1 @@
+bool isprime(int n);

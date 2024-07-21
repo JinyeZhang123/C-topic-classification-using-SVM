@@ -1,0 +1,1 @@
+virtual T add_me(T) const = 0;                    

@@ -1,0 +1,1 @@
+    ans = consume + x;

@@ -1,0 +1,1 @@
+		ans+=query(id[i]);

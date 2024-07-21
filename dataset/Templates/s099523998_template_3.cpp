@@ -1,0 +1,1 @@
+template<typename T> T add(T x, T y){ if(abs(x+y) < EPS*(abs(x)+abs(y))) return 0; return x + y; }

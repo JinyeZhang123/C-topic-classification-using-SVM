@@ -1,0 +1,1 @@
+    sort(list, list+n);

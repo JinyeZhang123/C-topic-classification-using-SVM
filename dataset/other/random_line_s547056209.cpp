@@ -1,0 +1,1 @@
+ll cnt(ll i) {

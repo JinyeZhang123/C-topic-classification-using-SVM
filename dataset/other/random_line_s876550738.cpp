@@ -1,0 +1,1 @@
+    if(clr[u]) continue;

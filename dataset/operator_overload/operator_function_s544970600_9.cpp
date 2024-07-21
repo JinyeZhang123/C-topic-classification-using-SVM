@@ -1,0 +1,1 @@
+modint operator/(modint a, modint b) { return a * modint(inv(b, mod)); }

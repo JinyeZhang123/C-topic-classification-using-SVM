@@ -1,0 +1,1 @@
+        cin >> red.at(i);

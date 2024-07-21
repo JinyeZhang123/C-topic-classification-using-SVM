@@ -1,0 +1,1 @@
+#define MODMUL(MUL_X,MUL_Y)  (MUL_X*MUL_Y)%MOD;

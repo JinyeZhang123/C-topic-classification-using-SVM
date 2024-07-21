@@ -1,0 +1,1 @@
+        modsum[i] = sum % K;

@@ -1,0 +1,1 @@
+template<class T> ostream& operator<<(ostream& os,const multiset<T>& s) { return osContainer(os,s); }

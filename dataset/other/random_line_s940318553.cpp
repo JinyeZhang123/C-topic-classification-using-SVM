@@ -1,0 +1,1 @@
+  return euqlid(b,temp);

@@ -1,0 +1,1 @@
+    const OperatorMonoid OM0;

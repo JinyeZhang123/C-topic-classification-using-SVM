@@ -1,0 +1,1 @@
+    customChange = changeFunction != NULL;

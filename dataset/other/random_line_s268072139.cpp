@@ -1,0 +1,1 @@
+        cnt[child] += cnt[id];

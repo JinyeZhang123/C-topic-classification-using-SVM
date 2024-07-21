@@ -1,0 +1,1 @@
+template<class t> inline void writeputchar(t x){write(x),putchar(' ');}

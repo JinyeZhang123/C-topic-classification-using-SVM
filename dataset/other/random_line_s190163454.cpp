@@ -1,0 +1,1 @@
+			cin>>table[i][j];

@@ -1,0 +1,2 @@
+ight<rhs.weight;
+    }                            

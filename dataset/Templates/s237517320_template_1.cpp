@@ -1,0 +1,1 @@
+template<typename T> void fill(V<T>&v) { for(T&e:v) std::cin >> e; }

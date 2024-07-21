@@ -1,0 +1,1 @@
+		if (word.size()>len)

@@ -1,0 +1,1 @@
+    int inslen=ins.size();

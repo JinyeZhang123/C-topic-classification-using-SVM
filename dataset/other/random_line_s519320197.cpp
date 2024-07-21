@@ -1,0 +1,1 @@
+#define line() cerr << "---------------" << endl;

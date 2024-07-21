@@ -1,0 +1,1 @@
+template<typename T>vector<T>&sort(vector<T>&a){sort(all(a));return a;}

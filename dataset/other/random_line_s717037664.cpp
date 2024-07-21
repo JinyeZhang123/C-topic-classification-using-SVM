@@ -1,0 +1,1 @@
+	vec operator-(){return vec(-x,-y);}

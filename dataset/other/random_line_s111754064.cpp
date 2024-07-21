@@ -1,0 +1,1 @@
+	cout << "Stable\n";

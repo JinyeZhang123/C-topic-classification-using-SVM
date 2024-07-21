@@ -1,0 +1,1 @@
+template<typename T> void iota(vector<T>& v, T t = 0) {iota(v.begin(), v.end(), t);}

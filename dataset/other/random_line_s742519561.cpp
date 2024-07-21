@@ -1,0 +1,1 @@
+                chmax(max, color);

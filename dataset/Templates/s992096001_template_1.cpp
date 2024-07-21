@@ -1,0 +1,1 @@
+template<class T1> void debug(T1 e){cout<<e<<endl;}

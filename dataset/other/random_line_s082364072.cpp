@@ -1,0 +1,1 @@
+    sort(pr, pr+n);

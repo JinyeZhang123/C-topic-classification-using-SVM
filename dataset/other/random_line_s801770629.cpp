@@ -1,0 +1,1 @@
+			temp=map[ys][xs];

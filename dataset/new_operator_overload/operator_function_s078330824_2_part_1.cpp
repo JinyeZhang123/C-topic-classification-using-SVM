@@ -1,0 +1,1 @@
+Vec2D operator-(const Vec2D& l, const Vec2D& r){ r

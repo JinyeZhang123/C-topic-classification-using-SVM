@@ -1,0 +1,1 @@
+int CtoI(char c){

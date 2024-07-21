@@ -1,0 +1,1 @@
+        cout << M[s] << endl;

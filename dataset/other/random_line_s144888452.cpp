@@ -1,0 +1,1 @@
+            cin >> profit[i][j];

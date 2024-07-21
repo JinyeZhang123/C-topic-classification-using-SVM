@@ -1,0 +1,1 @@
+template<typename T> void fail(T v){cout << v << endl;exit(0);}

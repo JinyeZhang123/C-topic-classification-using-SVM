@@ -1,0 +1,1 @@
+      int blue = n-red;

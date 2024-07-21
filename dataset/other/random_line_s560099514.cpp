@@ -1,0 +1,1 @@
+            plglg popball = balls[minnum];

@@ -1,0 +1,1 @@
+      max = distance.at(i);

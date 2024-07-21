@@ -1,0 +1,1 @@
+bool operator<(Edge fir, Edge sec) { return fir.c 

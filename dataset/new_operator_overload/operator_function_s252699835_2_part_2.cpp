@@ -1,0 +1,1 @@
+n; if (a.n >= mod)a.n -= mod; return a; }         

@@ -1,0 +1,1 @@
+double operator*(pair<double, double> a, pair<doub

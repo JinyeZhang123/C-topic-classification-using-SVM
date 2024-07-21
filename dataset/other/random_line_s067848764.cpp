@@ -1,0 +1,1 @@
+    ll tmpres = 0;

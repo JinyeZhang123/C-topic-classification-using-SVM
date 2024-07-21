@@ -1,0 +1,1 @@
+    oke |= chk(cur , b);

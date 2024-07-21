@@ -1,0 +1,1 @@
+                if(field < hanako[j]){

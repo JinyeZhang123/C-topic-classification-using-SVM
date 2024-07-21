@@ -1,0 +1,1 @@
+template<class T> T div_floor(const T a, const T b){return a>=0 ? a/b : (a+1)/b-1;}

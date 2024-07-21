@@ -1,0 +1,1 @@
+//freopen ("input", "r", stdin);

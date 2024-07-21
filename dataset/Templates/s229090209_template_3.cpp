@@ -1,0 +1,1 @@
+template<class T>ostream &operator<<(ostream&o, const v(T)&v){ o<<"["; fore(x,v)o<<x<<","; o<<"]"; return o; }

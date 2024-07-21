@@ -1,0 +1,1 @@
+	coin += remoney / 10;

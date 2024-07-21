@@ -1,0 +1,1 @@
+#define vecll vector <ll>

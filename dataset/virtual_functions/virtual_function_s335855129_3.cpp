@@ -1,0 +1,1 @@
+virtual void EvaluateLazy(T& left,T right)=0;

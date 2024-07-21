@@ -1,0 +1,1 @@
+template<typename T> T bpow(T a, ll n) {T r(1); while(n) {if (n & 1) r *= a; a *= a; n >>= 1;}

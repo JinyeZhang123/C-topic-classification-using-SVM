@@ -1,0 +1,1 @@
+        int total = bs.count();

@@ -1,0 +1,1 @@
+          cout<<board[i][j];

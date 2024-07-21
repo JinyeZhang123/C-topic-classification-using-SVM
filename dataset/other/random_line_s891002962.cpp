@@ -1,0 +1,1 @@
+			all += query(b[i]);

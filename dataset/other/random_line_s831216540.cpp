@@ -1,0 +1,1 @@
+	l->prev->next = nil;

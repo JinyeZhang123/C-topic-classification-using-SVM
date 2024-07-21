@@ -1,0 +1,1 @@
+        tmp=func(tmp);

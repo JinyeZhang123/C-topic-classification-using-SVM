@@ -1,0 +1,1 @@
+//tp://www27.atpages.jp/tasuku/pro/2_algo.pdf

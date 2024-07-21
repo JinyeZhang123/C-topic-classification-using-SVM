@@ -1,0 +1,1 @@
+template <typename T> T chmax(T& a, T b) {if(a<b)a=b;return b;}

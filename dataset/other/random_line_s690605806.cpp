@@ -1,0 +1,1 @@
+    minsum=min(minsum,sum);

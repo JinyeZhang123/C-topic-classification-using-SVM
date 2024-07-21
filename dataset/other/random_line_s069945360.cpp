@@ -1,0 +1,1 @@
+  long happiness = 0;

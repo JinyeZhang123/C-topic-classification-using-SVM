@@ -1,0 +1,1 @@
+			cout << section[i][j];

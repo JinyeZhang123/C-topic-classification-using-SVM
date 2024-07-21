@@ -1,0 +1,1 @@
+				smallest = min(smallest, cur);

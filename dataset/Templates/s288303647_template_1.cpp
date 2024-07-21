@@ -1,0 +1,1 @@
+template<typename T,typename...Args>void test(T x,Args...args){cerr<<x<<" ";test(args...);}

@@ -1,0 +1,1 @@
+	void thrust(int k){

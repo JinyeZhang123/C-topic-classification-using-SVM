@@ -1,0 +1,1 @@
+  SegmentTree tree;tree.init();

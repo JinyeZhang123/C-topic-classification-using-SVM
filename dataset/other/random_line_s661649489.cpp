@@ -1,0 +1,1 @@
+	if (pos==num.size()) {

@@ -1,0 +1,1 @@
+			ruiseki -= hist[--k];

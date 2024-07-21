@@ -1,0 +1,1 @@
+     ans += migi * k % MOD;

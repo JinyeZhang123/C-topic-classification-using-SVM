@@ -1,0 +1,1 @@
+    cout<<bcnt<<" "<<wcnt<<endl;

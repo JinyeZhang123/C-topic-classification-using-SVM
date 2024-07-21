@@ -1,0 +1,1 @@
+info operator+(info a,info b){ return info(a.first

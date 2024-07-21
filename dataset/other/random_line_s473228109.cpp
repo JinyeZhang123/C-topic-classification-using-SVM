@@ -1,0 +1,1 @@
+main(){for(int i=0;i<5;i++){cin>>a;s[i/3]=min(s[i/3],a);}cout<<s[0]+s[1]-50<<endl;}

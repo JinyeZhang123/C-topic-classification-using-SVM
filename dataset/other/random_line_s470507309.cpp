@@ -1,0 +1,1 @@
+	int him, A, B;

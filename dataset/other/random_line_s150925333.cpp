@@ -1,0 +1,1 @@
+            llg ajout = coefficient*inv;

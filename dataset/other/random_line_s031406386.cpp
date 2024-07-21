@@ -1,0 +1,1 @@
+	int n = strlen(s);

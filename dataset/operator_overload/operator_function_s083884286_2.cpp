@@ -1,0 +1,1 @@
+Vector2D operator-(const Vector2D p) { return Vector2D(x - p.x, y - p.y); }

@@ -1,0 +1,1 @@
+template<class T, class U> inline void max_self(T &x, U y) { if (y > x) x = y; }

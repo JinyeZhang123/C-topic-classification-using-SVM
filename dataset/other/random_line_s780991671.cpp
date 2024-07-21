@@ -1,0 +1,1 @@
+    cout << acMap.size() << " " << waCount;

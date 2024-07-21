@@ -1,0 +1,1 @@
+template<class T> void rsort(T &v){std::sort(v.rbegin(),v.rend());}

@@ -1,0 +1,1 @@
+mint operator-(mint a) { return a.n == 0 ? 0 : MOD

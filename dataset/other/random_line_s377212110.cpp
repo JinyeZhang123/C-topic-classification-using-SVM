@@ -1,0 +1,1 @@
+	int panjangB = strlen(kataB);

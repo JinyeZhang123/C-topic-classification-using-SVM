@@ -1,0 +1,1 @@
+		cout << ta << endl;

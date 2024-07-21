@@ -1,0 +1,1 @@
+    cout << totalA - totalB << endl;

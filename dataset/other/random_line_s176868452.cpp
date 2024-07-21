@@ -1,0 +1,1 @@
+#define akumanosuuji = 666;

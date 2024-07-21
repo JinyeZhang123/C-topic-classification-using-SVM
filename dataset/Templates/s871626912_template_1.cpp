@@ -1,0 +1,1 @@
+template<class C>constexpr int sz(const C&c){return int(c.size());}

@@ -1,0 +1,1 @@
+		rotatez(dice2);

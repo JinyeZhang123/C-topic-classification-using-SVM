@@ -1,0 +1,1 @@
+#define Pe Pc('\n')

@@ -1,0 +1,1 @@
+		else hoge=hoge->left;

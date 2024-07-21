@@ -1,0 +1,1 @@
+template <typename Iter, typename T> int ge(Iter L, Iter R, T v) { return lower_bound(L, R, v) - L; }

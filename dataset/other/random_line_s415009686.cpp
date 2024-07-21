@@ -1,0 +1,1 @@
+	vis[x][y] = true;

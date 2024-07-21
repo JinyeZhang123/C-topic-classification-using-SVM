@@ -1,0 +1,1 @@
+    cout << su - mi << endl;

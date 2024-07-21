@@ -1,0 +1,1 @@
+template<class T>bool max_assign(T&x,const T y){if(x < y) { x = y; return true;}

@@ -1,0 +1,1 @@
+        blank = array[0];

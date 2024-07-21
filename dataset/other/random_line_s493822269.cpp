@@ -1,0 +1,1 @@
+      cout<<E[i]<<endl;

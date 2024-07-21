@@ -1,0 +1,1 @@
+		putchar(ans[0]);

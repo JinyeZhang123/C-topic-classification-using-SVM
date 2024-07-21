@@ -1,0 +1,1 @@
+                total -= costs[i][j];

@@ -1,0 +1,1 @@
+template<class T, class U>bool isin(T el, U container) { return find(all(container), el) != container.end(); }

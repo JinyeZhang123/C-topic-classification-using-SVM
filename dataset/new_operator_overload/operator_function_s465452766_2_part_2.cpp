@@ -1,0 +1,1 @@
+e(x,-p.x),add_double(y,-p.y)}                     

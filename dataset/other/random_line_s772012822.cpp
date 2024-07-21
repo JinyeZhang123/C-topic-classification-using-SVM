@@ -1,0 +1,1 @@
+    if ( score[st][en] ) {

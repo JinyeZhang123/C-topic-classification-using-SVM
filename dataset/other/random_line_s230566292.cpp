@@ -1,0 +1,1 @@
+        return COUNTER_CLOCKWISE;

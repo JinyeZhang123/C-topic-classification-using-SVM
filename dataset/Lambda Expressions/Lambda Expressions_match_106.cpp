@@ -1,0 +1,1 @@
+[](const pair<ll,ll>& lhs,const pair<ll,ll>& rhs){return lhs.c comp rhs.c;}

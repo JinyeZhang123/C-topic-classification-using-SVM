@@ -1,0 +1,1 @@
+				int tmp=junni[j];

@@ -1,0 +1,1 @@
+	llong int ret = inf;

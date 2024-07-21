@@ -1,0 +1,1 @@
+    cout << triangle(N, L);

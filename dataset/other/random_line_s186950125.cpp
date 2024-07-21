@@ -1,0 +1,1 @@
+ll power(ll, ll);

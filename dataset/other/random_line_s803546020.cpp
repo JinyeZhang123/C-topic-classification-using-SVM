@@ -1,0 +1,1 @@
+#define PRIN PRI("No")

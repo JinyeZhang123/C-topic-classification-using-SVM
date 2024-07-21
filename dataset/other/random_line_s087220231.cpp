@@ -1,0 +1,1 @@
+    cout<<men<<endl;

@@ -1,0 +1,1 @@
+    vector<string> grid(h);

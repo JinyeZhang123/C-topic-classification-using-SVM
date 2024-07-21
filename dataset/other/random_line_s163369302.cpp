@@ -1,0 +1,1 @@
+    int gb,sb,bb;

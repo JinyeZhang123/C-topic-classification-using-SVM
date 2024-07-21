@@ -1,0 +1,1 @@
+            cout<<even.front()<<" ";

@@ -1,0 +1,1 @@
+            color[v]=color[u];

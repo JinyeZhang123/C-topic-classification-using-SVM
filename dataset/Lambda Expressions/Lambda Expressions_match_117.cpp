@@ -1,0 +1,1 @@
+[](Baseball x) { std::cout << x.getScore() << std::endl; }

@@ -1,0 +1,1 @@
+				cout<<ids[k]<<endl;

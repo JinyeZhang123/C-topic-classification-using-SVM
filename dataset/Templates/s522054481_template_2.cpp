@@ -1,0 +1,1 @@
+template<class T> void init_n(vector<T>& v, size_t n) { init_n(v, n, T()); }

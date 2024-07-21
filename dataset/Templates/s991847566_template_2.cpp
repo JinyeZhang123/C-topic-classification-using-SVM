@@ -1,0 +1,1 @@
+template <class X> void prr(X test){for(auto it:test){cout<<it;}

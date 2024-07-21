@@ -1,0 +1,1 @@
+template<class Head,class... Tail>inline const int out(const Head& head,const Tail&... tail){print(head);putchar(' ');out(tail...);return 0;}

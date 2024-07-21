@@ -1,0 +1,1 @@
+template <class T> vevector<T> readjag() { return read<T>(read<int>()); }

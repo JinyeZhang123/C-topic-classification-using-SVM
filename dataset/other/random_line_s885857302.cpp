@@ -1,0 +1,1 @@
+bool sosuu(int a){

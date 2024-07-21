@@ -1,0 +1,1 @@
+template<class T> auto max(const T& a){ return *max_element(a.begin(), a.end()); }

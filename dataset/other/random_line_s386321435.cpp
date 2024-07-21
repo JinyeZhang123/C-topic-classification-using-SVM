@@ -1,0 +1,1 @@
+T abst(T a)

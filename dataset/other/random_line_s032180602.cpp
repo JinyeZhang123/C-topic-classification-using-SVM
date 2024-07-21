@@ -1,0 +1,1 @@
+            for(; turn<k; turn++){

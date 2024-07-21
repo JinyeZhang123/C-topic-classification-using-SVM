@@ -1,0 +1,2 @@
+namespace std {
+    bool opera

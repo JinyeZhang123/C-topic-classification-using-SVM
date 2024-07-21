@@ -1,0 +1,1 @@
+  cout << N / (A + B) * A + min(A, N % (A + B));}

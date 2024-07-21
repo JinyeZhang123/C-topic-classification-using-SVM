@@ -1,0 +1,1 @@
+			prime[i * j] = false;

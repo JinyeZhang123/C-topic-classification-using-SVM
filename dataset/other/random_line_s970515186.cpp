@@ -1,0 +1,1 @@
+    Dice.Right  = Dice.Bottom;

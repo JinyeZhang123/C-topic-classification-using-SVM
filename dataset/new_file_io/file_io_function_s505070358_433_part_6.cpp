@@ -1,0 +1,1 @@
+ 1][n + 1]; // dp1[i][j] means j heads in first i 

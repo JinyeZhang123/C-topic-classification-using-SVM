@@ -1,0 +1,1 @@
+    cnt.erase(cnt.begin());

@@ -1,0 +1,1 @@
+    int temp=col[index];

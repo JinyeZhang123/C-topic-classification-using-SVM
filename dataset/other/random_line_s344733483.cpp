@@ -1,0 +1,1 @@
+an = min(an,cur);

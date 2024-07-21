@@ -1,0 +1,1 @@
+            char ic;cin>>ic;

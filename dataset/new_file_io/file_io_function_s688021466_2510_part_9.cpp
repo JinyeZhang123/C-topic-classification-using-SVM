@@ -1,0 +1,1 @@
+    cin >> i >> j, i ++, j ++, cout << query (1, 1

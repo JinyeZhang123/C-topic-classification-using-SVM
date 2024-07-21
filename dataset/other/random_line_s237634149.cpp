@@ -1,0 +1,1 @@
+    ll d = data.size();

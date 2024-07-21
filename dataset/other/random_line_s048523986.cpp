@@ -1,0 +1,1 @@
+        shitanum -= newmidnum;

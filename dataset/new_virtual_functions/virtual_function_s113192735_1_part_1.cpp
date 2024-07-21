@@ -1,0 +1,1 @@
+virtual void con(int a, int b, int w) = 0;        

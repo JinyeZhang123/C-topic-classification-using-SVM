@@ -1,0 +1,1 @@
+auto operator+(_Tp b) {return modular{(value+b)%mod}

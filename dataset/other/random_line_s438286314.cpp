@@ -1,0 +1,1 @@
+        alive[u] = false, cnt--;

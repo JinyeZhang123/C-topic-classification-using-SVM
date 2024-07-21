@@ -1,0 +1,1 @@
+Modint inv (Modint a) {

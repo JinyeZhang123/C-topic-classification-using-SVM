@@ -1,0 +1,1 @@
+				SEISU[j]=UENINIGERUDE;

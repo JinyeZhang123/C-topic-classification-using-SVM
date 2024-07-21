@@ -1,0 +1,1 @@
+        //cout << a[pos] << endl;

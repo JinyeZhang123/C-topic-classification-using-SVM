@@ -1,0 +1,1 @@
+    setfact(n);

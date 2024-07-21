@@ -1,0 +1,1 @@
+    cout<<(int)K<<endl;

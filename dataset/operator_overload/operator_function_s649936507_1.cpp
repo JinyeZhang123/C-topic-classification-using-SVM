@@ -1,0 +1,1 @@
+Mint operator+(const Mint &a, const Mint &b) { return Mint(a) += b; }

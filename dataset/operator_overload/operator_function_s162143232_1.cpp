@@ -1,0 +1,1 @@
+mint operator+=(const mint& a){ if((x+=a.x)>=MOD) x-=MOD; return *this;}

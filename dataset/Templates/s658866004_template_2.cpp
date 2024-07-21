@@ -1,0 +1,1 @@
+template<typename T> size_t find_first_of(vector<T> v, T val) { auto itrfind = find(beginend(v), val); size_t dis = distance(v.begin(), itrfind); if (dis == v.size()) { return -1; }

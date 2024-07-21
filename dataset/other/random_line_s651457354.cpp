@@ -1,0 +1,1 @@
+		pmin = min(pmin, p);

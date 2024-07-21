@@ -1,0 +1,1 @@
+    int ans;cin>>ans;

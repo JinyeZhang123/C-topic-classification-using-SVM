@@ -1,0 +1,1 @@
+  Term = Fact { (*|/) Fact}

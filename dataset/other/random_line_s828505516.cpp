@@ -1,0 +1,1 @@
+  cout << tou - b << endl;

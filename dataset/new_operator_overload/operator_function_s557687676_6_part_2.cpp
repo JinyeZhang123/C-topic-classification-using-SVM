@@ -1,0 +1,1 @@
+g_mod((long long) val * b.val); }                 

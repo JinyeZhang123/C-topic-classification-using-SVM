@@ -1,0 +1,1 @@
+      num = maxi - mini;

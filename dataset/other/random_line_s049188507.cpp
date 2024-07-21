@@ -1,0 +1,1 @@
+                team[id].wa[num]++;

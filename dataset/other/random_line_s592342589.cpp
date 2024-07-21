@@ -1,0 +1,1 @@
+          fflag[nx][ny]=true;		

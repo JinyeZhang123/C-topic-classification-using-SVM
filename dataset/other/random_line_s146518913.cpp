@@ -1,0 +1,1 @@
+		flag[i]=false;

@@ -1,0 +1,1 @@
+		mergeSort(A, mid, right);

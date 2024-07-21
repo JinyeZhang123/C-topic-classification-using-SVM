@@ -1,0 +1,1 @@
+template<class T> T RoundOff(T a){ return int(a+.5-(a<0)); }

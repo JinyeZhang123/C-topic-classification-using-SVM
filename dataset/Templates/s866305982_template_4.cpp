@@ -1,0 +1,1 @@
+template<class T> inline T round(T a, T b) {return T(a / b);}

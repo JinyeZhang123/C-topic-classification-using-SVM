@@ -1,0 +1,2 @@
+ort dp[MAXSIZE][MAXSIZE][MAXSIZE][MAXSIZE];
+	stati

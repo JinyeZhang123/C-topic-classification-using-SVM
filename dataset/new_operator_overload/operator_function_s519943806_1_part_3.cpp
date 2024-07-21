@@ -1,0 +1,1 @@
+s ? a.imag() + P_eps < b.imag() : a.real() + P_eps

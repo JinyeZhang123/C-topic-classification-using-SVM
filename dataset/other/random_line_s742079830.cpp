@@ -1,0 +1,1 @@
+			max = tmp - min;

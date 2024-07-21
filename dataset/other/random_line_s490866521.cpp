@@ -1,0 +1,1 @@
+			t.insert(a[k]);

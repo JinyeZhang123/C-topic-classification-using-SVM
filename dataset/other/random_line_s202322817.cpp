@@ -1,0 +1,1 @@
+		sports[ i ] = cmp ;

@@ -1,0 +1,2 @@
+t,i,j,m,n,s,z,k,p;string s1,s2;ll q;ll x,y;
+    ci

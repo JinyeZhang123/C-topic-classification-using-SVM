@@ -1,0 +1,1 @@
+        ans += sigma(num)*i;

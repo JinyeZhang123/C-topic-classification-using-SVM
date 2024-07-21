@@ -1,0 +1,1 @@
+    int nip = k - np;

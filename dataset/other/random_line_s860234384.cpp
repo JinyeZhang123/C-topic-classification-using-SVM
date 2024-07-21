@@ -1,0 +1,1 @@
+typedef complex<ld> Point;

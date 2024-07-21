@@ -1,0 +1,1 @@
+template<typename T>T power_mod(T e, T n, T m){T x=1,p=e;while(n){if(n&1)x=mulmod(x,p,m);p=mulmod(p,p,m);n>>=1;}

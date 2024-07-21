@@ -1,0 +1,1 @@
+bool operator<(ninja a,ninja b){return a.x<b.x;}

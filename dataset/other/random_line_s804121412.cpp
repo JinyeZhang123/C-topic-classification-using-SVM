@@ -1,0 +1,1 @@
+using namespace std;main(){int N,K,x,y;for(cin>>N>>K;K-->0;cout<<min(min(x-1,y-1),min(N-x,N-y))%3+1<<endl)cin>>x>>y;}

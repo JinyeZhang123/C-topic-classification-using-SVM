@@ -1,0 +1,1 @@
+        if (fopen(".INP", "r")){

@@ -1,0 +1,1 @@
+template <typename T> void amax(T &x, T y) { x = max(x, y); }

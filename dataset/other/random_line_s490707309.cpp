@@ -1,0 +1,1 @@
+	double c = distance(x3, y3, x1, y1);

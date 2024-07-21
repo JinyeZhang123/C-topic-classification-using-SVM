@@ -1,0 +1,1 @@
+#define LLINF LLONG_MAX

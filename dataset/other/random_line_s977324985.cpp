@@ -1,0 +1,1 @@
+double acot(double x) {

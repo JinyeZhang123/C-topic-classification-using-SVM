@@ -1,0 +1,1 @@
+unsigned DayToWeekNumber(unsigned day)

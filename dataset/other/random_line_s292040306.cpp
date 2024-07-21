@@ -1,0 +1,1 @@
+        if(kari <  data[i])

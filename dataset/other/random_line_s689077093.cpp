@@ -1,0 +1,1 @@
+      cout<<d[q]<<endl;

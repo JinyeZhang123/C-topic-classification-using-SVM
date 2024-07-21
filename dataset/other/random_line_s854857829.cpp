@@ -1,0 +1,1 @@
+#define vpll vector<pll>

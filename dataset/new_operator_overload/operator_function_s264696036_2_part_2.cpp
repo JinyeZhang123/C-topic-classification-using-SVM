@@ -1,0 +1,1 @@
+(int i = 0; i < bts; i++) for (int j = 0; j < bts;

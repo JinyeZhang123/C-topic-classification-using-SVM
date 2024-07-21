@@ -1,0 +1,1 @@
+template<class T>void Unique(T& a) { a.erase(unique(a.begin(), a.end()), a.end()); }

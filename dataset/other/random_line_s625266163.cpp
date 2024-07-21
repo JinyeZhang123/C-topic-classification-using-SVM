@@ -1,0 +1,1 @@
+  bx = B * cos(bang);

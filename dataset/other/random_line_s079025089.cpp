@@ -1,0 +1,1 @@
+template<class T>void puta(T&&t){cout<<t<<"\n";}

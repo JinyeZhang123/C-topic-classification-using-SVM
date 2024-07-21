@@ -1,0 +1,1 @@
+bool operator<(const card &o) {return value<o.value;}

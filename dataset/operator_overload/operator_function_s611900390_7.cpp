@@ -1,0 +1,1 @@
+Point operator*(T f) { return Point( X * f, Y * f ); }

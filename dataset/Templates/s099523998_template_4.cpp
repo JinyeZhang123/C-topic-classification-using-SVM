@@ -1,0 +1,1 @@
+template<typename T> inline bool semieq(T x, T y){ return abs(x - y) < EPS; }

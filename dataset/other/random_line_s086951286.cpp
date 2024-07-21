@@ -1,0 +1,1 @@
+bool IsPrimeNumber(T num)

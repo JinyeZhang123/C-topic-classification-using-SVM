@@ -1,0 +1,1 @@
+X operator[](int i) { return find(i, i+1); }      

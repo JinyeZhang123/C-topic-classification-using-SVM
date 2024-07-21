@@ -1,0 +1,1 @@
+#define    sof     sizeof

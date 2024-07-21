@@ -1,0 +1,1 @@
+    cout << uf.weight << endl;

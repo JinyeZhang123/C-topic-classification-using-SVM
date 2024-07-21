@@ -1,0 +1,1 @@
+Vec operator/(const Vec& v, const double& divisor) { return 1.0 / divisor * v; }

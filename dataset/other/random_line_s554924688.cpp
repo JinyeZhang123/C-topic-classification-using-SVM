@@ -1,0 +1,1 @@
+  if (max < primed) return;

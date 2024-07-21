@@ -1,0 +1,1 @@
+			cout << al[i] << endl;

@@ -1,0 +1,1 @@
+	vector<dice> dices(n);

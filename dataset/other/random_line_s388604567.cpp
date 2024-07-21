@@ -1,0 +1,1 @@
+using vbo=vector<bool>;

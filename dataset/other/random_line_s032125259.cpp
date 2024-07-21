@@ -1,0 +1,1 @@
+    vector<S>v(n);

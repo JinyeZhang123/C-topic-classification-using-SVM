@@ -1,0 +1,1 @@
+  cout << T/X << endl;

@@ -1,0 +1,1 @@
+        ans += (v-count);

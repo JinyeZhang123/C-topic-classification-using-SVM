@@ -1,0 +1,1 @@
+        acc += bar.at(i);

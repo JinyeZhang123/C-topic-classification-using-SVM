@@ -1,0 +1,1 @@
+template <typename T, typename S> inline void print(const pair<T, S>& p) {cout << p.first << " " << p.second << '\n';}

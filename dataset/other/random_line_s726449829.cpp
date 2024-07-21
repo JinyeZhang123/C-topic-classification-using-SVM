@@ -1,0 +1,1 @@
+#define INCREMENT(x) ++x

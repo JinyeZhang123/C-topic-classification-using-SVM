@@ -1,0 +1,1 @@
+      mine[i-1][j-1]=tmpmi;

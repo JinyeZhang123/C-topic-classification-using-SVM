@@ -1,0 +1,1 @@
+template<class H,class...T>void get(H&h,T&...t){cin>>h;get(t...);}

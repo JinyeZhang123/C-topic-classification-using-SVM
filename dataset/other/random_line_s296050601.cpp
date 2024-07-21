@@ -1,0 +1,1 @@
+	 termscore[i] = 1;

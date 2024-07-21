@@ -1,0 +1,1 @@
+in >> a[i]; if(am > a[i]) am = a[i];}             

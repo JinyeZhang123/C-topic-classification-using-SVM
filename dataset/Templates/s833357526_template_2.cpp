@@ -1,0 +1,1 @@
+template<class P, class Q> inline P smax(P &a, Q b) { if (a < b) a = b; return a; }

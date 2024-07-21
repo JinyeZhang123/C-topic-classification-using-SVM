@@ -1,0 +1,1 @@
+template<class T>bool Max(T&a, T b){if(a < b){a = b;return 1;}

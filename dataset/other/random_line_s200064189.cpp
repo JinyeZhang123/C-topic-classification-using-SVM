@@ -1,0 +1,1 @@
+    lb.resize(n);

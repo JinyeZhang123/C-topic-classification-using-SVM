@@ -1,0 +1,1 @@
+		dbool() : boolvalue(false) {}

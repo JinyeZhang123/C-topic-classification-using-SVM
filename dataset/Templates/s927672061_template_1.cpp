@@ -1,0 +1,1 @@
+template <class T> vector<T> multivector(size_t N,T init){return vector<T>(N,init);}

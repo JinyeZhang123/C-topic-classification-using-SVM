@@ -1,0 +1,1 @@
+    total += l.at(i);

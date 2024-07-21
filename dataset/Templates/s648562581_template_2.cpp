@@ -1,0 +1,1 @@
+template<class T, class U> void printx(pair<T, U> p){cout << "(" << p.first << "," << p.second << ")";}

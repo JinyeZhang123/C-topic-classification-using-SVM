@@ -1,0 +1,1 @@
+template<class T, class U, class V> void reader(T& t, U& u, V& v) { reader(t); reader(u); reader(v); }

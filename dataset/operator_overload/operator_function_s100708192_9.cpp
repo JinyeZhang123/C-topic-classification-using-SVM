@@ -1,0 +1,1 @@
+Point operator*(double v, const Point &p) { return Point(p.x * v, p.y * v); }

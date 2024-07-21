@@ -1,0 +1,1 @@
+			Max = max(Max, sum);

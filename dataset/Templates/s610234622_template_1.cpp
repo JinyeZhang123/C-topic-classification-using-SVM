@@ -1,0 +1,7 @@
+template <typename T>
+void view(const std::vector<T> &v)
+{
+    for (const auto &e : v)
+    {
+        std::cout << e << " ";
+    }

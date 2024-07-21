@@ -1,0 +1,1 @@
+	int low, lim;

@@ -1,0 +1,1 @@
+template <typename T> bool IN(T a, T b, T x) { return a<=x&&x<b; }

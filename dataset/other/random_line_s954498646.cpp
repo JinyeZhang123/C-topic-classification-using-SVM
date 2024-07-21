@@ -1,0 +1,1 @@
+		int minj = i;

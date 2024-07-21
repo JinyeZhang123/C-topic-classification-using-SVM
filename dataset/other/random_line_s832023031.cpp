@@ -1,0 +1,1 @@
+      result += temp_count;

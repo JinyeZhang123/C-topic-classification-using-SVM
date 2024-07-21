@@ -1,0 +1,1 @@
+	} while (next_permutation(v.begin(),v.end()));

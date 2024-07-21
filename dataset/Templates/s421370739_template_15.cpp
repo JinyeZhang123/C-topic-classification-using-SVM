@@ -1,0 +1,1 @@
+template<class T> void NOYES(T b){if(b)out("NO");else out("YES");}

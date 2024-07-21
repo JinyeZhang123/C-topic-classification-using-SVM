@@ -1,0 +1,1 @@
+            mVertexTbl[index].depth = depth;

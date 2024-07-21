@@ -1,0 +1,1 @@
+am in("test.txt"); in>>n; a.resize(n); rep(i,0,n)i

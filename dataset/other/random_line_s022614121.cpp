@@ -1,0 +1,1 @@
+    sizes[x] += sizes[y];

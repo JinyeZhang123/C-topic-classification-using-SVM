@@ -1,0 +1,1 @@
+        ll type;cin>>type;

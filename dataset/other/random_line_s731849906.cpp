@@ -1,0 +1,1 @@
+    cout.setf(ios::fixed);

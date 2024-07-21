@@ -1,0 +1,1 @@
+            if (temp <= X[now]) {

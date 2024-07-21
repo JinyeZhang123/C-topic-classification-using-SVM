@@ -1,0 +1,1 @@
+template<typename T> void chmin(T &a, const T &b) { a = min(a, b); }

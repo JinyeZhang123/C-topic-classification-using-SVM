@@ -1,0 +1,1 @@
+        sort(vege,vege+n);

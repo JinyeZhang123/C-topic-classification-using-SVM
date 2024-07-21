@@ -1,0 +1,1 @@
+    vector<LP> ball(N);

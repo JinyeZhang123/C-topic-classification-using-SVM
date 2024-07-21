@@ -1,0 +1,1 @@
+    day = dow - dow1;

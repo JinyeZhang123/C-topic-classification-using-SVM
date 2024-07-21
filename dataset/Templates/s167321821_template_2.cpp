@@ -1,0 +1,1 @@
+template<typename T> T lcm(T x,T y){return x/gcd(x,y)*y;}

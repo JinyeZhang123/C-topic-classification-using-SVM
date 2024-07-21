@@ -1,0 +1,1 @@
+template<class x>istream &operator>>(istream &in,vector<x> &v) {for(auto& i:v)in>>i;return in;}

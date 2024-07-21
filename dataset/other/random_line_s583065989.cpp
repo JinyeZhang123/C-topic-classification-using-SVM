@@ -1,0 +1,1 @@
+		low = min(low,mountain);

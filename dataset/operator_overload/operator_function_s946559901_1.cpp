@@ -1,0 +1,1 @@
+ll operator*(){return x;}

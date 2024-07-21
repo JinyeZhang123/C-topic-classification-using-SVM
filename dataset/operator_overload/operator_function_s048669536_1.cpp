@@ -1,0 +1,1 @@
+bool operator<(E a,E b){return a.w<b.w;}

@@ -1,0 +1,1 @@
+      alice+=card.at(i);

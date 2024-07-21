@@ -1,0 +1,1 @@
+#define vecpii vector<pii>

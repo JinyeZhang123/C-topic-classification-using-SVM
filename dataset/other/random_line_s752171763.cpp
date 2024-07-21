@@ -1,0 +1,1 @@
+			diffmax = a[i] - min;

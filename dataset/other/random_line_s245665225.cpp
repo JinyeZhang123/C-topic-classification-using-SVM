@@ -1,0 +1,1 @@
+	double l, a, b, x = 0, y = 0, c = 0;

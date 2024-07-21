@@ -1,0 +1,1 @@
+	if ((b1 && b2 && !b3) || (!b1 && !b2 && b3)) cout << "Open" << endl;

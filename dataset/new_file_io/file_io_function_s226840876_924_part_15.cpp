@@ -1,0 +1,1 @@
+   if (p1.orientation != p2.orientation) return p1

@@ -1,0 +1,4 @@
+class DrawAreaSmallStrategy
+{
+public:
+	DrawAreaSmallStrategy() {}                                                                                                                                       

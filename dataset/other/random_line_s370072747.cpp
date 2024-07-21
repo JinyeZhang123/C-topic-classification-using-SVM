@@ -1,0 +1,1 @@
+	cout << lcm(ns) << endl;

@@ -1,0 +1,1 @@
+template<typename T> int len(const T &v) { return v.size(); }

@@ -1,0 +1,1 @@
+bool inf_check(){

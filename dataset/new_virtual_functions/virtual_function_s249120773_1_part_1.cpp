@@ -1,0 +1,1 @@
+virtual void add_edge(int v, E e){adj[v].push_back

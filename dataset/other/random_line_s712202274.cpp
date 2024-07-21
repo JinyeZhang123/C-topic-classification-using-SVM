@@ -1,0 +1,1 @@
+#define pts puts("")

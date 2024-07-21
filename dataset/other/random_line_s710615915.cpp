@@ -1,0 +1,1 @@
+#define VS vector<string>

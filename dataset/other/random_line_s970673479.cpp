@@ -1,0 +1,1 @@
+	while(cin >> Q, Q) {

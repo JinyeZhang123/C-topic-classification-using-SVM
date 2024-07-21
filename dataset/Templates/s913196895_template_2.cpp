@@ -1,0 +1,1 @@
+template<class T>constexpr T HINF() { return INF<T>() / 2; }

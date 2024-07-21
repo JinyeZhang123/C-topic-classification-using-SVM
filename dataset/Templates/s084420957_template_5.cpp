@@ -1,0 +1,1 @@
+template<class x,class y> x min(x a,y b){x c;if(a<=b)c=a;else c=b;return c;}

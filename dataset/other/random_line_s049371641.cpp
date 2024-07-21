@@ -1,0 +1,1 @@
+  vector<P> A, B;

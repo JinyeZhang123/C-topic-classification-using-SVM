@@ -1,0 +1,1 @@
+template<typename T1, typename T2> inline void chkmin(T1 &a, T2 b) {if (a > b) a = b;}

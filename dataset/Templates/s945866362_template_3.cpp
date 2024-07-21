@@ -1,0 +1,1 @@
+template<class T>T Reverse(T& a) { reverse(a.begin(), a.end()); return a; }

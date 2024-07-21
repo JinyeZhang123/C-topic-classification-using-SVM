@@ -1,0 +1,1 @@
+	int num,rating[MAX];

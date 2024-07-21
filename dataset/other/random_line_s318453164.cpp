@@ -1,0 +1,1 @@
+        if (dp[k] != "impossible"){

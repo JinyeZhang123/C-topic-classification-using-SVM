@@ -1,0 +1,1 @@
+    cout << alice - bob << endl;

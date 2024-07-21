@@ -1,0 +1,1 @@
+bool operator<(nod a,nod b){return a.p<b.p;}

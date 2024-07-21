@@ -1,0 +1,1 @@
+template<class T> inline T min(T a, T b, T c, T d) { RT min(min(a, b), min(c, d)); }

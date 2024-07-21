@@ -1,0 +1,1 @@
+template<typename T> void FILL(vector<T> &v, const T &x) {fill(v.begin(), v.end(), x);}

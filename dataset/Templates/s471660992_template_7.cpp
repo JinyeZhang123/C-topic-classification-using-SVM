@@ -1,0 +1,1 @@
+template<typename T> T gcd(T x,T y){return y!=0?gcd(y,x%y):x;}

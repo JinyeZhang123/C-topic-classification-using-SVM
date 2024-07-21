@@ -1,0 +1,1 @@
+			mfrec=word[in];

@@ -1,0 +1,1 @@
+		return siz[find(x)];

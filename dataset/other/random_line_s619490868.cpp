@@ -1,0 +1,1 @@
+            ++res[A[row][col]];

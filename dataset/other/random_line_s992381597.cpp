@@ -1,0 +1,1 @@
+int main() {int q;scanf("%d",&q);while (q--) {scanf("%s",&s),j=strlen(s),s[j]=']',f=0,printf("%d\n",dfs());}return 0;}

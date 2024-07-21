@@ -1,0 +1,1 @@
+		int nowwan = p;

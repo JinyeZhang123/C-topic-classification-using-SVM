@@ -1,0 +1,1 @@
+	Next[edge]=last[x];

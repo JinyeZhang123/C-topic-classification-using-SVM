@@ -1,0 +1,1 @@
+template<typename T>bool mins(T& x,const T&y){if(x>y){x=y;return true;}

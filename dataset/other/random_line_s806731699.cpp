@@ -1,0 +1,1 @@
+        if (neighbor == p) continue;

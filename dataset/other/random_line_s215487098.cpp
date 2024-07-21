@@ -1,0 +1,1 @@
+	  disS[i][j]=inf;

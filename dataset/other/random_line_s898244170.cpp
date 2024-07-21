@@ -1,0 +1,1 @@
+    LazySegmentTree(vector<ll> v) {

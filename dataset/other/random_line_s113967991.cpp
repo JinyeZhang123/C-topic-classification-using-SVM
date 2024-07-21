@@ -1,0 +1,1 @@
+    cout << parent[i] << endl;

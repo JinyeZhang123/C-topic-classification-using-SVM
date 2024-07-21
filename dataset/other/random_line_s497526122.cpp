@@ -1,0 +1,1 @@
+		ll dropE=X*i;

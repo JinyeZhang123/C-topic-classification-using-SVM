@@ -1,0 +1,1 @@
+		cin >> highth[i];

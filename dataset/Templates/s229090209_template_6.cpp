@@ -1,0 +1,1 @@
+template<class T>ostream &operator<<(ostream&o, const unordered_set<T>&v){ o<<"{"; fore(x,v)o<<x<<","; o<<"}

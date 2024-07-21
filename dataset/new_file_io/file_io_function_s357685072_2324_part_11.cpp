@@ -1,0 +1,1 @@
+&& (px1-xs[j]!=px2-xs2[j] || py1-ys[j]!=py2-ys2[j]

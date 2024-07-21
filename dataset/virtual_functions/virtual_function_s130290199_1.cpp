@@ -1,0 +1,1 @@
+virtual ll fa(ll x,ll m)=0;

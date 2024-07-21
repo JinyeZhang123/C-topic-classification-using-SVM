@@ -1,0 +1,1 @@
+            used[i][j] = false;

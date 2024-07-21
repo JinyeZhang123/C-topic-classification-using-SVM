@@ -1,0 +1,1 @@
+  vector<ld> p(N);

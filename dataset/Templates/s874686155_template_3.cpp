@@ -1,0 +1,8 @@
+template <typename T>
+map<T,T> prime_factor(T n){
+    map<T,T> res;
+    for  (T i=2;i*i<=n;i++){
+        while (n%i == 0){
+            ++ res[i];
+            n /= i;
+        }

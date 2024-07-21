@@ -1,0 +1,1 @@
+                powers[j] += cnt[j];

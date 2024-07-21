@@ -1,0 +1,1 @@
+		tanka.clear();

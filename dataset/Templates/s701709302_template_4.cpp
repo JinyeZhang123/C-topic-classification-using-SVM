@@ -1,0 +1,1 @@
+template<class t> inline void writeputs(t x){write(x),putchar('\n');}

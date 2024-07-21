@@ -1,0 +1,1 @@
+template<typename T> bool is_sorted(const vector<T>& v) {return is_sorted(v.begin(), v.end());}

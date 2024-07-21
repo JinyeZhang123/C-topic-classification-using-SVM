@@ -1,0 +1,1 @@
+	bool isR = ask(q);

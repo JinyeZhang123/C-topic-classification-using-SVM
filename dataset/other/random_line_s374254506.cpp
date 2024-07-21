@@ -1,0 +1,1 @@
+    int ispoor = 0;

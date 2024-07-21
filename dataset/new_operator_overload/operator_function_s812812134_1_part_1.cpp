@@ -1,0 +1,1 @@
+Monoid operator[]( ll idx ) { return ( data[idx + 

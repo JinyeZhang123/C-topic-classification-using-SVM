@@ -1,0 +1,1 @@
+	d.resize(G.size());

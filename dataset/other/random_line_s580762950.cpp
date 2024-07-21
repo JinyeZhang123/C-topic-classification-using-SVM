@@ -1,0 +1,1 @@
+  cout<<dai-shou<<endl;

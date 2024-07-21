@@ -1,0 +1,1 @@
+s.x * rhs.y + lhs.y * rhs.x }                     

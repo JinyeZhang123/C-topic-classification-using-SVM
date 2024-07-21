@@ -1,0 +1,1 @@
+        cout << lc + rc << endl;

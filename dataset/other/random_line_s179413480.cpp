@@ -1,0 +1,1 @@
+    int sound = B / A;

@@ -1,0 +1,1 @@
+bool operator<(Ball a,Ball b){if(a.c!=b.c)return a

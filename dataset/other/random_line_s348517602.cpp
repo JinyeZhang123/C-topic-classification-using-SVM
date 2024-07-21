@@ -1,0 +1,1 @@
+                used[nx][ny] = true;

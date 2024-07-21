@@ -1,0 +1,1 @@
+umerator>=0 && numerator%2==0 && numerator/2<=X) c

@@ -1,0 +1,1 @@
+#define VB vector<bool>

@@ -1,0 +1,1 @@
+main(){cin>>n;while(pow(3,i)<n){i++;}cout<<i<<endl;}

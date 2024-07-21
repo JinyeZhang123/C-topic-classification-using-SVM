@@ -1,0 +1,2 @@
+ell = cell->next;
+		}                             

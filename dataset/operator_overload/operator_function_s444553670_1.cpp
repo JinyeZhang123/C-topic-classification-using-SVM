@@ -1,0 +1,1 @@
+bool operator==(const MInt& n) { return val == n.val; }

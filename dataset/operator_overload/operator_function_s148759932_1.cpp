@@ -1,0 +1,1 @@
+info operator+(info a,i64 b){ a.first-=a.second; a.second=a.second*power(2,b,mod)%mod; return info((a.first+a.second+mod)%mod,a.second); }

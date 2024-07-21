@@ -1,0 +1,1 @@
+mint operator-(mint a) { return -a.n + MOD * (a.n 

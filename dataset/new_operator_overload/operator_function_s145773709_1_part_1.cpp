@@ -1,0 +1,1 @@
+bool operator<(adam &x){return g-s>x.g-x.s;}      

@@ -1,0 +1,1 @@
+			mark[x] = min(mark[x], i);//mark[i]表示i?点第一次被??的??，inf表示未被??

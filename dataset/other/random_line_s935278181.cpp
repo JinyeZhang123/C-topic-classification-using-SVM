@@ -1,0 +1,1 @@
+			pattern[back + front] = true;

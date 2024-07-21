@@ -1,0 +1,1 @@
+        ans = atan(num);

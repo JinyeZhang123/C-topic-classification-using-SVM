@@ -1,0 +1,1 @@
+	bool issame(int x, int y) { return root(x) == root(y); }

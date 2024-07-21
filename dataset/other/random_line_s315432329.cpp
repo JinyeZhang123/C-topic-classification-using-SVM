@@ -1,0 +1,1 @@
+		cin >> command >> str;

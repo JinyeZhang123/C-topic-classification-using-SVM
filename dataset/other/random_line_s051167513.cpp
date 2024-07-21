@@ -1,0 +1,1 @@
+int CalcSumOfDigit(int n)

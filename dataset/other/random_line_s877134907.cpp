@@ -1,0 +1,1 @@
+int DP[MAXSTATE+5][MAXN+1];

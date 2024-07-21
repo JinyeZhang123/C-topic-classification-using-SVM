@@ -1,0 +1,1 @@
+-1)<=W) S+=comb(i,B-1)*rui(2,mod-2)%mod*rui(rui(2,

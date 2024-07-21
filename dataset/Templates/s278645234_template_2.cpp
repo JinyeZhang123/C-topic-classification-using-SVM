@@ -1,0 +1,1 @@
+template <class C> C& maxi(C& a, C b) { if (a < b) a = b; return a; }

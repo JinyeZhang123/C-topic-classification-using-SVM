@@ -1,0 +1,1 @@
+string const w = "mcxi";

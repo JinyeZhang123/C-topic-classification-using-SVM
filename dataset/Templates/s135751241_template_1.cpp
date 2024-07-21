@@ -1,0 +1,1 @@
+template <class T,class U>void mineq(T& a,U b){if(a>b){a=b;}

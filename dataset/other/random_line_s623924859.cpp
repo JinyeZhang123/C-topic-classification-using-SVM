@@ -1,0 +1,1 @@
+template<typename T> void MACRO_VAR_Scan(T& t) { scan_in >> t; }

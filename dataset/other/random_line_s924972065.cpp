@@ -1,0 +1,1 @@
+			cin>>cm>>hand[i];

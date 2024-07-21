@@ -1,0 +1,1 @@
+void operator+=(const T& t) { v = v + t.v; }

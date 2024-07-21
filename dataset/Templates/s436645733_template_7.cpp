@@ -1,0 +1,1 @@
+template<class Integer>bool constexpr IsEven(Integer &n) { return !(n & 1); }

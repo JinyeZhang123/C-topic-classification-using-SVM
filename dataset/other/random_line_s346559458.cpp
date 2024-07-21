@@ -1,0 +1,1 @@
+bool straight( int* a )

@@ -1,0 +1,1 @@
+template<typename T> T &anth(T &a, const T &b){ return a = ant(a, b); }

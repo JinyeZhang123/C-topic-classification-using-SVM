@@ -1,0 +1,1 @@
+typedef vector<vll> vvll;

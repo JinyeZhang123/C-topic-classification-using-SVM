@@ -1,0 +1,1 @@
+        cout << input + "s" << endl;

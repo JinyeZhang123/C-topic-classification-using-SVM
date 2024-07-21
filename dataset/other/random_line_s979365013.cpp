@@ -1,0 +1,1 @@
+			covered[Y - cnt[Y]]++;

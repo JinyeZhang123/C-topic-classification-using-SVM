@@ -1,0 +1,1 @@
+	showArray(C, N);

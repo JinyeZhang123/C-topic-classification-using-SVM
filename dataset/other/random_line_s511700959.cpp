@@ -1,0 +1,1 @@
+	cout << cal / price << endl;

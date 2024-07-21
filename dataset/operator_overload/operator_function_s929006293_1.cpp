@@ -1,0 +1,1 @@
+bool operator<(st p, st q){return a[p.x]>a[q.x];}

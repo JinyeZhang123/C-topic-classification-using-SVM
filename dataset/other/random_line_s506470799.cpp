@@ -1,0 +1,1 @@
+bool pal(string s) {

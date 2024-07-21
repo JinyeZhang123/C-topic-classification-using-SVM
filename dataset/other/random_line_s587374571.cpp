@@ -1,0 +1,1 @@
+#define VI vector<int>

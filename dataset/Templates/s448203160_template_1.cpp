@@ -1,0 +1,1 @@
+template <class T> inline void dbg(T t) { cout << t << endl; }

@@ -1,0 +1,2 @@
+s->value < obj.value);
+    }                      

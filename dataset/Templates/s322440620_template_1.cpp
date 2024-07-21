@@ -1,0 +1,1 @@
+template<class T> ll upper(T n,T m){return (n+m-1)/m;}

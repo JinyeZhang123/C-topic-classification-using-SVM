@@ -1,0 +1,1 @@
+		vector<char> cnt(ALP);

@@ -1,0 +1,1 @@
+    ans += numbers.back();

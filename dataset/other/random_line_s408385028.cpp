@@ -1,0 +1,1 @@
+  arrangeFace(d.getLeft());

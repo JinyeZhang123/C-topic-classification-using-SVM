@@ -1,0 +1,1 @@
+template<typename T,typename T1>T maxs(T &a,T1 b){if(b>a)a=b;return a;}

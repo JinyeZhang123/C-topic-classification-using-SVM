@@ -1,0 +1,1 @@
+node operator <<(const int a)const{node p=*this;fo

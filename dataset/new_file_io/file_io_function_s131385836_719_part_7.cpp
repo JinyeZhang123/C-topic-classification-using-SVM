@@ -1,0 +1,1 @@
+     if (dpb[i] && dpd[i] && dpa[i - 1] && dpc[i +

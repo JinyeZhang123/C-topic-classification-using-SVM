@@ -1,0 +1,1 @@
+      friend constexpr Vec operator+(Vec const& v, Vec const& w) { return Vec(v) += w; }

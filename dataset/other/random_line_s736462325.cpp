@@ -1,0 +1,1 @@
+    	cin >> x[i].first >> x[i].second.first;

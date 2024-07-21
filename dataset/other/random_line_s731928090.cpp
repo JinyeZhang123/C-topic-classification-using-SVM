@@ -1,0 +1,1 @@
+			if (!hantei[f])break;

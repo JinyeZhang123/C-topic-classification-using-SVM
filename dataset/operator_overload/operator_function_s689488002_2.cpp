@@ -1,0 +1,1 @@
+Point operator/(const Point& a, const int& b) { return a / (long double)b; }

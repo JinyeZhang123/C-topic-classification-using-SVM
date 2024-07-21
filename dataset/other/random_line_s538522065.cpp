@@ -1,0 +1,1 @@
+    process p = que.front();

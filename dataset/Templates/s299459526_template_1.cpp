@@ -1,0 +1,1 @@
+template <int POS, class TUPLE> void deploy(std::ostream &os, const TUPLE &tuple){}

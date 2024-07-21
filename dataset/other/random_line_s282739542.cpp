@@ -1,0 +1,1 @@
+bool judge(int number){

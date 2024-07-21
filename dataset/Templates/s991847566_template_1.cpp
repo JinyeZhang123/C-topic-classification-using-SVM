@@ -1,0 +1,1 @@
+template <class X> void pr(X test){cout<<test<<endl;}

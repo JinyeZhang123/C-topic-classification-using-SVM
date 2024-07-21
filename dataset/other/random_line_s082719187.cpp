@@ -1,0 +1,1 @@
+	ll haba = saidai - saishou;

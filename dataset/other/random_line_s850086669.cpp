@@ -1,0 +1,1 @@
+				que.emplace(ny, nx);

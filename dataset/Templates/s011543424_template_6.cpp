@@ -1,0 +1,1 @@
+template<typename H, typename ...T> void write(H head, T ...tail) { cout << head << " "; write(tail...); }

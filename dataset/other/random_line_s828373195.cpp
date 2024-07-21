@@ -1,0 +1,1 @@
+  sscanf(buf, "%d", &N);

@@ -1,0 +1,1 @@
+template<typename T> inline T _toint(const string s){istringstream i(s);T n;i>>n;return n;}

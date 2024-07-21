@@ -1,0 +1,1 @@
+        ll rest = N - i;

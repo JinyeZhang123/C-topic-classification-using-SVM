@@ -1,0 +1,1 @@
+    r.insert(data[i]);

@@ -1,0 +1,1 @@
+                mind = dist[j];

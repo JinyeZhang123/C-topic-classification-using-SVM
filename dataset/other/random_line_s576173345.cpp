@@ -1,0 +1,1 @@
+			if (current->key == key) {

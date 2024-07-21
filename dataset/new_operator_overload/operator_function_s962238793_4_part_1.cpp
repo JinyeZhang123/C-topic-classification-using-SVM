@@ -1,0 +1,1 @@
+point operator/(double a){return point(x/a,y/a);} 

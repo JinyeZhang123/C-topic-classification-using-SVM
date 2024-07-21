@@ -1,0 +1,1 @@
+	cout << maxof(ar) << endl;

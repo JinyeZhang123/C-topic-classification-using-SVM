@@ -1,0 +1,1 @@
+template<class T>void Yes(T c){ if(c) cout<<"Yes"<< endl; else cout<<"No"<<endl; }

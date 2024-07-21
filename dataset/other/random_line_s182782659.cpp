@@ -1,0 +1,1 @@
+            pre[tot]=zero;

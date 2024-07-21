@@ -1,0 +1,1 @@
+				sum -= alpha[s[i]];

@@ -1,0 +1,1 @@
+template<class x,class y> x invGeneral(x a,y b){if(a==0)return b==1?0:-1;x m=invGeneral(b%a,a);return m==-1?-1:((1-(ll)b*m)/a+b)%b;}

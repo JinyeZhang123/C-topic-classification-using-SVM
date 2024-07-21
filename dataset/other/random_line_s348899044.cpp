@@ -1,0 +1,1 @@
+    yoko.insert(0);

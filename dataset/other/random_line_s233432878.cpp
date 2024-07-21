@@ -1,0 +1,1 @@
+	if( lowbit(N) == N ) {

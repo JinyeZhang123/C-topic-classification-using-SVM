@@ -1,0 +1,1 @@
+template<typename T> inline void __trace_out_var(T* val) { cerr << arrStr(val, 10); }

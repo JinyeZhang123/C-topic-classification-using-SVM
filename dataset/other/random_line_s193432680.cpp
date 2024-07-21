@@ -1,0 +1,1 @@
+	lcm=a/gcd*b;

@@ -1,0 +1,1 @@
+template<typename T> void co(T e){cout << e << "\n";}

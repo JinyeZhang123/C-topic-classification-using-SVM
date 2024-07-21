@@ -1,0 +1,1 @@
+  int head = 0, tail = 0;

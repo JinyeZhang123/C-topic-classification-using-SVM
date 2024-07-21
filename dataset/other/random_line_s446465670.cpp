@@ -1,0 +1,1 @@
+				ACIndex[p[i]] = i;

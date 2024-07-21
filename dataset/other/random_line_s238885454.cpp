@@ -1,0 +1,1 @@
+        double avr = 0;

@@ -1,0 +1,1 @@
+	    mon[a][b] = cost;

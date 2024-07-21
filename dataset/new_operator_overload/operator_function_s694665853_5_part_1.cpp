@@ -1,0 +1,1 @@
+bool operator<(const HOGE<CLASS1, CLASS2> &hoge1, 

@@ -1,0 +1,2 @@
+    return s == t || s > t;
+}                     

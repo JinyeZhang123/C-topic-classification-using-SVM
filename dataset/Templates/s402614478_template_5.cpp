@@ -1,0 +1,2 @@
+template<typename T1,typename T2>
+ostream& operator<<(ostream& os,const pair<T1,T2>& v){os << v.fst <<" "<<v.scd << " ";return os;}

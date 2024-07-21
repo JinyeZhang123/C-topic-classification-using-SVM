@@ -1,0 +1,1 @@
+        if(!vq[t].empty()){

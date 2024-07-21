@@ -1,0 +1,1 @@
+            inst.add(x,y);

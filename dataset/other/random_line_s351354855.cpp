@@ -1,0 +1,1 @@
+  vec.resize(3);

@@ -1,0 +1,1 @@
+template<class F>auto recursive(F f){return[f](auto...a){return f(f,a...);}

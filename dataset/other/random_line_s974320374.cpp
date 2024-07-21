@@ -1,0 +1,1 @@
+using vlai=valarray<int>;

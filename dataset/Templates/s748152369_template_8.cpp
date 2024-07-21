@@ -1,0 +1,1 @@
+template<typename T>T min_index(vector<T>&v){return distance((v).begin(),min_element(ALL(v)));}

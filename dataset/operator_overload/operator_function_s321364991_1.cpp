@@ -1,0 +1,1 @@
+bool operator<(const P &a, const P &b){return a.dat<b.dat;}

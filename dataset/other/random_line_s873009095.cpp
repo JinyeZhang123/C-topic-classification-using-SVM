@@ -1,0 +1,1 @@
+    cout << maxp <<" "<<maxd<< endl;

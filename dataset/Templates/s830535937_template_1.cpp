@@ -1,0 +1,1 @@
+template<class T> inline void operator () (T &x) { x = *this; }

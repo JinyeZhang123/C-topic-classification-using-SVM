@@ -1,0 +1,1 @@
+  int n;cin>>n;cout<<(n-2)*180;}

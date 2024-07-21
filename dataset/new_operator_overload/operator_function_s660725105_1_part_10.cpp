@@ -1,0 +1,1 @@
+onst int inf = 1e17 + 47, MAXN = 5e5 + 47, mod = 1

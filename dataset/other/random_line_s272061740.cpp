@@ -1,0 +1,1 @@
+	str.insert(str.begin(), '-');

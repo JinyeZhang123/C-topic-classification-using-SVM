@@ -1,0 +1,1 @@
+  cout << calcMaxGcd(vnNum) << endl;

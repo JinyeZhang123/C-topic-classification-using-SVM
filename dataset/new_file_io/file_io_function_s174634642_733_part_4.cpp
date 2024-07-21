@@ -1,0 +1,1 @@
+vector<pair<int,int>>> adj(n+1, vector<pair<int,in

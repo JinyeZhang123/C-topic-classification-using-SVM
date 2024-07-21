@@ -1,0 +1,1 @@
+ e = {v, money - a, b}                            

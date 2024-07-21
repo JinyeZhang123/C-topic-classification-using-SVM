@@ -1,0 +1,1 @@
+void pushup(int k){

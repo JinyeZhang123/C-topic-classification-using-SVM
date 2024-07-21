@@ -1,0 +1,1 @@
+    ll tmp=q.front();

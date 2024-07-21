@@ -1,0 +1,1 @@
+        sum = mod(sum - e);

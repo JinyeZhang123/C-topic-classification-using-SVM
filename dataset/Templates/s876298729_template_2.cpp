@@ -1,0 +1,1 @@
+template <typename Num> void minimize(Num &x, Num y) {x = min(x, y);}

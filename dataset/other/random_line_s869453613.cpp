@@ -1,0 +1,1 @@
+    setHeight(root);

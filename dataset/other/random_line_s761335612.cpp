@@ -1,0 +1,1 @@
+		if(nw==tot)break;

@@ -1,0 +1,1 @@
+	if (!debugFlag) return;

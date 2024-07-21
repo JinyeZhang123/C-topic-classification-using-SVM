@@ -1,0 +1,1 @@
+int sod(int c){

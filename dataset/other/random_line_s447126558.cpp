@@ -1,0 +1,1 @@
+template<class T> inline void First(T condition){ if(condition) cout << "First" << endl; else cout << "Second" << endl; }

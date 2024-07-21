@@ -1,0 +1,1 @@
+pnt operator-(pnt x, pnt y) { return pnt(x.x - y.x

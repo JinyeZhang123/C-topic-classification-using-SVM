@@ -1,0 +1,1 @@
+	int saidai = 0;

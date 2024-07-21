@@ -1,0 +1,1 @@
+                    T += table[key][index];

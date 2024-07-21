@@ -1,0 +1,1 @@
+template<class T>inline void add(T &x, T y) {x += y; if(x >= mod) x -= mod;}

@@ -1,0 +1,1 @@
+			while(nowx<nexx){

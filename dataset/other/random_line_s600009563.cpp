@@ -1,0 +1,1 @@
+  amari = amari % 9;

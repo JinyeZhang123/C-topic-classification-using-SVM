@@ -1,0 +1,1 @@
+typedef complex<double> vec;

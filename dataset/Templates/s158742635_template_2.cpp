@@ -1,0 +1,1 @@
+template<class T> T MAX(const T& a, const T& b) { return a > b ? a : b; }

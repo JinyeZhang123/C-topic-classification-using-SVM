@@ -1,0 +1,1 @@
+template<typename T>inline void ckmx(T &x,T y){x=max(x,y);}

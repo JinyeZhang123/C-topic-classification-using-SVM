@@ -1,0 +1,1 @@
+template<typename T>T rev(T a){reverse(all(a));return a;}

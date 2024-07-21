@@ -1,0 +1,1 @@
+#define keta fixed<<setprecision

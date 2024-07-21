@@ -1,0 +1,1 @@
+)*((topow(y.second)-1)%base)%base)*(((topow(x.seco

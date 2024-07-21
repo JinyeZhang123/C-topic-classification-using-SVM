@@ -1,0 +1,1 @@
+            cout << da[i] << endl;

@@ -1,0 +1,1 @@
+      rmq.update(x,y);

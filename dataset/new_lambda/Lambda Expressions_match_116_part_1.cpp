@@ -1,0 +1,1 @@
+[](std::string x) { std::cout << x << std::endl; }

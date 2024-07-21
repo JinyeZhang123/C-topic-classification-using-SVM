@@ -1,0 +1,1 @@
+        cin >> tmp >> tmp2;

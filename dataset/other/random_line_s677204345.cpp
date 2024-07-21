@@ -1,0 +1,1 @@
+	auto scc = makescc(g);

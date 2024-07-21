@@ -1,0 +1,1 @@
+typedef ll int lli;

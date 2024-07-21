@@ -1,0 +1,1 @@
+        ten[i] = temp;

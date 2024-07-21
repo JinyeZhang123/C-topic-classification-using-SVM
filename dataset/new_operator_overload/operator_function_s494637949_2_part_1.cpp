@@ -1,0 +1,1 @@
+void operator <<=(const int a){*this=(*this)<<a;} 

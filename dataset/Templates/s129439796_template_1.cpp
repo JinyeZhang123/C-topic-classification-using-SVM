@@ -1,0 +1,1 @@
+template<typename T>T rad(T deg){return deg*M_PI/180;}

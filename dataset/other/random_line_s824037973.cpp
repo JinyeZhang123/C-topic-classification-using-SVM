@@ -1,0 +1,1 @@
+					cipher.at(n) = 'a';

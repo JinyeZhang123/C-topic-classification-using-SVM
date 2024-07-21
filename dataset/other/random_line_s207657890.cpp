@@ -1,0 +1,1 @@
+    cout << frequent << " " << longest << endl;

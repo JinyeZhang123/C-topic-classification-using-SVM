@@ -1,0 +1,1 @@
+template <typename T, typename ...Ts> void read(T& x, Ts&... args) { read(x); read(args...); }

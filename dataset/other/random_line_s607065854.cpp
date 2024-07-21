@@ -1,0 +1,1 @@
+            else alice += arr[i];

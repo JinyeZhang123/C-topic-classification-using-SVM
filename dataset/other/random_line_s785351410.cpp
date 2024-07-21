@@ -1,0 +1,1 @@
+        totalHaveCoin += have[i];

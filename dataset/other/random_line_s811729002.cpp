@@ -1,0 +1,1 @@
+  inpt(sports, n);

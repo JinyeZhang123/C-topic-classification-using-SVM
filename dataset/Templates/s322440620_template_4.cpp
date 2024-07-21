@@ -1,0 +1,1 @@
+template<class T> bool outG(T x,T n){return x<0 || n<=x;}

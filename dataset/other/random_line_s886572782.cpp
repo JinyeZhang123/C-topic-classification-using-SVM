@@ -1,0 +1,1 @@
+bool nq(ll n){

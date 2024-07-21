@@ -1,0 +1,1 @@
+string operator &(const string &a,const string &b)

@@ -1,0 +1,1 @@
+#define lld long double

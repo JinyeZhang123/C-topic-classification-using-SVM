@@ -1,0 +1,1 @@
+#define vector <ll> vi

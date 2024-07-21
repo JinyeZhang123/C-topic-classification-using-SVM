@@ -1,0 +1,1 @@
+    int amari = a % b;

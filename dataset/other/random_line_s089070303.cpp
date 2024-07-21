@@ -1,0 +1,1 @@
+  cout<<mes[res]<<endl;

@@ -1,0 +1,1 @@
+        if(!(K&mask)) continue;

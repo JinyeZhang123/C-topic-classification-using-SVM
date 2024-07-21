@@ -1,0 +1,2 @@
+          mData *= mData;
+                exp >>= 

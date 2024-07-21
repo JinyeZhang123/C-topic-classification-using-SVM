@@ -1,0 +1,1 @@
+int Max,d[N];

@@ -1,0 +1,1 @@
+template <typename T> inline int size(const T& x) { return x.size(); }

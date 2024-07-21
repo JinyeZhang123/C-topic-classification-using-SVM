@@ -1,0 +1,1 @@
+template<typename T,typename U>ll ceil(T a,U b){return (a + b - 1) / b;}

@@ -1,0 +1,1 @@
+	now = getvalue(str[i]);

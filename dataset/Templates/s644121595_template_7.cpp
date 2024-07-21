@@ -1,0 +1,1 @@
+template<class T, class U>int Count(T a, U c) { return count(a.begin(), a.end(), c); }

@@ -1,0 +1,1 @@
+template <typename T> void mul(T& a, T b){ a = a*b%mod;}

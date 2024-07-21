@@ -1,0 +1,1 @@
+Monoid operator[](ll a) { return get(a, a + 1); } 

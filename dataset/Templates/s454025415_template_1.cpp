@@ -1,0 +1,1 @@
+template<typename T> ostream& operator<< (ostream& os,const vector<T>& vec){ os << "{"; for(T v:vec) os << v << ","; os << "}

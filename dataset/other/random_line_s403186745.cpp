@@ -1,0 +1,1 @@
+    for (auto i = 0; i < n; i++) cin >> x[i];

@@ -1,0 +1,2 @@
+is->value == obj.value);
+    }                    

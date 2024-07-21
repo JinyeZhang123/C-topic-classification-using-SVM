@@ -1,0 +1,1 @@
+typedef vector<pp> vpp;

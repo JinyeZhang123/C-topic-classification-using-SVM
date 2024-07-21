@@ -1,0 +1,1 @@
+template<class T>int SIZE(T a){return a.size();}

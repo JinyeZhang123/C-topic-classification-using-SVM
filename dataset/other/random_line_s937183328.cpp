@@ -1,0 +1,1 @@
+        ld num = arr[i];

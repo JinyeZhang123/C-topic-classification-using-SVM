@@ -1,0 +1,1 @@
+U operator|(T x, function<U(T)> f) { return f(x); }

@@ -1,0 +1,1 @@
+		char c; int x;

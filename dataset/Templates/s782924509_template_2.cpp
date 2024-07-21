@@ -1,0 +1,1 @@
+template <class T> inline void chmin(T &ans, T t) { if (t < ans) ans = t;}

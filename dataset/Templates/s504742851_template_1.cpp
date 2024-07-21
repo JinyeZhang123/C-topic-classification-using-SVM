@@ -1,0 +1,1 @@
+template<typename T, typename U> T &ctmax(T &x, const U &y){ return x = max<T>(x, y); }

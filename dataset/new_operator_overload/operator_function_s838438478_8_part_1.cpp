@@ -1,0 +1,2 @@
+bool operator<(A a, A b) {
+	if (a.x != b.x) return

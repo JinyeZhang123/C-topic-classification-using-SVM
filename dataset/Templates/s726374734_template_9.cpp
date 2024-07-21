@@ -1,0 +1,1 @@
+template<class x> ostream &operator<<(ostream &out,vector<x> &v) {out<<"Size : "<<v.size()<<endl;for(auto i:v)out<<i<<" ";out<<endl;return out;}

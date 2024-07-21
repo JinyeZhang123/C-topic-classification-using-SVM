@@ -1,0 +1,1 @@
+  cin >> masu >> white;

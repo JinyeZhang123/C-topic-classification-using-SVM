@@ -1,0 +1,1 @@
+    x += step * cos(angle);

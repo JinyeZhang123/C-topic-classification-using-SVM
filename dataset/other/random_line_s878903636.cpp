@@ -1,0 +1,1 @@
+		while(index>0){

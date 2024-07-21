@@ -1,0 +1,1 @@
+template <class C> C& mini(C& a, C b) { if (b < a) a = b; return a; }

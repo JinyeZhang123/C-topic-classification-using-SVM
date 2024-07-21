@@ -1,0 +1,1 @@
+		tmp=partitation(a,b);

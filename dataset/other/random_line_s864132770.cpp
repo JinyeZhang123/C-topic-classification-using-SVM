@@ -1,0 +1,1 @@
+			c[y].resize(w);

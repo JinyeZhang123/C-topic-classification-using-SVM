@@ -1,0 +1,1 @@
+        double nums[10];

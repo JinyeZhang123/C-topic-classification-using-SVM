@@ -1,0 +1,1 @@
+      ans = min(cost, ans);

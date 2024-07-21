@@ -1,0 +1,1 @@
+			sosu[i*j] = false;

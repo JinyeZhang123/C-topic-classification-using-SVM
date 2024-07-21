@@ -1,0 +1,1 @@
+			cout<<zikan[i][j];

@@ -1,0 +1,1 @@
+long inv(long a) {

@@ -1,0 +1,1 @@
+  nodes.resize(N);

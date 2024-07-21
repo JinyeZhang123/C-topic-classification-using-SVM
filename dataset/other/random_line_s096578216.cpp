@@ -1,0 +1,1 @@
+#define vecd             vector<double>

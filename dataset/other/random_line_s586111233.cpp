@@ -1,0 +1,1 @@
+  return Max-Min;

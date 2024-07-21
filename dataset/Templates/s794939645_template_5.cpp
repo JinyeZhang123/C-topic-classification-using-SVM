@@ -1,0 +1,1 @@
+template <typename A, typename B> inline LL mul(A x, B y) {return 1ll * x * y % mod;}

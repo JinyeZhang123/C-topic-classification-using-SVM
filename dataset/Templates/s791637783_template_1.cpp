@@ -1,0 +1,1 @@
+template<class T>vector<T> vec(int len, T elem) { return vector<T>(len, elem); }

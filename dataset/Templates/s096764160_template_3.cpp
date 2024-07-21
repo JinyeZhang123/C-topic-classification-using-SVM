@@ -1,0 +1,1 @@
+template <class T> void min_swap(T& a, const T& b) { a = min(a, b); }

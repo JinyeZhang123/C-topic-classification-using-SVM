@@ -1,0 +1,1 @@
+int c,d;main(){cin>>c>>d;cout<<__gcd(c,d)<<endl;return 0;}

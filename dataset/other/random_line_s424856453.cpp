@@ -1,0 +1,1 @@
+                sum+=Q.front().t;

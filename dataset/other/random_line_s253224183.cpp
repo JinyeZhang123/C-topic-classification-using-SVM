@@ -1,0 +1,1 @@
+            ll que; cin >> que;

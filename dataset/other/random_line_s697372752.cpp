@@ -1,0 +1,1 @@
+	llint val = 1;

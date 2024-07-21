@@ -1,0 +1,1 @@
+constexpr lint INF = mod;

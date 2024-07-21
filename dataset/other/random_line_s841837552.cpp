@@ -1,0 +1,1 @@
+			Num[Top] = Num[Right];

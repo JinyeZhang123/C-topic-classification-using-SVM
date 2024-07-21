@@ -1,0 +1,1 @@
+template<typename T>void MACRO_OUT(const T t) { std::cout << t; }

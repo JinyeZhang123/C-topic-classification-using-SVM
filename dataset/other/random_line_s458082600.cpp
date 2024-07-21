@@ -1,0 +1,1 @@
+#define ivec vector<ll>

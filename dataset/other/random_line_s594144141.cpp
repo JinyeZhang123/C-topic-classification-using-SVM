@@ -1,0 +1,1 @@
+    cout << hit << ' ' << blow << endl;

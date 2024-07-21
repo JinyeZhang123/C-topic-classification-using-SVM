@@ -1,0 +1,1 @@
+long fanc(int flo)

@@ -1,0 +1,1 @@
+template<class T> inline T GCD(T a,T b){T c;while(b!=0){c=a%b;a=b;b=c;}

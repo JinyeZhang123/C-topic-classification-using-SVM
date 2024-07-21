@@ -1,0 +1,1 @@
+  z->leftc=NIL;

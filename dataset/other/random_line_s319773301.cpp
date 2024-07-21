@@ -1,0 +1,1 @@
+    if (big.size())

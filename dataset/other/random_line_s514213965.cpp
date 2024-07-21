@@ -1,0 +1,1 @@
+	cout << maxAi - minAi << endl;

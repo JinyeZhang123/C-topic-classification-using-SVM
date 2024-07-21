@@ -1,0 +1,1 @@
+  cin.rdbuf(in.rdbuf());

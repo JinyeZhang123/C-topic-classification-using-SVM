@@ -1,0 +1,1 @@
+    read(N);read(M);

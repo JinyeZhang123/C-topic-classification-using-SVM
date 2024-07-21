@@ -1,0 +1,1 @@
+    parents[ar] += parents[br];

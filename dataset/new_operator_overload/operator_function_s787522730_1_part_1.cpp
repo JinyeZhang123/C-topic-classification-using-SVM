@@ -1,0 +1,1 @@
+bool operator<(PIECE a,PIECE b){return a.s<b.s;}  

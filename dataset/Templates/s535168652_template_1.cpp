@@ -1,0 +1,1 @@
+template<typename T=lint>T in(){return *istream_iterator<T>(cin);}

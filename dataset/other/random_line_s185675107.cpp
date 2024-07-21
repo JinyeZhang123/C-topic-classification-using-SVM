@@ -1,0 +1,1 @@
+  	n = istringstream(m);

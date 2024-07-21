@@ -1,0 +1,1 @@
+				list[y]=list[x];

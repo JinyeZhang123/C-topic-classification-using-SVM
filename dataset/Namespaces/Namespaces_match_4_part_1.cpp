@@ -1,0 +1,2 @@
+namespace std{
+  template<clas

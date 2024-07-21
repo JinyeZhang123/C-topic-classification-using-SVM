@@ -1,0 +1,1 @@
+  #define vld vector<ld>

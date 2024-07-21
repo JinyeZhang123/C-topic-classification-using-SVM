@@ -1,0 +1,1 @@
+LL fac[maxn];

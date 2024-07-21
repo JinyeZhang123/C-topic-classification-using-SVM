@@ -1,0 +1,1 @@
+    putout(n-maxx);

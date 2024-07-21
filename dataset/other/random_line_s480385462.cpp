@@ -1,0 +1,1 @@
+		if (ch == '\n') break;

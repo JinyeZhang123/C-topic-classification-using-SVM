@@ -1,0 +1,1 @@
+#define RNG() rng()

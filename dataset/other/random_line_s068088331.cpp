@@ -1,0 +1,1 @@
+        if(now == N) break;

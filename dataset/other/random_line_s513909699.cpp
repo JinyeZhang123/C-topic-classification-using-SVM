@@ -1,0 +1,1 @@
+#define pause system("pause");

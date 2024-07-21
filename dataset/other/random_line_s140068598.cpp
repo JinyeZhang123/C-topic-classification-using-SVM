@@ -1,0 +1,1 @@
+				if(cn==strlen(teho)){

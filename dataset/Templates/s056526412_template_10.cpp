@@ -1,0 +1,1 @@
+template<typename A, typename B> pair<A, B> operator- (const pair<A, B> &l, const pair<A, B> &r) { return make_pair(l.first - r.first, l.second - r.second); }

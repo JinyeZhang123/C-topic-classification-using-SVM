@@ -1,0 +1,1 @@
+  cout << k * t << endl;

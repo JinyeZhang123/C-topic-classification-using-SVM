@@ -1,0 +1,1 @@
+>> vertices[i + 1].first >> vertices[i + 1].second

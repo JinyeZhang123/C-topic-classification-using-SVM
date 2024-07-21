@@ -1,0 +1,1 @@
+template <typename T> void print(T x) {std::cout << x << '\n';}

@@ -1,0 +1,1 @@
+template<class T> inline void add(T &a, T b){a = ((a+b) % MOD + MOD) % MOD;}

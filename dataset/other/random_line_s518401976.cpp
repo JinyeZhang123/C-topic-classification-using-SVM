@@ -1,0 +1,1 @@
+    L[x].resize(m);

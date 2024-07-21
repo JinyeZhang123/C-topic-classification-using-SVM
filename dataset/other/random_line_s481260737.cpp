@@ -1,0 +1,1 @@
+    int satisfaction = 0;

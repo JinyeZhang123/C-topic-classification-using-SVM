@@ -1,0 +1,1 @@
+            minC = min(minC, c);

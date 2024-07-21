@@ -1,0 +1,1 @@
+template <class T> T input() {T t; cin>>t; return t;}

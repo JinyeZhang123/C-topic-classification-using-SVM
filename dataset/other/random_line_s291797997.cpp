@@ -1,0 +1,1 @@
+	cin>>cla>>yen;

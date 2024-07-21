@@ -1,0 +1,1 @@
+using namespace std;int main(){int n,k;while(true){cin>>n;if(n==0)break;int ans=1;bool na=true;for(int i=0;i<n;i++){cin>>k;if(k>0)ans++;if(k>1)na=false;}if(na==true)cout<<"NA"<<endl;else cout<<ans<<endl;}return 0;}

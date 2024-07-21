@@ -1,0 +1,1 @@
+template<class T> bool uin(T &a, T b) { return a > b ? (a = b, true) : false; }

@@ -1,0 +1,1 @@
+        int tar = k * X;

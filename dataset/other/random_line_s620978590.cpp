@@ -1,0 +1,1 @@
+      xsum += ps[index].x;

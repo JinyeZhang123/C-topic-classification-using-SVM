@@ -1,0 +1,1 @@
+        for(auto& nd : g){

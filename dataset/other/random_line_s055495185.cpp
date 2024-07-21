@@ -1,0 +1,1 @@
+bool isOKright(ll index) {

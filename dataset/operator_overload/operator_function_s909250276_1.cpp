@@ -1,0 +1,1 @@
+bool operator==(modint a, modint b) { return a.n == b.n; }

@@ -1,0 +1,1 @@
+      med = p[i].first;

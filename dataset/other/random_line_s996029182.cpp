@@ -1,0 +1,1 @@
+    b.push_back(a[0]);

@@ -1,0 +1,1 @@
+double operator*(pt p){return x*p.x+y*p.y;}       

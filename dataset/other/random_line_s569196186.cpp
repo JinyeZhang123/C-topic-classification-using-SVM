@@ -1,0 +1,1 @@
+                else cx=a[nx];

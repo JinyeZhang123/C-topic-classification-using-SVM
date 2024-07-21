@@ -1,0 +1,1 @@
+        ans = (double)n/2/n;

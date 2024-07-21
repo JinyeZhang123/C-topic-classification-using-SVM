@@ -1,0 +1,1 @@
+			ret+=(localmax-localmin);

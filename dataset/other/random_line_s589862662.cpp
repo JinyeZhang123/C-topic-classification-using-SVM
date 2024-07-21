@@ -1,0 +1,1 @@
+ll ketasu(ll a){

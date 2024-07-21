@@ -1,0 +1,1 @@
+#pragma gcc optimize("Ofast")

@@ -1,0 +1,1 @@
+template < typename T > void UMIN(T &a,T b){a=(a<b?a:b);}

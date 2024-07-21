@@ -1,0 +1,1 @@
+inline T read()

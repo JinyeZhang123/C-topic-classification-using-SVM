@@ -1,0 +1,1 @@
+		postorder(node[id].left);

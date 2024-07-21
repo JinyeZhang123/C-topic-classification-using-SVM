@@ -1,0 +1,1 @@
+info operator+(info a,i64 b){ a.first-=a.second; a

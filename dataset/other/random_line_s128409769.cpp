@@ -1,0 +1,1 @@
+#define kara puts("")

@@ -1,0 +1,1 @@
+        cumsum -= p.first;

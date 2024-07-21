@@ -1,0 +1,1 @@
+virtual T fromlazytotreenode( L lazy, T nownode ) 

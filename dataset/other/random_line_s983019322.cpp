@@ -1,0 +1,1 @@
+    cell->next = head->next;

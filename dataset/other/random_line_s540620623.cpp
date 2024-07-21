@@ -1,0 +1,1 @@
+	vector<input> ins(T);

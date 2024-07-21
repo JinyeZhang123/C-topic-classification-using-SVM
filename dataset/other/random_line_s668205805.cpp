@@ -1,0 +1,1 @@
+	int M=init.size();

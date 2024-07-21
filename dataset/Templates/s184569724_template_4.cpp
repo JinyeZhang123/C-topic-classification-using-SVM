@@ -1,0 +1,1 @@
+template<typename T> inline void __evars_out_var(T val) { cerr << val; }

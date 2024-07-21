@@ -1,0 +1,1 @@
+template<class T, class U> inline ostream& operator<<(ostream& os, const pair<T, U>& rhs) { return os << "{" << rhs.first << ", " << rhs.second << "}

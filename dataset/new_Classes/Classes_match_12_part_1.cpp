@@ -1,0 +1,5 @@
+class Tr{
+	P a,b,c;double A,B,C;double x,y,z;
+	double F(double a,double b, double c){
+		return acos((b*b+c*c-a*a)/(2*b*c));
+	}                                                                          

@@ -1,0 +1,3 @@
+top() << endl;
+			st.pop();
+		}                   

@@ -1,0 +1,1 @@
+ cin.tie(0); // harris leung ioi gold calling it 1

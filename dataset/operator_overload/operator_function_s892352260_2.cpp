@@ -1,0 +1,1 @@
+bool operator<(segment a,segment b){return a.r!=b.r?a.r<b.r:a.l>b.l;}

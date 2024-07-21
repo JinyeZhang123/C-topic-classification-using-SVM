@@ -1,0 +1,1 @@
+or<Point>, function<bool(Point &, Point &)> > q([]

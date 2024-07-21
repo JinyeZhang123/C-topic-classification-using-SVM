@@ -1,0 +1,4 @@
+test.txt");
+	//std::cin.rdbuf(in.rdbuf());
+
+	int n

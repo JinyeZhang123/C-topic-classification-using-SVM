@@ -1,0 +1,1 @@
+double eqa = (1 + sqrt(5.0)) / 2.0;

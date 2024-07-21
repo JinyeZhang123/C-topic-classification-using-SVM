@@ -1,0 +1,1 @@
+  cout<<GetAve(data)<<endl;

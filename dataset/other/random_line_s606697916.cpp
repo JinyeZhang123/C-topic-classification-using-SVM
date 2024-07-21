@@ -1,0 +1,1 @@
+        if (data[i] == max){

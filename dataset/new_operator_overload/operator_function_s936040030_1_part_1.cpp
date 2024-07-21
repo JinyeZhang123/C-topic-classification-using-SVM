@@ -1,0 +1,1 @@
+T operator*(const vector<T> &a, const vector<T> &b

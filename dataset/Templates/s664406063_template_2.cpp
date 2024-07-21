@@ -1,0 +1,1 @@
+template<class T,class... Ts>inline void out(T t,Ts... ts){cout << t << " ";out(ts...);}

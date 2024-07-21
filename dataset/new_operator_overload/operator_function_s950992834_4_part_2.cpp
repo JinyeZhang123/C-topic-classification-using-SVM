@@ -1,0 +1,1 @@
+on.X * Partner.Direction.X , Direction.Y * Partner

@@ -1,0 +1,1 @@
+    if(i==right) ++right;

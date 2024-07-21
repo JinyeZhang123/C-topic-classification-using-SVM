@@ -1,0 +1,1 @@
+        Arale.insert(ch);

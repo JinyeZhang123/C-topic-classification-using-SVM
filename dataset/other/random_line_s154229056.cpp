@@ -1,0 +1,1 @@
+    res += syou*a;

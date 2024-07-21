@@ -1,0 +1,1 @@
+		cout << bc << " " << wc << endl;

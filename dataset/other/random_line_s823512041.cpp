@@ -1,0 +1,1 @@
+    cout<<"ABC"<<a<<endl;

@@ -1,0 +1,1 @@
+n a.num!=b.num?a.num>b.num:a.penalty!=b.penalty?a.

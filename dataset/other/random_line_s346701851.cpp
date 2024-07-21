@@ -1,0 +1,1 @@
+#ifdef _GLIBCXX_STRING

@@ -1,0 +1,1 @@
+        cout<<tel[k]<<endl;

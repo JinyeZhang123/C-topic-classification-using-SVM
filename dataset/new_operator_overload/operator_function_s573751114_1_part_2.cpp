@@ -1,0 +1,1 @@
+= r.h * r.h + r.w * r.w) return h * h + w * w < r.

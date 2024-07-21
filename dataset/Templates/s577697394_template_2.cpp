@@ -1,0 +1,1 @@
+template<class T, class... A> void print(const T& first, const A&... rest) { cout << first << " "; print(rest...); }

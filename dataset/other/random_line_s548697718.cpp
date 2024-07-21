@@ -1,0 +1,1 @@
+			rectangleSecond = rectangleFirst;

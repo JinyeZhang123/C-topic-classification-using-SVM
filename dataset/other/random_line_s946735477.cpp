@@ -1,0 +1,1 @@
+#define nd endl

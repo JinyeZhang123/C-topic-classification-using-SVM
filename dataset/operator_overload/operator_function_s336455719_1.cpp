@@ -1,0 +1,1 @@
+bool operator!=(index_type &r) { return x < r.x; }

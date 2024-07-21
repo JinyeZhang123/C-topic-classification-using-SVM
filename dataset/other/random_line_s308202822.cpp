@@ -1,0 +1,1 @@
+bool palin(string s) {

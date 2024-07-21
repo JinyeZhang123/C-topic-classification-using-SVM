@@ -1,0 +1,2 @@
+ = (num*other.num) % p;
+    }                     

@@ -1,0 +1,1 @@
+        nex = s.top().second;

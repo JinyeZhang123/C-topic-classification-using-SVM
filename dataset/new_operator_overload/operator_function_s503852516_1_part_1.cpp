@@ -1,0 +1,1 @@
+Operator operator_product(const Operator &p, const

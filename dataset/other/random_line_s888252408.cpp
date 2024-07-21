@@ -1,0 +1,1 @@
+	bool negative_cycle;

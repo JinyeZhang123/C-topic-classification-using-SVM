@@ -1,0 +1,1 @@
+template<class T>auto Min(T a) { return *min_element(a.begin(), a.end()); }

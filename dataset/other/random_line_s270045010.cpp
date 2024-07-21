@@ -1,0 +1,1 @@
+            else A_temp++;

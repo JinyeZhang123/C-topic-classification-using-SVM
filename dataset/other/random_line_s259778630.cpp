@@ -1,0 +1,1 @@
+#define vstring vector<string>

@@ -1,0 +1,1 @@
+            if(flag)ma=i;

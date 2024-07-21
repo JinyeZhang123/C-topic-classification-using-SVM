@@ -1,0 +1,4 @@
+template<class T>
+T ceil(T a, T b) {
+    return (a+b-1)/b;
+}

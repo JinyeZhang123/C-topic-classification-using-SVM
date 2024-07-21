@@ -1,0 +1,1 @@
+        return memo*memo%mod;

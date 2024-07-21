@@ -1,0 +1,1 @@
+  cout << a - 9 * (b + c) << endl;

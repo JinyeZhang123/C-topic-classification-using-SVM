@@ -1,0 +1,1 @@
+     N=read(),H=read();

@@ -1,0 +1,1 @@
+				isNotPrime[j] = true;

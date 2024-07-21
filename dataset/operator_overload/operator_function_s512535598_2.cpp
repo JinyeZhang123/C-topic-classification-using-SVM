@@ -1,0 +1,1 @@
+void operator-=(const Mod& rhs) { *this = *this - rhs; }

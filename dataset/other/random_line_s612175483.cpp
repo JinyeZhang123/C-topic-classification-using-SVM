@@ -1,0 +1,1 @@
+	int weight = 0;

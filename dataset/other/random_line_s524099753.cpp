@@ -1,0 +1,1 @@
+#define NL cout << '\n';

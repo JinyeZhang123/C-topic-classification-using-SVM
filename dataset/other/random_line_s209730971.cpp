@@ -1,0 +1,1 @@
+    if(adj==from)continue;

@@ -1,0 +1,1 @@
+bool operator==(const Card &lhs, const Card &rhs) 

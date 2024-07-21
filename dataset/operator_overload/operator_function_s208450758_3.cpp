@@ -1,0 +1,1 @@
+Vec operator*(Real const& k, Vec const& v) { return Vec(v) *= k; }

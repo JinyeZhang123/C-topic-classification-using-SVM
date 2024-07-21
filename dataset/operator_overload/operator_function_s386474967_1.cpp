@@ -1,0 +1,1 @@
+int operator[](int x) { return cmp[x]; }

@@ -1,0 +1,1 @@
+template<class T> inline T ceil(T a, T b) {return T((a + b - 1) / b);}

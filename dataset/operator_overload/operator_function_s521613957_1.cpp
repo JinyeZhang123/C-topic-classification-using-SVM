@@ -1,0 +1,1 @@
+bool operator<(seg a,seg b){return a.r<b.r||(a.r==b.r&&a.l<b.l);}

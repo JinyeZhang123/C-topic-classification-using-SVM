@@ -1,0 +1,1 @@
+bool operator<(A a) { return x + y < a.x + a.y; }

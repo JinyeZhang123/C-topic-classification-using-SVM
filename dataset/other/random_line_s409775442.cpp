@@ -1,0 +1,1 @@
+    sort(Q,Q+num);

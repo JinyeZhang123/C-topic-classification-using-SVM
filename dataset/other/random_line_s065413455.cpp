@@ -1,0 +1,1 @@
+        if(lazy[i] != unit){

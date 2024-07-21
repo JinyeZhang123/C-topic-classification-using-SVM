@@ -1,0 +1,1 @@
+				int lol=n-j;

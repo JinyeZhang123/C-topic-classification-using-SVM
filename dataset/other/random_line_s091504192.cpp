@@ -1,0 +1,1 @@
+    cout<<val*t<<endl;

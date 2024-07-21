@@ -1,0 +1,1 @@
+  Z.resize(str.size());

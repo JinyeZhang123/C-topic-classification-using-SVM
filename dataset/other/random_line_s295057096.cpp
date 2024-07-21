@@ -1,0 +1,1 @@
+        int daikin = 0;

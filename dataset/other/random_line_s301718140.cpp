@@ -1,0 +1,1 @@
+    cout <<cou[i]<<endl;

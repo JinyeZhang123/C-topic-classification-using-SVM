@@ -1,0 +1,1 @@
+void setinv(int n){

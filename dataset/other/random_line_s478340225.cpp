@@ -1,0 +1,1 @@
+now-=input[i-m];

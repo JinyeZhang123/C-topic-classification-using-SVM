@@ -1,0 +1,1 @@
+    if (NO[x].fixed) {

@@ -1,0 +1,1 @@
+Node operator*(const Node r){return data < r.data ? *this : r;}

@@ -1,0 +1,1 @@
+    cout<<path.size()<<'\n';

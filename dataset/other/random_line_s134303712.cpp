@@ -1,0 +1,1 @@
+bool usedR[N];

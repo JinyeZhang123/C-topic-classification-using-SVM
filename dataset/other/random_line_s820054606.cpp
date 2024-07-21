@@ -1,0 +1,1 @@
+		while(!vis[pos]){

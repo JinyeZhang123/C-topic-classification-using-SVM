@@ -1,0 +1,1 @@
+ll operator*(Vector &a,Vector &b) {return a.x*b.x+

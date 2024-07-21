@@ -1,0 +1,1 @@
+template <typename T> function<T(T,T)> constexpr mmax(){ return [](T x, T y){return x>y?x:y;}

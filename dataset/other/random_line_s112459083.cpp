@@ -1,0 +1,1 @@
+bool mapData[N][N];

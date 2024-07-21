@@ -1,0 +1,1 @@
+long mod(long a){

@@ -1,0 +1,1 @@
+,n) {cin>>a[i]; mx = max(mx,a[i]);}               

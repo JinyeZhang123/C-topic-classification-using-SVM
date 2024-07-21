@@ -1,0 +1,1 @@
+[](const char& ch){ std::cout << ch; }

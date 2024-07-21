@@ -1,0 +1,1 @@
+bool operator<(const Query &q){return x<q.x;}

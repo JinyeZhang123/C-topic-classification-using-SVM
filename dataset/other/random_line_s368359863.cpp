@@ -1,0 +1,1 @@
+void ask(string s) {

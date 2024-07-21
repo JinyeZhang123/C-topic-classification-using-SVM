@@ -1,0 +1,1 @@
+        ll cycle = N / b;

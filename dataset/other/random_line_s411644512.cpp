@@ -1,0 +1,1 @@
+    vector<Record> records(R);

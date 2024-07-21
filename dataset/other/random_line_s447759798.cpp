@@ -1,0 +1,1 @@
+bitset<MN> bs[MN];

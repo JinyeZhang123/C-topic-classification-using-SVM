@@ -1,0 +1,1 @@
+template <typename T> inline void smax(T &a, T b) { a = a > b ? a : b; }

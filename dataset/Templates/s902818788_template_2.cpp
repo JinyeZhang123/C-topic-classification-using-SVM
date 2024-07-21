@@ -1,0 +1,6 @@
+template<class T>
+bool umin(T &a, const T &b) {
+    if (b < a) {
+        a = b;
+        return true;
+    }

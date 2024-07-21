@@ -1,0 +1,1 @@
+    G = vector<vi>(n);

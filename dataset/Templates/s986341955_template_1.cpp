@@ -1,0 +1,1 @@
+template<class T>bool chmax(T &former, const T &b) { if (former<b) { former=b; return true; }

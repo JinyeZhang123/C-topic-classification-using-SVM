@@ -1,0 +1,1 @@
+				hitoPos = moveSouth(hitoPos);

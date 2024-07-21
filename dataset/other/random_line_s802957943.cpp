@@ -1,0 +1,1 @@
+#define LOW(s) transform(s.begin(),s.end(),s.begin(),::tolower)

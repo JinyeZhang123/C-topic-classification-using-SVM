@@ -1,0 +1,1 @@
+using vd=vector<double>;

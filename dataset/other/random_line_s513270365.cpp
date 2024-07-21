@@ -1,0 +1,1 @@
+using namespace std;long long i=0,n,q,x,r,l,m,a[100000],t[100001],s[100001];main(){cin>>n>>q;for(;i<n;i++){cin>>a[i];s[i+1]=s[i]+a[i];t[i+1]=(i?t[i-1]:0)+a[i];}while(q--){cin>>x;l=0;r=n+1;while(r-l>1){m=(r+l)/2;(abs(a[n-m]-x)>abs(a[n-(m+1)/2]-x)?r:l)=m;}cout<<s[n]-s[n-(l+1)/2]+t[max(n-l-(l&1),0LL)]<<endl;}}

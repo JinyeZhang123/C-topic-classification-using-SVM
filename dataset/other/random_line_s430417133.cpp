@@ -1,0 +1,1 @@
+    ll odd=0,even=1;

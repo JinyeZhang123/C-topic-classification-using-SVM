@@ -1,0 +1,1 @@
+  int ice_index;

@@ -1,0 +1,1 @@
+		(*Right)->Parent = *PreOrderPos;

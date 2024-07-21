@@ -1,0 +1,1 @@
+            ans=fabs(A-val);

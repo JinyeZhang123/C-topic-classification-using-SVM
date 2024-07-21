@@ -1,0 +1,1 @@
+    while (getline(cin, line)) {

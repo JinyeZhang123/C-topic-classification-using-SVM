@@ -1,0 +1,1 @@
+static const int MAX_N = 1e5;

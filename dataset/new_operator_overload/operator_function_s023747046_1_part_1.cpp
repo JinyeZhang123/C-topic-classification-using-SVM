@@ -1,0 +1,1 @@
+bool operator<(seg s1, seg s2) { return s1.p < s2.

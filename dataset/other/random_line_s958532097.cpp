@@ -1,0 +1,1 @@
+char next(char c) {

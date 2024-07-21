@@ -1,0 +1,1 @@
+	  DICE Sorth(DICE *t);

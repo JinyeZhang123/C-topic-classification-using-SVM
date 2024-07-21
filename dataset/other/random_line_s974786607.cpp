@@ -1,0 +1,1 @@
+        squeres[i][j]=INF;

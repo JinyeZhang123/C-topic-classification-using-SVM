@@ -1,0 +1,1 @@
+        contest[i].c=t;

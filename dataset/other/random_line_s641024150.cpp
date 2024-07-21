@@ -1,0 +1,1 @@
+                amari = a[i] % amari;

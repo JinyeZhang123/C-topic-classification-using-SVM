@@ -1,0 +1,1 @@
+template<Z A,Z B>void pr(A a,B b){cout<<a<<' ';pr(b);}

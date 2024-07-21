@@ -1,0 +1,1 @@
+template<class T>void vecin(vector<T>& vec) { for (int i = 0; i < vec.size(); i++) cin >> vec[i]; }

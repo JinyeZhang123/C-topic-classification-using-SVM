@@ -1,0 +1,1 @@
+long double Rmax,Rmin;

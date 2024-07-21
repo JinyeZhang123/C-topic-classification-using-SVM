@@ -1,0 +1,1 @@
+#define nn           cout << "\n";

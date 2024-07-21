@@ -1,0 +1,1 @@
+template <typename... Args> void Write(Args const&... args) { bool a = true; for (auto const& x : { args... }

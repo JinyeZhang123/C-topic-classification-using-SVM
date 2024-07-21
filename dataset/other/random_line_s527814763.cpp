@@ -1,0 +1,1 @@
+    cin>>veco.at(i);

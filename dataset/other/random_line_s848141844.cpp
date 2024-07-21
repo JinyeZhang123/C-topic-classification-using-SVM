@@ -1,0 +1,1 @@
+   sort(tcard,tcard+n);

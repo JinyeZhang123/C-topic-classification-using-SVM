@@ -1,0 +1,3 @@
+in >> x;
+        histgram[x]++;
+    }             

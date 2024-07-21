@@ -1,0 +1,1 @@
+             [](ll a,ll b){return min(a,b);}      

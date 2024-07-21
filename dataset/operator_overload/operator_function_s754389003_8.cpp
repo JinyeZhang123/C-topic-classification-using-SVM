@@ -1,0 +1,1 @@
+auto operator/(modular b) {return modular{value*pow(b.value, mod-2)%mod}

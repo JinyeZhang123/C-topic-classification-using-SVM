@@ -1,0 +1,1 @@
+template<typename T> inline void pt(T x) { cout << x << endl; }

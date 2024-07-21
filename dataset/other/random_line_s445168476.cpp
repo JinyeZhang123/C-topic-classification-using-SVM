@@ -1,0 +1,1 @@
+int kaibun(string num){

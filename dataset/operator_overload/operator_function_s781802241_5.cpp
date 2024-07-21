@@ -1,0 +1,1 @@
+lol operator*(const pt& a, const pt& b) { return a.x* b.y - a.y * b.x; }

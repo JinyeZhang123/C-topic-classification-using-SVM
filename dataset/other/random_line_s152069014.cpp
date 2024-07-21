@@ -1,0 +1,1 @@
+#define VE vector<int>

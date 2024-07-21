@@ -1,0 +1,1 @@
+int station[10];

@@ -1,0 +1,1 @@
+            cin >> distance[i] >> garbage;

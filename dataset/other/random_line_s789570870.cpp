@@ -1,0 +1,1 @@
+		st.erase(s[i]);

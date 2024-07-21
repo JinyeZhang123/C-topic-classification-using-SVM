@@ -1,0 +1,1 @@
+                ifnprime[j] = 1;

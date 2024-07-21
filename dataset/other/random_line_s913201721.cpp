@@ -1,0 +1,1 @@
+// cin>>T;while(T--)

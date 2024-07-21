@@ -1,0 +1,1 @@
+        ssub+=score[i];

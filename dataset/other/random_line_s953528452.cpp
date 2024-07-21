@@ -1,0 +1,1 @@
+            cout << HYOU[i][j];

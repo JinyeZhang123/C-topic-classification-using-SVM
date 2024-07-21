@@ -1,0 +1,1 @@
+			switch (tile[y][x]) {

@@ -1,0 +1,1 @@
+    cout << tt[i] << endl;

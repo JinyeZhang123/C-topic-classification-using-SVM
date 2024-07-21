@@ -1,0 +1,1 @@
+int main(void){int a,i,h,m;int t[5];for(i=1;i<=5;i++){scanf("%d",&t[i]);if(t[i]<40){t[i]=40;}a+=t[i];h=a/5;}		printf("%d\n",h);return 0;}		

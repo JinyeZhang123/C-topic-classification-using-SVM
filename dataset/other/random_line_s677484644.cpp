@@ -1,0 +1,1 @@
+	int xmax = x + r;

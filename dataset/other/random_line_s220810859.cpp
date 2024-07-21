@@ -1,0 +1,1 @@
+			int maxi=toInt(s);

@@ -1,0 +1,1 @@
+static const int dy[4]={0,0,1,-1};

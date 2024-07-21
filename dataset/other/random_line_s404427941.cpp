@@ -1,0 +1,1 @@
+			front = last = 0;

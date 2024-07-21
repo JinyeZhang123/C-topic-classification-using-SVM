@@ -1,0 +1,1 @@
+    cout << lcm(a, b);

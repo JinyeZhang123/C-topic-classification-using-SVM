@@ -1,0 +1,1 @@
+modll operator*(int r) { return (x * r) % MOD; }  

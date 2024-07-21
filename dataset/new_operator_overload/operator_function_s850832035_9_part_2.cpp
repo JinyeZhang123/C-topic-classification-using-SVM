@@ -1,0 +1,1 @@
+modint(inv(b, mod)); }                            

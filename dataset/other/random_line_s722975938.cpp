@@ -1,0 +1,1 @@
+      maxcnt = hyou[i];

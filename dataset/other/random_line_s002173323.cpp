@@ -1,0 +1,1 @@
+#define BR cerr<<endl

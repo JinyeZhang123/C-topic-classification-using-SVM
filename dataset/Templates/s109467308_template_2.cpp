@@ -1,0 +1,1 @@
+template<class C> void max_self( C &a, C b ){ a = max(a,b); }

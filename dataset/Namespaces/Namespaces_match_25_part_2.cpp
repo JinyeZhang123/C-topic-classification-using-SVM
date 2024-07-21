@@ -1,0 +1,1 @@
+ypename T>ostream&operator<<(o

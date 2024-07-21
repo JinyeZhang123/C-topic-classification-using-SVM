@@ -1,0 +1,1 @@
+        checked[now] = true;

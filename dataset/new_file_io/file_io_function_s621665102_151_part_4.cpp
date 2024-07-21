@@ -1,0 +1,3 @@
+ temp) {
+		str += temp;
+	}                        

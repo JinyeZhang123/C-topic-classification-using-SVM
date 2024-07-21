@@ -1,0 +1,1 @@
+	ss=Replace(s, "peach", "*****");

@@ -1,0 +1,1 @@
+.x_; y_ = p.y_; idx_ = p.idx_; return *this;}     

@@ -1,0 +1,1 @@
+	cout<<maxValue-minValue<<endl;

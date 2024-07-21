@@ -1,0 +1,1 @@
+Ring_mod operator-(const Ring_mod& b) { return Rin

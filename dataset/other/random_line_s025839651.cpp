@@ -1,0 +1,1 @@
+    vector < pii > s(n);

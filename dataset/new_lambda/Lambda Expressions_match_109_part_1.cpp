@@ -1,0 +1,1 @@
+[&](P a, P b) {return pos[a.first] <= pos[b.first]

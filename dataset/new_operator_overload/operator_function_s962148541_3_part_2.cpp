@@ -1,0 +1,1 @@
+uto i : r) { l.insert(i); }                       

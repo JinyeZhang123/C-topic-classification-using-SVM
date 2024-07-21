@@ -1,0 +1,1 @@
+          ans += count[pre[i]];

@@ -1,0 +1,1 @@
+template<class T> T power(T a, T b) {return b ? power(a * a, b / 2) * (b % 2 ? a : 1) : 1;}

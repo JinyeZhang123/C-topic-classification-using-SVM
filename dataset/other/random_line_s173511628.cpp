@@ -1,0 +1,1 @@
+	int mon, cnt;

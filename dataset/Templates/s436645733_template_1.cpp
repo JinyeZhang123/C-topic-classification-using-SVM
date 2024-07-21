@@ -1,0 +1,1 @@
+template <class Type> inline constexpr Type Square(Type x) { return x * x; }

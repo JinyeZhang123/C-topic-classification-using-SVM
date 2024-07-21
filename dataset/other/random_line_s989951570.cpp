@@ -1,0 +1,1 @@
+			if (hanbetu == 0) {

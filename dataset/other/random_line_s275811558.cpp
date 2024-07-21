@@ -1,0 +1,1 @@
+  auto ok = [&](int now) {

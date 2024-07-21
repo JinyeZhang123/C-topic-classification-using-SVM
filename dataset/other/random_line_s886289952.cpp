@@ -1,0 +1,1 @@
+	cout<<ab<<endl;

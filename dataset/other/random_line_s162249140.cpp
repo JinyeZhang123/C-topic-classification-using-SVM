@@ -1,0 +1,1 @@
+	return getMinimum(x->r);

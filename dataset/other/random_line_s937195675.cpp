@@ -1,0 +1,1 @@
+    me.insert(pos[n]);

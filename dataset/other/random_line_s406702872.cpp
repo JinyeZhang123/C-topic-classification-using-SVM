@@ -1,0 +1,1 @@
+vector<edge*> adj[mx];

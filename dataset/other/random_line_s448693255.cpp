@@ -1,0 +1,1 @@
+        cin >> ltemp >> rtemp;

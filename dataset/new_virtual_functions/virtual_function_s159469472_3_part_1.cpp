@@ -1,0 +1,1 @@
+virtual ll fx(ll x1,ll x2)=0;                     

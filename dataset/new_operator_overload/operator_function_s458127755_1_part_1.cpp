@@ -1,0 +1,1 @@
+bool operator[](int i) { return !data[i]; }       

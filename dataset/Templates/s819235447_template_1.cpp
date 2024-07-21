@@ -1,0 +1,1 @@
+template<class T,class U>bool chmin(T&a,const U&b){if(a<=b)return false;a=b;return true;}

@@ -1,0 +1,1 @@
+        chmin(mi, r[i]);

@@ -1,0 +1,1 @@
+template<class T> void outvv(T v){rep(i,v.size())outv(v[i]);}

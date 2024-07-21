@@ -1,0 +1,1 @@
+    curGcd = gcd(curGcd, tmp);

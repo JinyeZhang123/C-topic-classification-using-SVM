@@ -1,0 +1,1 @@
+    BIT<int> bit(SZ);

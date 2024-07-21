@@ -1,0 +1,1 @@
+  if(now>s)return;

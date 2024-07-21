@@ -1,0 +1,1 @@
+  cout<<max(e,f);

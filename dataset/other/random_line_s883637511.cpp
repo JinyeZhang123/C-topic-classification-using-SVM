@@ -1,0 +1,1 @@
+	P = vector<ll>(N);

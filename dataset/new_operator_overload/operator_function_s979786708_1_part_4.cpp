@@ -1,0 +1,1 @@
+or (int i = 0; i < b.size(); i++) ret[i] = (ret[i]

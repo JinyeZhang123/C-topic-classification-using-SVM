@@ -1,0 +1,1 @@
+        cur += v[i].second;

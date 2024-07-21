@@ -1,0 +1,1 @@
+  increseKey(heap,n,key);

@@ -1,0 +1,1 @@
+template<typename T> inline void uniq(std::vector<T> &v) { v.erase(unique(v.begin(), v.end()), v.end()); }

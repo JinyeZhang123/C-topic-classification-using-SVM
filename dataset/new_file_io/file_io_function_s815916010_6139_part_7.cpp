@@ -1,0 +1,3 @@
+);
+        fri[B].insert(A);
+    }                

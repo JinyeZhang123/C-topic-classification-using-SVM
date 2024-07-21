@@ -1,0 +1,1 @@
+typedef vector<VI> VVI;

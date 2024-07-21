@@ -1,0 +1,1 @@
+l)a.n*b.n) % mod; return a; }                     

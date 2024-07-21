@@ -1,0 +1,1 @@
+#define lower(s) transform(s.begin(), s.end(), s.begin(), ::tolower)

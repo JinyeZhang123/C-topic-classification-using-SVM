@@ -1,0 +1,1 @@
+printf("%d %d\n",X,Y);}return 0;}

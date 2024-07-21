@@ -1,0 +1,1 @@
+template<class T, class U>U Sum(T a, U init = 0) { return accumulate(a.begin(), a.end(), init); }

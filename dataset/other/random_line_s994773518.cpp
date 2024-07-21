@@ -1,0 +1,1 @@
+  char b; cin >> b;

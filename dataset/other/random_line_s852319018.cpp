@@ -1,0 +1,1 @@
+		if (cntB >= B) break;

@@ -1,0 +1,1 @@
+bool operator<(const block &lhs, const block &rhs)

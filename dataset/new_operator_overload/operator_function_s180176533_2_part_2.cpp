@@ -1,0 +1,1 @@
+	return vect(p.first.first - q.first.first, p.firs

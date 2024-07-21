@@ -1,0 +1,1 @@
+template <typename T> inline void assign_min(T& x, const T& value) noexcept { x = min(x, value); }

@@ -1,0 +1,1 @@
+template <typename T> Reads(T& a) { std::cin >> a; }

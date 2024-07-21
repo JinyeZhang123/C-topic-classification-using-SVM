@@ -1,0 +1,1 @@
+    qq.push(par[p]);

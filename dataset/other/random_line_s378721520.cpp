@@ -1,0 +1,1 @@
+  int count = b/a;

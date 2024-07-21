@@ -1,0 +1,1 @@
+const string alpha = "abcdefghijklmnopqrstuvwxyz";

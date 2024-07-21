@@ -1,0 +1,2 @@
+na < rhs.pena;
+	}                                 

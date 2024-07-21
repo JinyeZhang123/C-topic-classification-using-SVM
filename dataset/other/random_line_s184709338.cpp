@@ -1,0 +1,1 @@
+	if (left < tama[i])

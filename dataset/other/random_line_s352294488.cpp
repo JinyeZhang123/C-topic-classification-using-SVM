@@ -1,0 +1,1 @@
+    InverseofNumber(p); 

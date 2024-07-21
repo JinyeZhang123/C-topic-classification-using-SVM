@@ -1,0 +1,1 @@
+bool operator!=(const It& other){return it != other.it;}

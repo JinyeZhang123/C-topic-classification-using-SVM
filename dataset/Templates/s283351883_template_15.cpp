@@ -1,0 +1,1 @@
+template <class T1> ostream & operator << (ostream &out, const set<T1> &v) { return out << iter_pair(begin(v), end(v)); }

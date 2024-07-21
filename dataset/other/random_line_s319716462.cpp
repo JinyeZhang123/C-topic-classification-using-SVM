@@ -1,0 +1,1 @@
+  size = word.size();

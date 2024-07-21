@@ -1,0 +1,1 @@
+using namespace std;int main(void){string j;int i;cin>>j;for(i=0;i<(int)j.size();i++){cout<<(char)(j[i]-3>64?j[i]-3:j[i]+23);}cout<<endl;return 0;}

@@ -1,0 +1,1 @@
+void preo(node *u)

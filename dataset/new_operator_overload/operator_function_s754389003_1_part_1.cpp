@@ -1,0 +1,1 @@
+_Tp operator=(_Tp b) {value = b%mod; return b;}   

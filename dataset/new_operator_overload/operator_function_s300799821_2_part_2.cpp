@@ -1,0 +1,1 @@
+n >= mod) a.n -= mod; return a; }                 

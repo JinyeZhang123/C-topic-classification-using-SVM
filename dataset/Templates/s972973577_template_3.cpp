@@ -1,0 +1,1 @@
+template<C T,C T2,C T3>void pr(T a,T2 b,T3 c){cout<<a<<' '<<b<<' '<<c;ln;}

@@ -1,0 +1,1 @@
+template<class T> inline bool change(T a,T b){if(a > b){swap(a,b);return true;}

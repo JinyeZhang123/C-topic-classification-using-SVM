@@ -1,0 +1,1 @@
+#define vcd vector <cd>

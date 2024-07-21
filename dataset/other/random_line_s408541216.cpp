@@ -1,0 +1,1 @@
+		comlen=strlen(com);

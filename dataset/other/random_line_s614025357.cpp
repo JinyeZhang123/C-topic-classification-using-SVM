@@ -1,0 +1,1 @@
+	RangeAddQuery<int>raq(n);

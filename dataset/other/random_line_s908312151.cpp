@@ -1,0 +1,1 @@
+	int ue,mae;

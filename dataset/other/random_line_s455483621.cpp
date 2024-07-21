@@ -1,0 +1,1 @@
+			cout<<int(i)<<endl;

@@ -1,0 +1,1 @@
+mint operator+(mint a, mint b) { return (a.n += b.n) >= MOD ? a.n - MOD : a.n; }

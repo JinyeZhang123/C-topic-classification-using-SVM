@@ -1,0 +1,1 @@
+	cout << solve(N) << endl;

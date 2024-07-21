@@ -1,0 +1,1 @@
+bool operator<(const Edge& left,const Edge& right)

@@ -1,0 +1,1 @@
+    vector<ll> contest(d);

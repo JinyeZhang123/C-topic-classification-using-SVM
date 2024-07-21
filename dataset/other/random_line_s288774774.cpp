@@ -1,0 +1,1 @@
+					if (area[areanum] > k) {

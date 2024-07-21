@@ -1,0 +1,1 @@
+template <typename T, typename U, typename V> Reads(T& a, U& b, V& c) { std::cin >> a >> b >> c; }

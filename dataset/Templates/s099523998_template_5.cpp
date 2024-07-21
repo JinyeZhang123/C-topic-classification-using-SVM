@@ -1,0 +1,1 @@
+template<typename T> inline bool semige(T x, T y){ return y - x < -EPS; }

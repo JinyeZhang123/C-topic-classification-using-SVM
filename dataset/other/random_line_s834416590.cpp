@@ -1,0 +1,1 @@
+    cout << z % P << endl;

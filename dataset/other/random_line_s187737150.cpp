@@ -1,0 +1,1 @@
+      cout << ibingo[i][j] << " ";

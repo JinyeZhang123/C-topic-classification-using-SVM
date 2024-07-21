@@ -1,0 +1,1 @@
+                num-=kazu[i*j];

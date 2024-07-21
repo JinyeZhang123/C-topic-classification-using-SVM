@@ -1,0 +1,1 @@
+void seive(int n){

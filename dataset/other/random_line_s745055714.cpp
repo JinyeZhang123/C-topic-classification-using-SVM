@@ -1,0 +1,1 @@
+ll inv(ll n) {

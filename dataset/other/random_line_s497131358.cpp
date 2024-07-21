@@ -1,0 +1,1 @@
+            int cntbackcoin = 0;

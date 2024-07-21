@@ -1,0 +1,1 @@
+			P[rcur] += P[lcur];

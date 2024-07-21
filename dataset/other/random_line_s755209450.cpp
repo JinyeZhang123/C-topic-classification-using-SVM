@@ -1,0 +1,1 @@
+    pable tmp, ret = p;

@@ -1,0 +1,1 @@
+vector<long> inv(MAX);

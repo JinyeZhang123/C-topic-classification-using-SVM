@@ -1,0 +1,1 @@
+			ma[nowx][nowy] = false;

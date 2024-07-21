@@ -1,0 +1,1 @@
+        cur += vp[i].first;

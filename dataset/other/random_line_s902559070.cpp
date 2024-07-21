@@ -1,0 +1,1 @@
+	LazySegmentTree<RURM> st(n);

@@ -1,0 +1,1 @@
+				int dif = d - cur;

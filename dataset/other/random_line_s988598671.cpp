@@ -1,0 +1,1 @@
+			f[RIGHT] = f[BOTTOM];

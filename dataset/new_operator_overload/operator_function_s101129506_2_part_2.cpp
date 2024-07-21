@@ -1,0 +1,1 @@
+.second - (ll)l.second * r.first; }               

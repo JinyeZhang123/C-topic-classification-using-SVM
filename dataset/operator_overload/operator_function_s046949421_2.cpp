@@ -1,0 +1,1 @@
+bool operator<(data a,data b){return a.time!=b.time?a.time<b.time:a.io<b.io;}

@@ -1,0 +1,3 @@
+bool operator<(const edge&a, const edge&b){
+    return a.cost < b.cost;
+}

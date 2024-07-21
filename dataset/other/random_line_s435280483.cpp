@@ -1,0 +1,1 @@
+			totalt = totalt + t[i];

@@ -1,0 +1,1 @@
+#define LINY "YES\n"

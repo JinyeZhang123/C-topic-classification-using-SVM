@@ -1,0 +1,1 @@
+template<typename T> void print(multiset <T> v){ for(auto item:v)cout<<item<<" ";cout<<"\n";}

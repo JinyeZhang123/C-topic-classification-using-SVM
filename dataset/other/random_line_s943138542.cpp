@@ -1,0 +1,1 @@
+	printf("%lf\n",y);

@@ -1,0 +1,1 @@
+		cout << ten[i] << endl;

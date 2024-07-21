@@ -1,0 +1,1 @@
+template<class T, class... U> void R(T &head, U &... tail) { _R(head); R(tail...); }

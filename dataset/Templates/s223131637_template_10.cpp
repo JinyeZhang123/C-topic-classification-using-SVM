@@ -1,0 +1,1 @@
+template<typename T> void reverse(vector<T>& v) {reverse(v.begin(), v.end());}

@@ -1,0 +1,1 @@
+bool operator<(const Node& x) { return v < x.v; } 

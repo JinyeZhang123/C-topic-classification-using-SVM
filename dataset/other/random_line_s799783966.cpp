@@ -1,0 +1,1 @@
+#define Vi vector<int>

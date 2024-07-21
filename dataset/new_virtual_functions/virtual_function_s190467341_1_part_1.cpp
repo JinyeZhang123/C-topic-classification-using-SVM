@@ -1,0 +1,1 @@
+virtual VM MergeValue(const VM& a, const VM& b)=0;

@@ -1,0 +1,1 @@
+Point operator*(const Point &p, const ll c) { retu

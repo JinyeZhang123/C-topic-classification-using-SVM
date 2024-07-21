@@ -1,0 +1,1 @@
+template <class T> inline void setmin(T & a, T const & b) { a = min(a, b); }

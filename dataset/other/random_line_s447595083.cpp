@@ -1,0 +1,1 @@
+        return seg[k+sz];

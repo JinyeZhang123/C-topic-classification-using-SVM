@@ -1,0 +1,1 @@
+int main(){int s[9000],n,m,t,f,i;while(std::cin>>n>>m&&n){for(i=t=f=1;i<=n+m;i++){std::cin>>s[i];if(i>n){t+=s[i];t+=s[t];if(t>=n&f==1){std::cout<<i-n<<std::endl;f=0;}}}}}

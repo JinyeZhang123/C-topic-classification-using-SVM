@@ -1,0 +1,1 @@
+using namespace std;I n,d,a[220001],b[220001];main(){cin>>n>>d;for(I i=1;i<=n;i++)cin>>a[i],b[i]=a[i];for(I i=2;i<=n;i++)b[i]=min(b[i],b[i-1]+d);for(I i=n-1;i;i--)b[i]=min(b[i],b[i+1]+d);I p=min_element(a+1,a+1+n)-a,A=0;for(I i=p-1;i;i--)A+=a[i]+b[i+1]+d;for(I i=p+1;i<=n;i++)A+=a[i]+b[i-1]+d;cout<<A<<'\n';}

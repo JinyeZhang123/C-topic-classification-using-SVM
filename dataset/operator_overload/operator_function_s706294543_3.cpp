@@ -1,0 +1,1 @@
+void operator*=(Int b) { v = 1ll * v * b.v % mod; }

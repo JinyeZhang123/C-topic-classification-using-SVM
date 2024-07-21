@@ -1,0 +1,2 @@
+template<class Ch, class Tr, class Tuple, size_t... Is>
+void print_tuple(basic_ostream<Ch,Tr>& os, Tuple const& t, seq<Is...>){ using s = int[]; (void)s{0, (void(os << (Is == 0? "" : ", ") << get<Is>(t)), 0)...}

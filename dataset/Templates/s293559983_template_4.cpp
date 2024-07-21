@@ -1,0 +1,1 @@
+template<class T> T div_ceil(const T a, const T b){return a>=0 ? (a-1)/b+1 : a/b;}

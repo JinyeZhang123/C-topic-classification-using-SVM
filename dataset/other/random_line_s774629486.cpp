@@ -1,0 +1,1 @@
+        parent[n] += parent[m];

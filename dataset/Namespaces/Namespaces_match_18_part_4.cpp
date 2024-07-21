@@ -1,0 +1,1 @@
+        iter(it,v) os<<*it<<(i

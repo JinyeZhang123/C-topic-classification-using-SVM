@@ -1,0 +1,1 @@
+template<typename ...T> void writef(T ...tail) { write(tail...); cout << flush; }

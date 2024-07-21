@@ -1,0 +1,1 @@
+	cout << Kaijo(n) << endl;

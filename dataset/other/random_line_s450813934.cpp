@@ -1,0 +1,1 @@
+	vis[y][x]=false;

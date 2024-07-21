@@ -1,0 +1,1 @@
+            ret += k*kleene[i];

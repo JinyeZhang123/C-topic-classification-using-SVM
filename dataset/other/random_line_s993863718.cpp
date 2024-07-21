@@ -1,0 +1,1 @@
+#define vC  vector<char>

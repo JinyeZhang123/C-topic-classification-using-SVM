@@ -1,0 +1,1 @@
+      printf("Wednesday\n");

@@ -1,0 +1,1 @@
+				score+=sumperson+1;

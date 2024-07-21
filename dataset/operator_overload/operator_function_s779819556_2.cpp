@@ -1,0 +1,1 @@
+_Writer operator ,(const T &rhs) { cout << (f ? " " : "") << rhs; f = true; return *this; }

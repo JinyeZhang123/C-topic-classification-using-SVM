@@ -1,0 +1,1 @@
+ll kaijo(ll n){

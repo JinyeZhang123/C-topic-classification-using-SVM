@@ -1,0 +1,1 @@
+bool operator<(const Construction &a,const Constru

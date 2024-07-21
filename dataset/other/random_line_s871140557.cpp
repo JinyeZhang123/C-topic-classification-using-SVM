@@ -1,0 +1,1 @@
+                col[j] = true;

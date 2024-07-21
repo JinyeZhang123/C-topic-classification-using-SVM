@@ -1,0 +1,1 @@
+    bk.resize(n);

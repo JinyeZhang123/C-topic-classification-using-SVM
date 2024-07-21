@@ -1,0 +1,1 @@
+#define vdouble vector<double>

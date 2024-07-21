@@ -1,0 +1,1 @@
+    cout << minSum[0];

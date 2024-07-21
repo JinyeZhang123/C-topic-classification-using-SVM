@@ -1,0 +1,1 @@
+template<class T> inline string toStr(T f){ ss sss; sss << f; return sss.str(); }

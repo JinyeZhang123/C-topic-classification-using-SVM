@@ -1,0 +1,5 @@
+template <class S, class T>
+ostream& operator<<(ostream& out, const pair<S, T>& o) {
+    out << "(" << o.first << "," << o.second << ")";
+    return out;
+}

@@ -1,0 +1,1 @@
+  a_list[j] & (1ll << i) ? bits[i][0]++ : bits[i][

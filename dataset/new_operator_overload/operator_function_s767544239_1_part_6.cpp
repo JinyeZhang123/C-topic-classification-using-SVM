@@ -1,0 +1,1 @@
+ (l.getDiff() < r.getDiff()) ? l.bestPair : r.best

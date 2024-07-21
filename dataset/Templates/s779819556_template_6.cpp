@@ -1,0 +1,1 @@
+template <class T> T read() { T t; cin >> t; return t; }

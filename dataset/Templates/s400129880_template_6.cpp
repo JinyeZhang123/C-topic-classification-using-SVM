@@ -1,0 +1,1 @@
+template<class H, class... T> void re(H& h, T&... t) { re(h); re(t...); }

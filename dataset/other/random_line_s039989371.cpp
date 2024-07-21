@@ -1,0 +1,1 @@
+    ll square = mid * mid;

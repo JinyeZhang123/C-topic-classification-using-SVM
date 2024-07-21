@@ -1,0 +1,1 @@
+static const int INF = 1000000099;

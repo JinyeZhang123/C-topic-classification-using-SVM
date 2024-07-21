@@ -1,0 +1,1 @@
+      if (tbl[i].empty()) {

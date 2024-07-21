@@ -1,0 +1,1 @@
+  rvnHeight.resize(nHeightSiz);

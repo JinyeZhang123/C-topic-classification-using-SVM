@@ -1,0 +1,1 @@
+template <typename T> inline T sq(T a) {return a * a;}

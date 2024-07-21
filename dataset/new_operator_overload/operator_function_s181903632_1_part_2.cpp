@@ -1,0 +1,1 @@
+ow(x.first)-1)%base)*((topow(y.second)-1)%base)%ba

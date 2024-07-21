@@ -1,0 +1,1 @@
+    bob += ans.at(i);

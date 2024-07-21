@@ -1,0 +1,1 @@
+  pie = kakera / 2;

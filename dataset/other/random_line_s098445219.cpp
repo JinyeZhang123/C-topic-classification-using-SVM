@@ -1,0 +1,1 @@
+	return positive ? x : -x;

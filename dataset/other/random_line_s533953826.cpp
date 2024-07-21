@@ -1,0 +1,1 @@
+                cin >> graph[i][j];

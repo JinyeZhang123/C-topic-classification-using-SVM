@@ -1,0 +1,1 @@
+            int left  = j * i;

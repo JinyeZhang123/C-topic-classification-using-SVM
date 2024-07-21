@@ -1,0 +1,1 @@
+	cout<<shosu(7);

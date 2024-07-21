@@ -1,0 +1,1 @@
+            kouji[x][y] = true;

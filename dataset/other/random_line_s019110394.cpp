@@ -1,0 +1,1 @@
+        mp[ruiseki[i]]++;

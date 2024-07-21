@@ -1,0 +1,1 @@
+        *this = FordFulkerson(graph.size());

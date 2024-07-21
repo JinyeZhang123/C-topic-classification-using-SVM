@@ -1,0 +1,1 @@
+char mat[MAXN][MAXN];

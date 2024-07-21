@@ -1,0 +1,1 @@
+inline bool inside (int x, int y, int n, int m) {

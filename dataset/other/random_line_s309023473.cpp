@@ -1,0 +1,1 @@
+				inRangeCnt=0;

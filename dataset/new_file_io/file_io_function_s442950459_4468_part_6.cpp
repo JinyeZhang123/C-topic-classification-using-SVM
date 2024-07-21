@@ -1,0 +1,1 @@
+  rep(i, 8) {if(S.substr(0, 7-i) + S.substr(s-i, i

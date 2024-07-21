@@ -1,0 +1,1 @@
+    store(int a, int b): a(a), b(b) {}

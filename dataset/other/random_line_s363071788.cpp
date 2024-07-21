@@ -1,0 +1,1 @@
+      return -parent[root(A)];

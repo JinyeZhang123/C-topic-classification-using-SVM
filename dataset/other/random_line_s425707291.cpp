@@ -1,0 +1,1 @@
+	cout << sum - dup << endl;

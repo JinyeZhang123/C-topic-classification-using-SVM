@@ -1,0 +1,1 @@
+#ifdef __GXX_EXPERIMENTAL_CXX0X__

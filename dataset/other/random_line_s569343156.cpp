@@ -1,0 +1,1 @@
+    } while (e != string::npos);

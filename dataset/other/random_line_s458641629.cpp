@@ -1,0 +1,1 @@
+    vector<P> now, next;

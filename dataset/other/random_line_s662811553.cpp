@@ -1,0 +1,1 @@
+    cout << time*T << endl;

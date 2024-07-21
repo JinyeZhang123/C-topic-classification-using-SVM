@@ -1,0 +1,1 @@
+	char jp=getchar();

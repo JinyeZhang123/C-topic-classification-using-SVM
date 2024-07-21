@@ -1,0 +1,1 @@
+        cin >> shuffle_num;

@@ -1,0 +1,1 @@
+        cin >> city >> score;

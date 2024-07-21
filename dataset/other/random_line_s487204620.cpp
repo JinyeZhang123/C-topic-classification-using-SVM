@@ -1,0 +1,1 @@
+        longest[i]=calc(i);

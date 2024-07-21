@@ -1,0 +1,1 @@
+	card[j] = esc[j];

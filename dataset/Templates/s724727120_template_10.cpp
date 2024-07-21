@@ -1,0 +1,1 @@
+template <class T> vector<T> input(int n) { vector<T> res(n); for (int i = 0; i < n; ++i) cin >> res[i]; return res; }

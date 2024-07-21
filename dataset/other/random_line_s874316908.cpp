@@ -1,0 +1,1 @@
+template<class T> void view(T e) {cout << e << endl;}

@@ -1,0 +1,3 @@
+
+				goto NOT_PRIME;
+			}                         

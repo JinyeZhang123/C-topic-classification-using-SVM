@@ -1,0 +1,1 @@
+virtual void direct_action(int node, int id) {}   

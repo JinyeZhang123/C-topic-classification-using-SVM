@@ -1,0 +1,1 @@
+        isFreeDay[d][i] = true;

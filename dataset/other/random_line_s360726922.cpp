@@ -1,0 +1,1 @@
+        if (color == c) ++color;

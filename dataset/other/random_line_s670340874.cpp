@@ -1,0 +1,1 @@
+#define cotline           cout << "\n"

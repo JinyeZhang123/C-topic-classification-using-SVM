@@ -1,0 +1,1 @@
+			if(bookre[j]<k){

@@ -1,0 +1,1 @@
+template<class T> void debug(const T& t){dprint(t);cerr<<endl;}

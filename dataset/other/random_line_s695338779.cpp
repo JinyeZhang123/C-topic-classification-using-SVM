@@ -1,0 +1,1 @@
+			return Minus(GetArg(num));

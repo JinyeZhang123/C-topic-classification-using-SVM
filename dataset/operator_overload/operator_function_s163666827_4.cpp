@@ -1,0 +1,1 @@
+Vector2d operator*(const Vector2d& p1, double d) {return Vector2d(p1.x * d, p1.y * d);}

@@ -1,0 +1,1 @@
+            t->rch=s.first;

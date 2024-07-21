@@ -1,0 +1,1 @@
+	cout << scoreA << ' ' << scoreB << endl;

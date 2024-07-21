@@ -1,0 +1,1 @@
+    if (maxcnt == cnt[i]) {

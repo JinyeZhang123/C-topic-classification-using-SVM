@@ -1,0 +1,1 @@
+ llm(a.value * b.value); }                        

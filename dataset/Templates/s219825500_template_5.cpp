@@ -1,0 +1,1 @@
+template<class T> void join(T a){for(auto itr :a){if(itr != *a.begin())cout << " "; cout << itr;}

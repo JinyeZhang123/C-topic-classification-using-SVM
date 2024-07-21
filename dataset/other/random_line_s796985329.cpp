@@ -1,0 +1,1 @@
+#define tol(s)         transform(s.begin(),s.end(),s.begin(),::tolower)

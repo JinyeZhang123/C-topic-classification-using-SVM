@@ -1,0 +1,1 @@
+			cnt+=oturi/en[i];

@@ -1,0 +1,1 @@
+long T[MAX];

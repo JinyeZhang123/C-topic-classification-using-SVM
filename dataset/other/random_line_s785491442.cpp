@@ -1,0 +1,1 @@
+double calc(data now);

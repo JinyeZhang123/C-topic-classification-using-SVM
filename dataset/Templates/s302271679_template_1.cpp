@@ -1,0 +1,1 @@
+template<class T>T IN() { T d; cin >> d; return d; }

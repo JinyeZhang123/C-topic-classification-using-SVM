@@ -1,0 +1,1 @@
+      char cur = s[i];

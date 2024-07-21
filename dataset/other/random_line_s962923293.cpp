@@ -1,0 +1,1 @@
+					if(dia == tmpDia){

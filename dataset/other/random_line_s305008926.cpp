@@ -1,0 +1,1 @@
+int n,i,j,b[3],a=1,P=998244353;int main(){scanf("%d\n",&n);for(i=3*n;--i;){char c=getchar();int &t=b[c%3],m=P;for(j=3;~--j;)m=b[j]>t&&b[j]-t<m?b[j]-t:m;a=1ll*a*(m<=n?m:1)%P*(i<=n?i:1)%P;++t;}printf("%d",a);}

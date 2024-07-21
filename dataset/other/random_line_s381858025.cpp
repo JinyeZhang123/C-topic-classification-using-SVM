@@ -1,0 +1,1 @@
+    cout << lucas(n) << '\n';

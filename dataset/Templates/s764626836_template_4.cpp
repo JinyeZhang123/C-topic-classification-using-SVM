@@ -1,0 +1,1 @@
+template <typename T> inline void REV(T& a) { reverse(ALL(a)); }

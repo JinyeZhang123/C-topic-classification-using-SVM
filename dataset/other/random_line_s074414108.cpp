@@ -1,0 +1,1 @@
+        siz.resize(n);

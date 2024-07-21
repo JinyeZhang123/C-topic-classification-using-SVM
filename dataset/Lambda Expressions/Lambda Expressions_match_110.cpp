@@ -1,0 +1,1 @@
+[=](EmployeeSale const& sale){ return sale.employee_number == employee_number; }

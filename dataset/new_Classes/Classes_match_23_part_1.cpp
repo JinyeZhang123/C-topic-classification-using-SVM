@@ -1,0 +1,8 @@
+class Triangle{
+  private:
+    P a, b, c;
+    double edgeA, edgeB, edgeC;
+    double angleA, angleB, angleC;
+    
+    double LawOfCosines(double a, double b, double c){
+      return acos((b*b + c*c - 

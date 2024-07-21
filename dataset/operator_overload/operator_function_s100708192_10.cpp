@@ -1,0 +1,1 @@
+Point operator/(const Point &p, double v) { return Point(p.x / v, p.y / v); }

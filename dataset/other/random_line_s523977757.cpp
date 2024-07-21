@@ -1,0 +1,1 @@
+             hanakoScore += 1;

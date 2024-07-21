@@ -1,0 +1,1 @@
+DecomposableSearchingProblem operator+(const Decom

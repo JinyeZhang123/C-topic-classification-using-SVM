@@ -1,0 +1,1 @@
+      cout<<K+i<<endl;

@@ -1,0 +1,1 @@
+			long long tp=mn;

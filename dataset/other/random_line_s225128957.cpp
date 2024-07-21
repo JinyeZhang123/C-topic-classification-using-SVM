@@ -1,0 +1,1 @@
+template<class T> inline T SMIN(T& a, const T b) { return a=(a>b)?b:a; }

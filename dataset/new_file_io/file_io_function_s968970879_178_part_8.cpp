@@ -1,0 +1,1 @@
+std::fixed << std::setprecision(5) << 0.5 * a * h 

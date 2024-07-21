@@ -1,0 +1,1 @@
+  preorder(T[key].left);

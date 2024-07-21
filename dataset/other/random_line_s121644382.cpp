@@ -1,0 +1,1 @@
+				ffriends[bb[i]] = true;

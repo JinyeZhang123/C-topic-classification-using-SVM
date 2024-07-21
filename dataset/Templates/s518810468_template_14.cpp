@@ -1,0 +1,1 @@
+template<class T>void POSS(T c){ if(c) cout<<"POSSIBLE"<<endl; else cout<<"IMPOSSIBLE"<<endl; }

@@ -1,0 +1,1 @@
+template<class T, size_t N> void FILL(T(&a)[N], const T& val) { for (auto& x : a) x = val; }

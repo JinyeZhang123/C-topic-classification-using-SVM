@@ -1,0 +1,1 @@
+	RangeUpdateQuery<int> ruq(n);

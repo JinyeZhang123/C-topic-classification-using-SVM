@@ -1,0 +1,1 @@
+template <typename T> T chmin(T& a, T b) {if(a>b)a=b;return a;}

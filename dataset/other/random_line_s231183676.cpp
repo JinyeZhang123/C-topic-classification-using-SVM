@@ -1,0 +1,1 @@
+    cin>>str>>stra>>straa;

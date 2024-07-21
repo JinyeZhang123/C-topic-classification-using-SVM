@@ -1,0 +1,1 @@
+        if(!loop[i]) continue;

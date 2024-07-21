@@ -1,0 +1,1 @@
+int n_ALDS14D, k_ALDS14D;

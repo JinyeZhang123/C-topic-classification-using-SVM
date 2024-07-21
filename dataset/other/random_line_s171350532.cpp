@@ -1,0 +1,1 @@
+using namespace std;int main(){int c[6];for(int i=0;i<6;i++)cin>>c[i];if(c[0]+c[1]*5+c[2]*10+c[3]*50+c[4]*100+c[5]*500>=1000)cout<<"1"<<endl;else cout<<"0"<<endl;return 0;}

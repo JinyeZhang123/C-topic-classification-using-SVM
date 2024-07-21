@@ -1,0 +1,1 @@
+const int MAX_N=1500, MAX_M=1500, MAX_W=1000;

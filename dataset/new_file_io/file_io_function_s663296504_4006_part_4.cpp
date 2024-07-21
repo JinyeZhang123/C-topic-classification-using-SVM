@@ -1,0 +1,1 @@
+(i, g.size())  rep(j, g[i].size()) { if (mode && (

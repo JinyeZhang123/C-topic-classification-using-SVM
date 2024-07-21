@@ -1,0 +1,1 @@
+    }else push(atoi(str));

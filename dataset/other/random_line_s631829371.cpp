@@ -1,0 +1,1 @@
+using namespace std;int N,a,b,i;main(){cin>>N;vector<pair<int,int>>R(N+1,{2e9,-1});for(;i<N;i++){cin>>a>>b;R[i]={a,a+b};}sort(R.begin(),R.end());vector<int>V(N+1,1),f(N);for(;i--;){for(a=i+1;a<N&&R[a].first<R[i].second;a=f[a]);V[i]=(V[i+1]+V[f[i]=a])%998244353;}cout<<V[0]<<'\n';}

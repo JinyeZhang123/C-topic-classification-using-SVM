@@ -1,0 +1,1 @@
+			now += dices[times];

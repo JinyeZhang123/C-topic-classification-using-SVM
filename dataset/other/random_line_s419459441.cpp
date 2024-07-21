@@ -1,0 +1,1 @@
+        int skills[n][m];

@@ -1,0 +1,1 @@
+		if(!ck[cl]) continue;

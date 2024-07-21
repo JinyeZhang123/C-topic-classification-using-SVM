@@ -1,0 +1,1 @@
+template<typename T> T mul(T a,T b,ll m){return (a*1ll*b)%m;}

@@ -1,0 +1,1 @@
+		return dp[tail][index];

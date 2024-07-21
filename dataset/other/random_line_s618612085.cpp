@@ -1,0 +1,1 @@
+#define pun putchar('\n')

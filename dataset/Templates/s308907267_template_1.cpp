@@ -1,0 +1,3 @@
+template<class A, class B>
+ostream& operator<<(ostream& ost, const pair<A, B>&p) {
+	ost << "{" << p.first << ", " << p.second << "}

@@ -1,0 +1,1 @@
+	used[y][x]=true;

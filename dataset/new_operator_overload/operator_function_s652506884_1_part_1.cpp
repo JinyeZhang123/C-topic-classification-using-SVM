@@ -1,0 +1,1 @@
+mint operator^(int b) {mint res = 1;while(b > 0) {

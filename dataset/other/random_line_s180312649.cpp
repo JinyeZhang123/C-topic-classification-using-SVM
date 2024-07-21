@@ -1,0 +1,1 @@
+        ++v[uf.getRoot(i)];

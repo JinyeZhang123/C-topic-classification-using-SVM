@@ -1,0 +1,1 @@
+	int maxTwinPrimeNum = 0;

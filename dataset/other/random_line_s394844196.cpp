@@ -1,0 +1,1 @@
+  lower = max(A, C);

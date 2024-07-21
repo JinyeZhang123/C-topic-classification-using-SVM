@@ -1,0 +1,1 @@
+        ans = (smallAns * smallAns) % m;

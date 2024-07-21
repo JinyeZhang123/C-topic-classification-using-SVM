@@ -1,0 +1,1 @@
+      sort(buf,buf+L);

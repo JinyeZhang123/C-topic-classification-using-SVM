@@ -1,0 +1,1 @@
+template<class T> inline bool chmin(T& a,T b){bool x=a>b;if(x)a=b;return x;} 

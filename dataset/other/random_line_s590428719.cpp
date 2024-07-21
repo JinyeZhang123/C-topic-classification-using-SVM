@@ -1,0 +1,1 @@
+                cout << it->first * ans;

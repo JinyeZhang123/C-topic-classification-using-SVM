@@ -1,0 +1,1 @@
+template <class T> struct Inf { static constexpr T inf() { return std::numeric_limits<T>::has_infinity() ? std::numeric_limits<T>::infinty() : std::numeric_limits<T>::max(); }

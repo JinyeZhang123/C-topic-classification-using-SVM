@@ -1,0 +1,1 @@
+    matrix ans(b.n);

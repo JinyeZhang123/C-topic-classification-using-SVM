@@ -1,0 +1,1 @@
+    blue[i].second = di;

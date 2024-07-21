@@ -1,0 +1,1 @@
+template <typename T_char>T_char TU(T_char cX) { return toupper(cX); }

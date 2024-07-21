@@ -1,0 +1,1 @@
+if(!ret) rtable[ret = table.size()] = v; return re

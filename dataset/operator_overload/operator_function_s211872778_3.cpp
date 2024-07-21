@@ -1,0 +1,1 @@
+Point operator*(const long double& d){return Point(x*d,y*d);}

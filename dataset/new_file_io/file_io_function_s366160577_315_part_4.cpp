@@ -1,0 +1,2 @@
+       cout << search(num) << endl;
+    }         

@@ -1,0 +1,1 @@
+#define pn puts("No")

@@ -1,0 +1,1 @@
+	cout<<squ<<endl;

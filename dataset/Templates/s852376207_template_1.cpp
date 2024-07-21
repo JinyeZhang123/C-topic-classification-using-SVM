@@ -1,0 +1,1 @@
+template<typename T> void _F(const char *name, T arg1){ cerr << name << " = " << arg1 << endl;}

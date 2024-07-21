@@ -1,0 +1,1 @@
+		if(p != PARENT[x]){

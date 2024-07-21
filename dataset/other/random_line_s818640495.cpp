@@ -1,0 +1,1 @@
+			if(lazy[y] < sett) {

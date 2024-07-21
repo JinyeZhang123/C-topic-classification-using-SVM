@@ -1,0 +1,1 @@
+    xorset<ll> xs(a);

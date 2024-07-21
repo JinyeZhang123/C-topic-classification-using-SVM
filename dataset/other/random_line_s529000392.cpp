@@ -1,0 +1,1 @@
+        hmap[hsum+=h[j]]++;

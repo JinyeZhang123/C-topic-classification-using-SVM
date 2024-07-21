@@ -1,0 +1,1 @@
+  cout<<mn<<endl;

@@ -1,0 +1,1 @@
+modint operator-(modint a) {return{((num-a.num)%MOD+MOD)%MOD}

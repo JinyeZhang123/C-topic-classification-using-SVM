@@ -1,0 +1,1 @@
+#define KAIMAX 3

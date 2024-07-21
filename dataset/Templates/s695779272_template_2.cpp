@@ -1,0 +1,1 @@
+template<typename T> bool chmin(T &x, const T &y) {return (x > y)? (x = y, true) : false;}

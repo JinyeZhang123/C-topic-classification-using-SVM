@@ -1,0 +1,1 @@
+Polygon2D operator=(const Polygon2D<T>& p) {x_ = p.x_; y_ = p.y_; idx_ = p.idx_; return *this;}

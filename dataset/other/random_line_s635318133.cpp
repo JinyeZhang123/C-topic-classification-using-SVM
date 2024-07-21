@@ -1,0 +1,1 @@
+int num,Da[MAX];

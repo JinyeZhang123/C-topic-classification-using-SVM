@@ -1,0 +1,1 @@
+template<class T>void dbs(string str, T t) {cerr << str << ":" << t << "\n";}

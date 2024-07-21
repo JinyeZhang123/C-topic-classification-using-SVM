@@ -1,0 +1,1 @@
+template<typename T,typename U> inline void chmin(T &x,U y){ if(y<x) x = y; }

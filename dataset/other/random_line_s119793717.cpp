@@ -1,0 +1,1 @@
+		nowtrain[i]=0;

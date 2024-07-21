@@ -1,0 +1,1 @@
+bool operator==(const CP &l, const CP &r) { return

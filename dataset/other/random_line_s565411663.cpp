@@ -1,0 +1,1 @@
+        vsum[px] += vsum[py];

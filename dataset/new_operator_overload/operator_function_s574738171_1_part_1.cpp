@@ -1,0 +1,1 @@
+p operator+(p a, p b) { return p(a.first + b.first

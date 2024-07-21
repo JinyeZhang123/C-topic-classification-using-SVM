@@ -1,0 +1,1 @@
+	stringstream ssm(str);

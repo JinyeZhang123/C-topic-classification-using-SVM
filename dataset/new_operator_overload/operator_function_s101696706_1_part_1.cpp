@@ -1,0 +1,1 @@
+bool operator<(const D &lhs, const D &rhs){//全順序を定

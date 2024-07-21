@@ -1,0 +1,1 @@
+	cout << blacks << " " << whites << endl;

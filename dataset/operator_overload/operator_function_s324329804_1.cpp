@@ -1,0 +1,1 @@
+bool operator<(Team a,Team b){return a.point!=b.point?a.point>b.point:a.id<b.id;}

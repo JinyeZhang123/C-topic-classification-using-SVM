@@ -1,0 +1,1 @@
+template <class T> inline void setmax(T & a, T const & b) { a = max(a, b); }

@@ -1,0 +1,1 @@
+Vec operator-() { return {-x, -y}

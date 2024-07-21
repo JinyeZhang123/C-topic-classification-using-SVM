@@ -1,0 +1,1 @@
+ll check(ll x)

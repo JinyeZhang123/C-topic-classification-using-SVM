@@ -1,0 +1,1 @@
+template<class A, class B> ostream& operator<< (ostream& ost, const map<A, B>&v) { ost << "{"; for (auto p : v) { ost << "{" << p.first << ", " << p.second << "}

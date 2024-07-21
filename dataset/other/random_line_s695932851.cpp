@@ -1,0 +1,1 @@
+ll POW[SIZE],BIT[SIZE];

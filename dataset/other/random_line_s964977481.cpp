@@ -1,0 +1,1 @@
+  fnInput(vvnAdjcy, voDist);

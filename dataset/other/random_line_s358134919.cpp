@@ -1,0 +1,1 @@
+	pa = vector<int>(N);

@@ -1,0 +1,1 @@
+int operator[](int i) { return a[i]; }

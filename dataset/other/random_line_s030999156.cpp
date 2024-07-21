@@ -1,0 +1,1 @@
+int StrToInt(string s){

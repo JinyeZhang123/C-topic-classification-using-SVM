@@ -1,0 +1,1 @@
+template<class T>inline const void print(const T& a){cout<<a;}

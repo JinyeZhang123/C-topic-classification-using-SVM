@@ -1,0 +1,1 @@
+template<typename T> T ceil(T a, T b) { return a/b + !!(a%b); }

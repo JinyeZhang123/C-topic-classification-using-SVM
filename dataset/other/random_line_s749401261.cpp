@@ -1,0 +1,1 @@
+	sumc+=matrix[i][j];

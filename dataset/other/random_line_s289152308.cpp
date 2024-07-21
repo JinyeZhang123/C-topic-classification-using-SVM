@@ -1,0 +1,1 @@
+llong W[MAX];

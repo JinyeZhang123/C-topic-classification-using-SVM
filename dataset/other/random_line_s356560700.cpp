@@ -1,0 +1,1 @@
+                    checked[h][w]=true;

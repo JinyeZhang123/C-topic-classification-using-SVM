@@ -1,0 +1,1 @@
+        cin >> values.at(i);

@@ -1,0 +1,1 @@
+int norm(int a) {

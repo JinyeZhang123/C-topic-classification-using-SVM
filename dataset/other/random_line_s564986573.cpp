@@ -1,0 +1,1 @@
+        int asc = (int)ch;

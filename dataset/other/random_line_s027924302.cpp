@@ -1,0 +1,1 @@
+			while(isdigit(s[i])){

@@ -1,0 +1,1 @@
+template<class Head> void pt(Head&& head){cout << head << endl; return;}

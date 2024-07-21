@@ -1,0 +1,1 @@
+        throw "\nStack is empty.";

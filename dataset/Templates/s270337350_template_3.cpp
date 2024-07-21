@@ -1,0 +1,1 @@
+template<typename T> void MACRO_VEC_ROW_Init(int n, T& t) { t.resize(n); }

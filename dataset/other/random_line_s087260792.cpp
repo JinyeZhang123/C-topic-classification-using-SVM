@@ -1,0 +1,1 @@
+    		maxn=max(maxn,minn);

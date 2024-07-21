@@ -1,0 +1,1 @@
+      cout << degree << endl;

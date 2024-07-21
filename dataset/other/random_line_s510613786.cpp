@@ -1,0 +1,1 @@
+	ll nowpos=0;

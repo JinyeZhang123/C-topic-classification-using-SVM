@@ -1,0 +1,1 @@
+      int wj = wpos[j];

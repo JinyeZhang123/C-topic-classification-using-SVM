@@ -1,0 +1,1 @@
+    ll taka = a1 * t1 + a2 * t2;

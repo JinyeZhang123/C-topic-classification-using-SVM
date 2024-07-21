@@ -1,0 +1,4 @@
+template <typename Head> void dump(Head &&head) {
+  cerr << head;
+  dump();
+}

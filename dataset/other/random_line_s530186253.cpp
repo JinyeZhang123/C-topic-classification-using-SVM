@@ -1,0 +1,1 @@
+  else cout << (A + B) / 2 << endl;}

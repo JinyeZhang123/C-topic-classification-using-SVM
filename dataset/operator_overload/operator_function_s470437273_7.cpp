@@ -1,0 +1,1 @@
+modll operator*=(const modll& r) { return x = (x * r.x) % MOD; }

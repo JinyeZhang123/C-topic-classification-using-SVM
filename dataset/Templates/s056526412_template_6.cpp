@@ -1,0 +1,1 @@
+template<typename T> istream& operator>> (istream& is, vector<T>& vec) { for(T& e : vec) is >> e; return is; }

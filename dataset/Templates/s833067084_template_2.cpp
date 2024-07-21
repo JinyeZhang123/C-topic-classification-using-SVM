@@ -1,0 +1,1 @@
+template<typename T,typename G> void print(pair<T,G> p){ cout<<"{"<<p.F<<","<<p.S<<"}

@@ -1,0 +1,1 @@
+    if (dq.empty()) break;

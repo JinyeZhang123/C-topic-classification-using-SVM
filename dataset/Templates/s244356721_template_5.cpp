@@ -1,0 +1,1 @@
+template < typename T > void toInt(string s, T &x) { stringstream str(s); str >> x;}

@@ -1,0 +1,1 @@
+template<class T> bool isin(T x,T l,T r){return (l)<=(x)&&(x)<=(r);}

@@ -1,0 +1,1 @@
+			numStack.push(b * a);

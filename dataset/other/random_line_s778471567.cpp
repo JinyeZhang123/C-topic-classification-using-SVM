@@ -1,0 +1,1 @@
+    cout << ac << " " << penalty << endl;

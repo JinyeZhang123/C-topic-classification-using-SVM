@@ -1,0 +1,1 @@
+template<typename T> void rsort(vector<T>& v) {sort(v.rbegin(), v.rend());}

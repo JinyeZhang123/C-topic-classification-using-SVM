@@ -1,0 +1,1 @@
+			cin >> enter[i];

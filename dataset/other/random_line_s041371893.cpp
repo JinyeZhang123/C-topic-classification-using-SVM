@@ -1,0 +1,1 @@
+    Q.emplace(s);

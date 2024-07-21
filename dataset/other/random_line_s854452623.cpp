@@ -1,0 +1,1 @@
+#define dd cout << '\n';

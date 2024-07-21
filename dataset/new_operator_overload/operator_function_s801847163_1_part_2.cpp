@@ -1,0 +1,1 @@
+f (a.solved != b.solved) return a.solved > b.solve

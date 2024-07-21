@@ -1,0 +1,1 @@
+template <typename T> inline void assign_min(T& x, T v) { if (v < x) x = v; }

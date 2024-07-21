@@ -1,0 +1,1 @@
+constexpr int dx[4] = { 1, 0, -1, 0 };

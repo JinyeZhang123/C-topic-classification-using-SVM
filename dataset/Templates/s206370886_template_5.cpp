@@ -1,0 +1,1 @@
+template <typename T, typename U, typename V> void Write(const T& x, const U& y, const V& z, const char* end = "\n") { std::cout << x << " " << y << " " << z << end; }

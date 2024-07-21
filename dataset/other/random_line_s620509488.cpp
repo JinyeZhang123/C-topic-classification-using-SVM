@@ -1,0 +1,1 @@
+using namespace std;int n,a,i;main(){string s;cin>>s;n=s.size();while(i<n){int m[80]={};for(auto c:"JOI")for(;i<n&&s[i]==c;m[c]++,i++);if(m[74]>=m[79]&&m[79]<=m[73])a=max(a,m[79]);}cout<<a<<endl;}

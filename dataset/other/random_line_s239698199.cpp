@@ -1,0 +1,1 @@
+	Point s, u, t;

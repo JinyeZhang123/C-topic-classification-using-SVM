@@ -1,0 +1,1 @@
+bool operator <(point a,point b){return a.d<b.d;}

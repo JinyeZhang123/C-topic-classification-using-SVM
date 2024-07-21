@@ -1,0 +1,1 @@
+ll operator[](int k) { return F[k]; }             

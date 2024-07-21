@@ -1,0 +1,1 @@
+    int minus = x-i;

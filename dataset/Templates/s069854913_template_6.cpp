@@ -1,0 +1,1 @@
+template<class T, class U> ostream& operator<< (ostream& o, const map<T,U> &v){o << "{";for(auto e : v) o << e.F << ": " << e.S << ", ";return o << "}

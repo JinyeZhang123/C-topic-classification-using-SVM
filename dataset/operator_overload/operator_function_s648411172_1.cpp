@@ -1,0 +1,1 @@
+bool operator<(const Point& x0, const Point& x1) { return x0.x < x1.x; }

@@ -1,0 +1,1 @@
+    k = vector<int>(n);

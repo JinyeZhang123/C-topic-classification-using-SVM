@@ -1,0 +1,1 @@
+inline long long read(){

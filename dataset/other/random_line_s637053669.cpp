@@ -1,0 +1,1 @@
+    shit.erase(shit.begin());

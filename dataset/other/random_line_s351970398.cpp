@@ -1,0 +1,1 @@
+			int dif=N-i;

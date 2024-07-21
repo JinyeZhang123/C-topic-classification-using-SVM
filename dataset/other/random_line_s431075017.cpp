@@ -1,0 +1,1 @@
+        ld mk; putin >> mk;

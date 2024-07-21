@@ -1,0 +1,1 @@
+template <typename T> T &chmax(T &a, const T &b) { return a = std::max(a, b); }

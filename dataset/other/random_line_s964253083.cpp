@@ -1,0 +1,1 @@
+#define infinity 10000000000000000

@@ -1,0 +1,1 @@
+bool operator<(const data &dt1,const data &dt2){if(dt1.l==dt2.l)return dt1.r>dt2.r;return dt1.l<dt2.l;}

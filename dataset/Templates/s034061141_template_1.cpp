@@ -1,0 +1,1 @@
+template<class T, class... Args> void debug(const T &x, const Args &... args) { cerr << x << " "; debug(args...); }

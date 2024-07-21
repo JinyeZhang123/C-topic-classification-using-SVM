@@ -1,0 +1,2 @@
+1.value == hoge2.value;
+}                         

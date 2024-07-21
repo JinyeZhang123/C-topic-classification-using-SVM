@@ -1,0 +1,1 @@
+            if(answer()) ok=mid;

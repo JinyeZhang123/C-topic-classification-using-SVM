@@ -1,0 +1,1 @@
+template<typename T> inline void amax(T &x, T y) { if (x < y) x = y; }

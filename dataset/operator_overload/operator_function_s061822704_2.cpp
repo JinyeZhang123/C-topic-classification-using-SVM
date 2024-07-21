@@ -1,0 +1,1 @@
+bool operator==(const tuple& t1, const tuple& t2){ return t1.value == t2.value; }

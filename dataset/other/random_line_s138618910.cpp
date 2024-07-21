@@ -1,0 +1,1 @@
+	int MontainIn[10];

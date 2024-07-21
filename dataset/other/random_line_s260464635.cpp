@@ -1,0 +1,1 @@
+#define loop while(true)

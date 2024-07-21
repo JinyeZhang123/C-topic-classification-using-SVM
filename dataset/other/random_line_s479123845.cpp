@@ -1,0 +1,1 @@
+    cout<<phie(n)<<endl;

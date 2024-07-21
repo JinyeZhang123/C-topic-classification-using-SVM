@@ -1,0 +1,1 @@
+	void rolls(string str){

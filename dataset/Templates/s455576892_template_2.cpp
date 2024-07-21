@@ -1,0 +1,1 @@
+template<typename T>inline T SUM(vector<T> vec){return accumulate(all(vec),(T)0);}

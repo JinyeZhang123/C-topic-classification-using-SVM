@@ -1,0 +1,1 @@
+bool operator<(pr a,pr b){return a.l==b.l?a.r<b.r:

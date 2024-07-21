@@ -1,0 +1,1 @@
+    ans = memo[*it - 'P'];

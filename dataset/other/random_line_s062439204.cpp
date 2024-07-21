@@ -1,0 +1,1 @@
+template<class T> void REV(T& ve){reverse(ve.begin(),ve.end());}

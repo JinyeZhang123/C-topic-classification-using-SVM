@@ -1,0 +1,1 @@
+    cout << Tpoint << ' ' << Hpoint << endl;

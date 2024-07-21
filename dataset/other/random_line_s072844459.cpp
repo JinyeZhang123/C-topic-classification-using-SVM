@@ -1,0 +1,1 @@
+		cout << tenA << ' ' << tenB << endl;

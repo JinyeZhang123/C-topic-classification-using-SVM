@@ -1,0 +1,1 @@
+    a *= modinv(b,MOD);

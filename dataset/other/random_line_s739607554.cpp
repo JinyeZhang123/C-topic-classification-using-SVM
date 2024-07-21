@@ -1,0 +1,1 @@
+#define putchar_unlocked _putchar_nolock

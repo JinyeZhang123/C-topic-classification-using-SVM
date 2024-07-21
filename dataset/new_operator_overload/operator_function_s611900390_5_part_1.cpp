@@ -1,0 +1,1 @@
+T operator*(const Point &oth) { return X * oth.X +

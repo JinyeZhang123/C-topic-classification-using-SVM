@@ -1,0 +1,1 @@
+template<class P, class Q> inline P smin(P &a, Q b) { if (b < a) a = b; return a; }

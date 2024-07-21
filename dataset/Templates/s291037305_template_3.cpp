@@ -1,0 +1,1 @@
+template<class T> void out(T a){cout<<a<<endl;}

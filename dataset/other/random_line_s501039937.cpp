@@ -1,0 +1,1 @@
+    cout << diamond << endl;

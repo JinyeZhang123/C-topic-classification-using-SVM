@@ -1,0 +1,1 @@
+					budget[j+tmp]=true;

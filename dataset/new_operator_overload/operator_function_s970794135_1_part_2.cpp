@@ -1,0 +1,1 @@
+2) { return edge1.cost < edge2.cost; }            

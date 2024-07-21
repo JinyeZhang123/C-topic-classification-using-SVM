@@ -1,0 +1,1 @@
+		if(y==fa) continue;

@@ -1,0 +1,1 @@
+    int bPos = lb(vCur);

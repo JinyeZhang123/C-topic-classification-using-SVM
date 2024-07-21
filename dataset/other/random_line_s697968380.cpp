@@ -1,0 +1,1 @@
+#define lque queue<ll>

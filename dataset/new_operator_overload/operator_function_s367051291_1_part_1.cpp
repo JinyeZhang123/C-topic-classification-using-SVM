@@ -1,0 +1,3 @@
+bool operator<(const edge e) {
+		return w<e.w;
+	} 

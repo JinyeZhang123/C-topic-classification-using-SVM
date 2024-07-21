@@ -1,0 +1,1 @@
+int anscestor(int x){

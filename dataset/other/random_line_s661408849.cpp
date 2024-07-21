@@ -1,0 +1,1 @@
+#define PED cout << "\n"

@@ -1,0 +1,1 @@
+    for(auto aaa: job){

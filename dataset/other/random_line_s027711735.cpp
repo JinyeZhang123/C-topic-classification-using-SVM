@@ -1,0 +1,1 @@
+    double Max = 0;

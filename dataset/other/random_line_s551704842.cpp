@@ -1,0 +1,1 @@
+    int ikkai = 1;

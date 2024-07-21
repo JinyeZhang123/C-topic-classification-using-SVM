@@ -1,0 +1,1 @@
+(norm(x.h, x.w) == norm(y.h, y.w)) ? x.h < y.h : n

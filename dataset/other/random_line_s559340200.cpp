@@ -1,0 +1,1 @@
+        cin >> digits[i];

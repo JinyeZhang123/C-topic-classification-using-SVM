@@ -1,0 +1,1 @@
+                scores[j].first  -= s;

@@ -1,0 +1,1 @@
+template <typename T> inline void writeln(T x){write(x);putchar('\n');}

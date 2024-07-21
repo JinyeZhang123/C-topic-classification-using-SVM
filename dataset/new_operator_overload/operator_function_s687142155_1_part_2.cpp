@@ -1,0 +1,1 @@
+), cnt + other.get_c() + left * right * other.get_

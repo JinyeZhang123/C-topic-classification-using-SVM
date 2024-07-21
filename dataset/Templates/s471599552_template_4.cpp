@@ -1,0 +1,1 @@
+template<typename T> Parser<std::string> operator*(const Parser<T> &x, int n) { return n * x; }

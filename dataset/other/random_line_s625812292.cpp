@@ -1,0 +1,1 @@
+		InputVal2.clear();

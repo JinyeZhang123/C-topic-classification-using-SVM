@@ -1,0 +1,1 @@
+            lazy[r] += lazy[node];

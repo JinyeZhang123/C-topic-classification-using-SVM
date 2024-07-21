@@ -1,0 +1,1 @@
+	io.Print(ans,'\n');

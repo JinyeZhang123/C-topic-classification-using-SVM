@@ -1,0 +1,1 @@
+          hasnext = true;

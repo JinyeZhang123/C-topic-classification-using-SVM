@@ -1,0 +1,1 @@
+	getint(C, D);

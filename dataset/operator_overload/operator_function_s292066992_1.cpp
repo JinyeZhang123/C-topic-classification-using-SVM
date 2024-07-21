@@ -1,0 +1,1 @@
+bool operator[](int a){return art[a];}

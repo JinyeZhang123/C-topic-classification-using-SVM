@@ -1,0 +1,1 @@
+I operator-(I it,int n){for(int i=0;i<n;i++)it--;r

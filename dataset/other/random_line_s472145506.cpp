@@ -1,0 +1,1 @@
+  cout << luca[n] << endl;

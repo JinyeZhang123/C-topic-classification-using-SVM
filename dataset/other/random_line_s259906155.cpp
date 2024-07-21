@@ -1,0 +1,1 @@
+int cans(bool f){

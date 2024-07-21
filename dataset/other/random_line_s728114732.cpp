@@ -1,0 +1,1 @@
+                ans+=score[i][j];

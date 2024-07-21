@@ -1,0 +1,1 @@
+template<class T> void pv(T& a) { for (auto i : a) cout << i << ' '; cout << endl; }

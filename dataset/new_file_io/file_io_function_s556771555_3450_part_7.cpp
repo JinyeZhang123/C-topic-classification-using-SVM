@@ -1,0 +1,1 @@
+a[res] && res < N-1) {x -= a[res]; res++;}        

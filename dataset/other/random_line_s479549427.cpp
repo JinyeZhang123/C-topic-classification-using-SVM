@@ -1,0 +1,1 @@
+    cout << minj << ' ' << mins << endl;

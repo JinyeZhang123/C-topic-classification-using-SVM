@@ -1,0 +1,1 @@
+		else if (comand == "reverse"){

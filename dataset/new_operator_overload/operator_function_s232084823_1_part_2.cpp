@@ -1,0 +1,2 @@
+eturn Permutation(*this) *= a;
+  }                

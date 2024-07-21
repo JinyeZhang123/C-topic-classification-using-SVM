@@ -1,0 +1,1 @@
+    int i,cur,v;

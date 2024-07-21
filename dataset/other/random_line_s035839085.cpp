@@ -1,0 +1,1 @@
+  cout<<"Good"<<endl;

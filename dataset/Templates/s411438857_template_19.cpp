@@ -1,0 +1,1 @@
+template<class T> T CRT(T m1, T r1, T m2, T r2) { T a1, a2; extgcd(m1, m2, a1, a2); T ret = (m1 * a1 * r2 + m2 * a2 * r1) % (m1 * m2); return ret < 0 ? ret + m1 * m2 : ret; }

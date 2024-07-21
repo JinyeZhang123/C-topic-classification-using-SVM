@@ -1,0 +1,1 @@
+template<typename T,typename U> T pmod(T x,U M){return (x%M+M)%M;}

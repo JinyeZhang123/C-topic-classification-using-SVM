@@ -1,0 +1,1 @@
+int operator[](int u){return comp[u];}            

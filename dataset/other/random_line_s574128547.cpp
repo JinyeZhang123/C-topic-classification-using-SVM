@@ -1,0 +1,1 @@
+  vector<int> Z(N);

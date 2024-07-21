@@ -1,0 +1,1 @@
+using llvec=vector<ll>;

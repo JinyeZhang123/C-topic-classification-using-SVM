@@ -1,0 +1,1 @@
+typedef ll arr[Maxn];

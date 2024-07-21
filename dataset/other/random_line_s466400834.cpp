@@ -1,0 +1,1 @@
+    preorder(p->right);

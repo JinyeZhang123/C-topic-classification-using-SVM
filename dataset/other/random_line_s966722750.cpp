@@ -1,0 +1,1 @@
+				sum += s[j].length();

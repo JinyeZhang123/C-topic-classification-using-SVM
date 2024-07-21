@@ -1,0 +1,1 @@
+template <typename H,typename... T> _vo(H&& h, T&&... t){out(h);out(move(t)...);}

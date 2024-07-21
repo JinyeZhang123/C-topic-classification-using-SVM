@@ -1,0 +1,1 @@
+#define llong long long

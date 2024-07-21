@@ -1,0 +1,1 @@
+            answer = max(answer, currentProfit);

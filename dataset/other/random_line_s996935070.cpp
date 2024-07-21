@@ -1,0 +1,1 @@
+    while( dice.f != f ) {

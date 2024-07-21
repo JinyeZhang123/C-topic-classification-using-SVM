@@ -1,0 +1,1 @@
+*b.first%mod,a.second*b.second%mod*i2%mod); }     

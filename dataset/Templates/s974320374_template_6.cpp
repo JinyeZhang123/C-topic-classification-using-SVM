@@ -1,0 +1,1 @@
+template<class T>void putii(T&a,string d=" "){for(auto&_:a)puti(_,d);}

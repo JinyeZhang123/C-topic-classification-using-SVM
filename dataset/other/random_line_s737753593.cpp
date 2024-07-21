@@ -1,0 +1,1 @@
+        allslimes.insert(s[i]);

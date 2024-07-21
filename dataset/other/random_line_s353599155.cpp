@@ -1,0 +1,1 @@
+int West(Dice& dice)

@@ -1,0 +1,1 @@
+	int nyo,nya,nyu;

@@ -1,0 +1,1 @@
+#define yes pf("Yes")

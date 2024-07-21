@@ -1,0 +1,1 @@
+            while (time > 0) {

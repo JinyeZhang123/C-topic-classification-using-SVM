@@ -1,0 +1,1 @@
+mindata operator+(const mindata &a,const mindata &

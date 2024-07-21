@@ -1,0 +1,1 @@
+        if(minp>=p) ans++;

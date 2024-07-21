@@ -1,0 +1,1 @@
+        cout<<solve(x)<<endl;

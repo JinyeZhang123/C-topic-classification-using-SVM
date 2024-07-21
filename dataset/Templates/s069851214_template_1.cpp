@@ -1,0 +1,1 @@
+template<typename C, typename T> int count(C& c, T t) { return count(ALL(c), t); }

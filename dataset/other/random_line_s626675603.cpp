@@ -1,0 +1,1 @@
+        bit = max(bit, j);

@@ -1,0 +1,1 @@
+	void printDice(string s);

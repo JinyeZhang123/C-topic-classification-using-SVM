@@ -1,0 +1,1 @@
+template<typename T> void drop(const T &x){cout<<x<<endl;exit(0);}

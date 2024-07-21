@@ -1,0 +1,1 @@
+  bool equals(Dice d)

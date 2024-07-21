@@ -1,0 +1,1 @@
+template<class S, class T, class U> bool IN(S a, T x, U b) { return a <= x && x < b; }

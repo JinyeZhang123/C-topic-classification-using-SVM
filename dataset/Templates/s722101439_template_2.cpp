@@ -1,0 +1,1 @@
+template<class T,class U>inline void chmax(T &t,U f){if(t<f)t=f;}

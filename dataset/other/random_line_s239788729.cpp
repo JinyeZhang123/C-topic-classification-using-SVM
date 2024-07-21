@@ -1,0 +1,1 @@
+			freopen(FILIN,"r",stdin);

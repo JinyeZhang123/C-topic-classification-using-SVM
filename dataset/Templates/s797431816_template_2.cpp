@@ -1,0 +1,1 @@
+template<class T>inline void umax(T &x, T y) {x = x < y ? y : x;}

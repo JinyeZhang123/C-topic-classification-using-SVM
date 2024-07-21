@@ -1,0 +1,1 @@
+#define idp if(DBGP)

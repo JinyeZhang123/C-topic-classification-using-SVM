@@ -1,0 +1,1 @@
+virtual T CalculateCost(T left,T right)=0;        

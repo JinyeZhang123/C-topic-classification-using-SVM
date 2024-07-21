@@ -1,0 +1,1 @@
+	    oturi = result - yen;

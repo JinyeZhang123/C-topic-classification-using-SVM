@@ -1,0 +1,1 @@
+  T->right=NIL;

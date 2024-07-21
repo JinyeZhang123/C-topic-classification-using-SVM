@@ -1,0 +1,1 @@
+template<class T> void writerArr(T x[], int n) { if (!n) { mypc('\n'); return; }

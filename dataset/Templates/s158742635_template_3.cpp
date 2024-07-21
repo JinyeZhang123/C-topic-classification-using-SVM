@@ -1,0 +1,1 @@
+template<class T> void MIN_UPDATE(T& a, const T& b) { if (a > b) a = b; }

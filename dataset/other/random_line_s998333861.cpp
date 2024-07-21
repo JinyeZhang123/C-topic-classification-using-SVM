@@ -1,0 +1,1 @@
+ll insert(ll x){

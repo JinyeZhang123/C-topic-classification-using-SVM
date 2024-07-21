@@ -1,0 +1,1 @@
+update operator+(update u) { return {y+u.y}       

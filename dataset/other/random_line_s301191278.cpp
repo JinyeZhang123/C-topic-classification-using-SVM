@@ -1,0 +1,1 @@
+			if (saku[i] == false) {

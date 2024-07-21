@@ -1,0 +1,1 @@
+	double ry = 0;

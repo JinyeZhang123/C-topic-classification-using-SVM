@@ -1,0 +1,1 @@
+        else isprime[i] = true;

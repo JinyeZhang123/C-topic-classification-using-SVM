@@ -1,0 +1,1 @@
+auto operator+(modular b) {return modular{(value+b.value)%mod}

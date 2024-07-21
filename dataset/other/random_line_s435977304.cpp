@@ -1,0 +1,1 @@
+      renzoku[banti]=1;

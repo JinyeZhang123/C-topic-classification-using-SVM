@@ -1,0 +1,1 @@
+      ans[xxmax]=ans[k];

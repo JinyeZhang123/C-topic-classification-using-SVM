@@ -1,0 +1,1 @@
+template <class Type> void Debug(vector<vector<Type>> &df) { for (auto& vec : df) { Debug(vec); }

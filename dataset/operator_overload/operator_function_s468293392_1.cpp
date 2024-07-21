@@ -1,0 +1,1 @@
+bool operator<(const mons& other){return X < other.X;}

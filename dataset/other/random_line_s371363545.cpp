@@ -1,0 +1,1 @@
+    cout << n - mp.size();

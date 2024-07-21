@@ -1,0 +1,1 @@
+  cout << "NG" << endl;

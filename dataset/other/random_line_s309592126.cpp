@@ -1,0 +1,1 @@
+        cout << vCol[i] << endl;

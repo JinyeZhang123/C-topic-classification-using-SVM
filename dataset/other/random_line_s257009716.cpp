@@ -1,0 +1,1 @@
+    cout << fac(n) << endl;

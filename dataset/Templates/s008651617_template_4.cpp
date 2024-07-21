@@ -1,0 +1,1 @@
+template<typename T> vector<T> make_vec(size_t n, T a) { return vector<T>(n, a); }

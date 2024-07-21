@@ -1,0 +1,1 @@
+nd operator[](int i) { return node[i + ARY_SIZE]; 

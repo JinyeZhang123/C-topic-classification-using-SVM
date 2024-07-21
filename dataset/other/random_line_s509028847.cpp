@@ -1,0 +1,1 @@
+//   cout<<sm<<' '<<ans<<endl;

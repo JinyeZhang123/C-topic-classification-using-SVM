@@ -1,0 +1,1 @@
+    double ans=0;

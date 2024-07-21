@@ -1,0 +1,1 @@
+template<class T>T lcm(T n, T m) { return n / gcd(n, m) * m; }

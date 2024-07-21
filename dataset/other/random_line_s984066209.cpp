@@ -1,0 +1,1 @@
+    	mother->next = this->mother;

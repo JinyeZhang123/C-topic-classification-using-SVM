@@ -1,0 +1,1 @@
+template<typename T = lint>inline T in() { T x; cin >> x; return x; }

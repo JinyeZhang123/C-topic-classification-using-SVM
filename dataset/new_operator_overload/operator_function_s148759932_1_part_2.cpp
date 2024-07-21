@@ -1,0 +1,1 @@
+.second=a.second*power(2,b,mod)%mod; return info((

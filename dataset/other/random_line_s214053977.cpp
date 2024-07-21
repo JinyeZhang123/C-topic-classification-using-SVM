@@ -1,0 +1,1 @@
+using DArray=vector<Weight>;

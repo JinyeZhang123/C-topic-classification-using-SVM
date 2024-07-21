@@ -1,0 +1,1 @@
+vi MP(string s){

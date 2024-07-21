@@ -1,0 +1,1 @@
+perator>>(istream &is, Point2D

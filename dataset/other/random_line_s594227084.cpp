@@ -1,0 +1,1 @@
+        res += cur * cons;

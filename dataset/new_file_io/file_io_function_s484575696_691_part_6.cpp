@@ -1,0 +1,1 @@
+etprecision(12)<<fixed<<cal(cnt[1],cnt[2],cnt[3]);

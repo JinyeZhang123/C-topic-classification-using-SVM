@@ -1,0 +1,1 @@
+    double S = x / a;

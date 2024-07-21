@@ -1,0 +1,1 @@
+	mozisu = komozi.size();

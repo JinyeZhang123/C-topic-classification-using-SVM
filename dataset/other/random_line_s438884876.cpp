@@ -1,0 +1,1 @@
+    solve(std::move(A));

@@ -1,0 +1,1 @@
+bool operator<(mint a, mint b) { return a.n < b.n; }

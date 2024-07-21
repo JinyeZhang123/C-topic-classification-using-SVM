@@ -1,0 +1,1 @@
+bool operator!=(const triple &tt) { return !(*this == tt); }

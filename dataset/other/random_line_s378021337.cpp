@@ -1,0 +1,1 @@
+	bool pairwise=1;

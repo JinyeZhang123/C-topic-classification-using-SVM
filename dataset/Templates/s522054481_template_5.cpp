@@ -1,0 +1,1 @@
+template<class T> T gabs(const T& x) { return max(x, -x); }

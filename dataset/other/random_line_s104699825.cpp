@@ -1,0 +1,1 @@
+                EAST(dice, k);

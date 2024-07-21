@@ -1,0 +1,1 @@
+bool operator<(const card& rhs) { return number < 

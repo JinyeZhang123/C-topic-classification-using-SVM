@@ -1,0 +1,1 @@
+int find(char s[]){

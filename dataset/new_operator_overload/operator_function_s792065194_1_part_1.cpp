@@ -1,0 +1,1 @@
+Point operator*(double a) { return Point(a*x, a*y)

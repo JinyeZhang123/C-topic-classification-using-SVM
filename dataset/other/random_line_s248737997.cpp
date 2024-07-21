@@ -1,0 +1,1 @@
+	int b; cin>>b;

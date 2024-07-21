@@ -1,0 +1,1 @@
+template<typename T> void cmin(T &a, T b) {a = min(a, b);}

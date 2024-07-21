@@ -1,0 +1,1 @@
+int operator[](const T& v) { int& ret = table[v]; 

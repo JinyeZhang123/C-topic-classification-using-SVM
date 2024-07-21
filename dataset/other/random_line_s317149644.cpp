@@ -1,0 +1,1 @@
+				white[i][j]=true;

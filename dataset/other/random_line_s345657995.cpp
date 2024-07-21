@@ -1,0 +1,1 @@
+        sports[popular] = false;

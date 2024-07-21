@@ -1,0 +1,1 @@
+		res+=G[v].mincost;

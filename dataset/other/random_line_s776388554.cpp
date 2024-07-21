@@ -1,0 +1,1 @@
+   vector<string>S(N);

@@ -1,0 +1,1 @@
+void operator++() {*this = BitIterator(bit + 1);}

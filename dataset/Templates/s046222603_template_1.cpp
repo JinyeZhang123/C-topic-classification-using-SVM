@@ -1,0 +1,1 @@
+template <class T, class U> void CHMAX(T & a, const U & b) { if (a < b) a = b; }

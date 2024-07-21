@@ -1,0 +1,1 @@
+	cout << rec(n) << endl;

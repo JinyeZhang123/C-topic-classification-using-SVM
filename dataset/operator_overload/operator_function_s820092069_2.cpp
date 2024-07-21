@@ -1,0 +1,1 @@
+bool operator==(L l1, L l2) { return l1.a == l2.a && l1.b == l2.b; }

@@ -1,0 +1,1 @@
+ double R,G,X;

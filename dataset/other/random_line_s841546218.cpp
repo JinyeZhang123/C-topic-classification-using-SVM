@@ -1,0 +1,1 @@
+    cin >> price.at(i);

@@ -1,0 +1,1 @@
+  LazySegmentTree(int n){

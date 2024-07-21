@@ -1,0 +1,1 @@
+template<size_t... Is> struct gen_seq<0, Is...> : seq<Is...>{}

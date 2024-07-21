@@ -1,0 +1,1 @@
+bool KIBN(string s) {

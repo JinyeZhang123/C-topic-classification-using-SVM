@@ -1,0 +1,1 @@
+        ans.insert(fun(n));

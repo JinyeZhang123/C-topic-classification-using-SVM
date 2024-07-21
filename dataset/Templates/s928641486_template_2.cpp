@@ -1,0 +1,1 @@
+template<class C> void maxi(C &a4, C b4) { a4 = max(a4, b4); }

@@ -1,0 +1,1 @@
+      if(maxvote == vote[get]){

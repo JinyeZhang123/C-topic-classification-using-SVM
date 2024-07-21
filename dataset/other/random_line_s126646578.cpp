@@ -1,0 +1,1 @@
+  finv.resize(max);

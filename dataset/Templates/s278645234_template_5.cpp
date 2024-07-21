@@ -1,0 +1,1 @@
+template <typename X, typename Y> void read(pair<X, Y>& p) { read(p.first); read(p.second); }

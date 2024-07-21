@@ -1,0 +1,1 @@
+                cin>>field[i][j];

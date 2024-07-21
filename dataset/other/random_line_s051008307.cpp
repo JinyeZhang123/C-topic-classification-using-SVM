@@ -1,0 +1,1 @@
+        if ( ! prime[i]) continue;

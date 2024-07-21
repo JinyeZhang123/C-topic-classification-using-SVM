@@ -1,0 +1,1 @@
+        minimum = min(minimum, a);

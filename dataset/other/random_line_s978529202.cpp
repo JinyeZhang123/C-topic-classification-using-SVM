@@ -1,0 +1,1 @@
+				r = nextRange[j].second;

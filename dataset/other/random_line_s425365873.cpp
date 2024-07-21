@@ -1,0 +1,1 @@
+#define PRIME_MAX 500000

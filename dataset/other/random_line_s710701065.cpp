@@ -1,0 +1,1 @@
+    int lim=ma*n;

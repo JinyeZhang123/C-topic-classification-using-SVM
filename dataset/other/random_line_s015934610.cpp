@@ -1,0 +1,1 @@
+		int hitCount = 0;

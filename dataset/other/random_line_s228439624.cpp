@@ -1,0 +1,1 @@
+  auto itr=adata.begin();

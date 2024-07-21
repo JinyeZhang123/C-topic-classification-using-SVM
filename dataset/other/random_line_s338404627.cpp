@@ -1,0 +1,1 @@
+using boolGraph = vector<vb>;

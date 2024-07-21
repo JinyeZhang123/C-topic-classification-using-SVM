@@ -1,0 +1,1 @@
+    return findfa(fa[x]);

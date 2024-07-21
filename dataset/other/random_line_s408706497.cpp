@@ -1,0 +1,1 @@
+    ll root = sqrt(n);

@@ -1,0 +1,1 @@
+			if(allc) break;

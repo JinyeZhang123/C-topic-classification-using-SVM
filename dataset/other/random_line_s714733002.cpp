@@ -1,0 +1,1 @@
+    int ja,ma,en;

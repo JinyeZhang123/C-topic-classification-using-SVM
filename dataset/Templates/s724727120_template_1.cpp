@@ -1,0 +1,1 @@
+template <class T> int popcount(T n) { return n ? 1 + popcount(n & (n - 1)) : 0; }

@@ -1,0 +1,1 @@
+template <typename Iter, typename T> int le(Iter L, Iter R, T v) { return upper_bound(L, R, v) - L - 1; }

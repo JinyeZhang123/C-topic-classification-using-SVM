@@ -1,0 +1,1 @@
+position operator-(const position a,const position

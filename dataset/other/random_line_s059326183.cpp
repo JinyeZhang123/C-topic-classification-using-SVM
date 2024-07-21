@@ -1,0 +1,1 @@
+		return up & 1;

@@ -1,0 +1,1 @@
+     //cout<<col<<":"<<tocol<<endl;

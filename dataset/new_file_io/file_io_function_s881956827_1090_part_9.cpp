@@ -1,0 +1,1 @@
+t i = N - 2; i >= 0; i--) suf[i] = min(suf[i + 1],

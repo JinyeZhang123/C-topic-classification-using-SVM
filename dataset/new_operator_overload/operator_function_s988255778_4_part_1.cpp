@@ -1,0 +1,1 @@
+modint operator/(modint a) {return {*this*inv(a)} 

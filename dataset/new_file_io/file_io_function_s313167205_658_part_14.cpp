@@ -1,0 +1,1 @@
+ | (1 << i)][v] = min(dp[bit | (1 << i)][v], dp[bi

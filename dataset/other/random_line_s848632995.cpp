@@ -1,0 +1,1 @@
+COST_TYPE cost[NMAX];

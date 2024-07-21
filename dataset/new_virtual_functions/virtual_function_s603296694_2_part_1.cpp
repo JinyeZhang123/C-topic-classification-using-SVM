@@ -1,0 +1,1 @@
+virtual T merge(T, T) const = 0;                  

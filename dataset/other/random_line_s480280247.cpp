@@ -1,0 +1,1 @@
+        yans = min(yans, m);

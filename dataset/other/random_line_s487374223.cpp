@@ -1,0 +1,1 @@
+  int B=stoi(S);

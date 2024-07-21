@@ -1,0 +1,1 @@
+template <class Type> void Print(vector<vector<Type>> &df) { for (auto& vec : df) { Print(vec); }

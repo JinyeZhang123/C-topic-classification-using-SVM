@@ -1,0 +1,1 @@
+template<class T>ostream& operator<<(ostream& o,V<T>&v){for(T&t:v)o<<t<<",";return o<<endl;}

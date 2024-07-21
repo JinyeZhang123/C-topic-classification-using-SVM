@@ -1,0 +1,1 @@
+				point += base + 1;

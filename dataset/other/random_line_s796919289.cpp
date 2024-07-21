@@ -1,0 +1,1 @@
+    initialize(list.size());

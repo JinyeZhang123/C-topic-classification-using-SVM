@@ -1,0 +1,1 @@
+bool operator<(const d &l, const d &r){  // なるべく全順

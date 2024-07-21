@@ -1,0 +1,1 @@
+template <class T> inline void printall(vector<T> v){ REP(i, sz(v)) cout << v[i] << "\n "[i < sz(v) - 1]; }

@@ -1,0 +1,1 @@
+            int d = min(j-i, abs((i+1)-X)+abs((j+1

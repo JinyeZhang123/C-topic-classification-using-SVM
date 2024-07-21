@@ -1,0 +1,1 @@
+    bool hoge = true;

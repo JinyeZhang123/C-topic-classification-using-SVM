@@ -1,0 +1,1 @@
+				value[num] += k*m;

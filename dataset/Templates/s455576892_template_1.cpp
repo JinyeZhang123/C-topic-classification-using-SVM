@@ -1,0 +1,1 @@
+template<typename T>inline void print(T&& x){cout<<x<<endl;}

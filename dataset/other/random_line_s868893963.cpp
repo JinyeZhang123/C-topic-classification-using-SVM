@@ -1,0 +1,1 @@
+typedef V<int> vi;

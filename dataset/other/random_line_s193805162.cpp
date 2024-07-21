@@ -1,0 +1,1 @@
+        ll totr = r[yo];

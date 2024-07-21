@@ -1,0 +1,1 @@
+    lli black = 0;

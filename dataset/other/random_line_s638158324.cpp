@@ -1,0 +1,1 @@
+            sum += before - a;

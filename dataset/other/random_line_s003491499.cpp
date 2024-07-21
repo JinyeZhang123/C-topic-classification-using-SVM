@@ -1,0 +1,1 @@
+  int n,st,ft;

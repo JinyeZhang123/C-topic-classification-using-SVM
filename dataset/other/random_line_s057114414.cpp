@@ -1,0 +1,1 @@
+    point += sushi[i].first;

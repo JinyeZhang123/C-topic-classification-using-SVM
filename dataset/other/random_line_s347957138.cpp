@@ -1,0 +1,1 @@
+	if(lit == st.begin()){

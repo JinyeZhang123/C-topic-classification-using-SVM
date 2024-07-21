@@ -1,0 +1,1 @@
+using vld = vector<ld>;

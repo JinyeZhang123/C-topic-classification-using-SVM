@@ -1,0 +1,1 @@
+using MMInt = MinMax<int>;

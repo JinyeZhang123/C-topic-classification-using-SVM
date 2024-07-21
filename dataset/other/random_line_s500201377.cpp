@@ -1,0 +1,1 @@
+				Log[nxt] = sorted[i];

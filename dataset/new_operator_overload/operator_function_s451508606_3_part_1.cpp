@@ -1,0 +1,1 @@
+bool operator<(interval i) { return r < i.r; }    

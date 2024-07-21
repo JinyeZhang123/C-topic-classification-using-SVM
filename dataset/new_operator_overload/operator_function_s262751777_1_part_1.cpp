@@ -1,0 +1,1 @@
+bool operator<(F x, F y) { return x.x < y.x; }    

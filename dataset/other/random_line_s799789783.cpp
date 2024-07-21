@@ -1,0 +1,1 @@
+				if (!mem[j].empty()) {

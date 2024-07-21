@@ -1,0 +1,1 @@
+        if (rx==ry) return;

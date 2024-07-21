@@ -1,0 +1,1 @@
+	if(tota<totb){

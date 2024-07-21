@@ -1,0 +1,1 @@
+    return vector<T>(a);

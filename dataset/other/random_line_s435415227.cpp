@@ -1,0 +1,1 @@
+    rimap[itor(i)]=i;

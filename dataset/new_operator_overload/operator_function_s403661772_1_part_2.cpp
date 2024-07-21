@@ -1,0 +1,2 @@
+eight < rhs.weight;
+    }                         

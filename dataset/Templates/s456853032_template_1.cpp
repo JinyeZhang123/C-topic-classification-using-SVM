@@ -1,0 +1,1 @@
+template<typename T> void show(T& a, char del='\n', char last='\n'){ rep(i, a.size() - 1) cout << a[i] << del; cout << a[a.size() - 1] << last; }

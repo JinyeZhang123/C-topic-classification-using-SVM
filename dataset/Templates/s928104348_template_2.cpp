@@ -1,0 +1,1 @@
+template<typename T> inline void __evars_out_var(vector<T> val) { cerr << arrStr(val, val.size()); }

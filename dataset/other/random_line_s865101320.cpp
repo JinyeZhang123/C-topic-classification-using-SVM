@@ -1,0 +1,1 @@
+    string MAP[8];

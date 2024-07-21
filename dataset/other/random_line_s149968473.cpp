@@ -1,0 +1,1 @@
+            ans += Q[id].first;

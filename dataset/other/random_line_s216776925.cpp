@@ -1,0 +1,1 @@
+char sute[1];

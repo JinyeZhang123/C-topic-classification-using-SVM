@@ -1,0 +1,1 @@
+		cout<<v[n]<<endl;

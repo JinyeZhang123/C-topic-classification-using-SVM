@@ -1,0 +1,1 @@
+    string t; cin >> t;

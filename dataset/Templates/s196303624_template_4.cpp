@@ -1,0 +1,1 @@
+template<class T> inline T nHr(T a,T b){return nCr(a+b-1,b);}

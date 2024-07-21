@@ -1,0 +1,1 @@
+  cout << K-m << endl;

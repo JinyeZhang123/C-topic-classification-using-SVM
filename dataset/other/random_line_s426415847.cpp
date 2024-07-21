@@ -1,0 +1,1 @@
+	char blood[3];

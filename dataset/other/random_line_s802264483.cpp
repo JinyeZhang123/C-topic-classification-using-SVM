@@ -1,0 +1,1 @@
+	cout<<ma+mb<<endl;

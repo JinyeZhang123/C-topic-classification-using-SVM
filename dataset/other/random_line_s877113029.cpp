@@ -1,0 +1,1 @@
+	ll goal = s.size();

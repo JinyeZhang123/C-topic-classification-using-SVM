@@ -1,0 +1,1 @@
+int operator*(data a, data b){return a.x*b.y-a.y*b

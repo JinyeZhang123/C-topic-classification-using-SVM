@@ -1,0 +1,1 @@
+        return res * res * a;

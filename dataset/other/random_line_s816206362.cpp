@@ -1,0 +1,1 @@
+template<class T> void _R(T &x) { cin >> x; }

@@ -1,0 +1,1 @@
+void simulate(vi a) {

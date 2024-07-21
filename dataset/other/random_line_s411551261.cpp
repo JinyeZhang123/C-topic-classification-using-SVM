@@ -1,0 +1,1 @@
+	cout << an << ' ' << ar << endl;

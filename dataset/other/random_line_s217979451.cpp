@@ -1,0 +1,1 @@
+	cout << "pairwise coprime" << endl;

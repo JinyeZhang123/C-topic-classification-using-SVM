@@ -1,0 +1,1 @@
+	cout << PostOrderStr[0];

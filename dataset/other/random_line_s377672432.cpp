@@ -1,0 +1,1 @@
+	cout << fre + curc << endl;

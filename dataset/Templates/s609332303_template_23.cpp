@@ -1,0 +1,1 @@
+template<typename T> int count(const vector<T>& v, T t) {return count(v.begin(), v.end(), t);}

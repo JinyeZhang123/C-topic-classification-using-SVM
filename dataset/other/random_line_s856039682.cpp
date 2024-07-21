@@ -1,0 +1,1 @@
+    cout<<yama[j]<<endl;

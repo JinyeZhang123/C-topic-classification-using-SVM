@@ -1,0 +1,1 @@
+vec operator+(vec v){return vec(x+v.x,y+v.y);}    

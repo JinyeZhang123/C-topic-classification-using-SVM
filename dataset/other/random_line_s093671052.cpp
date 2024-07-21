@@ -1,0 +1,1 @@
+	long n; cin >> n;

@@ -1,0 +1,1 @@
+			hsum+=hanako[i];

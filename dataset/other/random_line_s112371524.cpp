@@ -1,0 +1,1 @@
+		map[sx][sy]=false;

@@ -1,0 +1,4 @@
+
+        bool isATCG = false;
+        
+        for

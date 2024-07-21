@@ -1,0 +1,1 @@
+template<class A,size_t N,class T>void Fill(A(&a)[N],const T&v){fill((T*)a,(T*)(a+N),v);}

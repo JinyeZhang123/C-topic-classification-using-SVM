@@ -1,0 +1,1 @@
+template<typename T> inline void inv(T& v) { for (auto& t : v) cin >> t; }

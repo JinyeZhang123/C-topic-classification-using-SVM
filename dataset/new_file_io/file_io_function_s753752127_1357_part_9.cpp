@@ -1,0 +1,1 @@
+       ans = (ans + bc.combination(n, acnt) * bc.c

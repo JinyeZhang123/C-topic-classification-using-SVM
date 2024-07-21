@@ -1,0 +1,1 @@
+Point operator*(double scalar, const Point& rhs) {

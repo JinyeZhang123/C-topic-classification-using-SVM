@@ -1,0 +1,1 @@
+					time += te - ti;

@@ -1,0 +1,1 @@
+        if(del[x])continue;

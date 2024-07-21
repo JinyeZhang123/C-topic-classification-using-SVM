@@ -1,0 +1,1 @@
+bool operator!=(const Point &oth) { return !eq(X, oth.X) || !eq(Y, oth.Y); }

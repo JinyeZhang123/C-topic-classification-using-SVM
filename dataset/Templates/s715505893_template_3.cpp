@@ -1,0 +1,1 @@
+template<class T> bool inG(T x,T n){return 0<=x && 0<n;}

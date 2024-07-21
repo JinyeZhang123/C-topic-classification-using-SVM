@@ -1,0 +1,1 @@
+	return dp[mask] = su;

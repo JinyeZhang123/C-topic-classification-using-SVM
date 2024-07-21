@@ -1,0 +1,1 @@
+modint operator-=(modint &a, modint b) { a.n -= b.

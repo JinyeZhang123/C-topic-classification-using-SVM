@@ -1,0 +1,1 @@
+	cout<<wsum<<' '<<ksum<<endl;

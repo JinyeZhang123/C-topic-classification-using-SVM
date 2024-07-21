@@ -1,0 +1,1 @@
+template<typename InputIterator> RangeUpdate(InputIterator first, InputIterator last) : rast(first, last) {}

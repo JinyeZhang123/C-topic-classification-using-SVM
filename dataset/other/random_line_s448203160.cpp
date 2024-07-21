@@ -1,0 +1,1 @@
+#define vcs vector<string>

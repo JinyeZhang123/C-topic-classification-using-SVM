@@ -1,0 +1,1 @@
+template<typename T> void scan1(T& x) { fprintf(stderr, "unknown type\n"); }

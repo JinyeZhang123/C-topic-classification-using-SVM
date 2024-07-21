@@ -1,0 +1,1 @@
+    return moddiv(denomi, numera);

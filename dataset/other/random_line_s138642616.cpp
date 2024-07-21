@@ -1,0 +1,1 @@
+        number ^= v[i].first;

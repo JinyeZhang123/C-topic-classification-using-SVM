@@ -1,0 +1,1 @@
+	string left,right,str;

@@ -1,0 +1,1 @@
+bool operator==(T a, T b){return abs(a-b)< eps;}

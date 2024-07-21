@@ -1,0 +1,1 @@
+template<class T> operator T(){T x;cin>>x;return x;}

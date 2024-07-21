@@ -1,0 +1,1 @@
+                ans += check(n, i);

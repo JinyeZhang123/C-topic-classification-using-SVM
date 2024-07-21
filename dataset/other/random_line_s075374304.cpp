@@ -1,0 +1,1 @@
+	int contains(int n){

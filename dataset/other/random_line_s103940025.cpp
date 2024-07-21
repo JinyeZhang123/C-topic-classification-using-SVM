@@ -1,0 +1,1 @@
+#define vecb vector<bool>

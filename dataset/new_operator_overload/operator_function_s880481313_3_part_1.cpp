@@ -1,0 +1,1 @@
+Point operator*(double k){ return Point(this->x * 

@@ -1,0 +1,1 @@
+    chmin(min, a);

@@ -1,0 +1,1 @@
+            loop_town = point;

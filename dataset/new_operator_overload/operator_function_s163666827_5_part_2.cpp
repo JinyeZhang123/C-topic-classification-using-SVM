@@ -1,0 +1,1 @@
+{return Vector2d(p1.x / n, p1.y / n);}            

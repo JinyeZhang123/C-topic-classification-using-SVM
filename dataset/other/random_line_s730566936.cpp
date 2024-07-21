@@ -1,0 +1,1 @@
+double calc(ll x) {

@@ -1,0 +1,1 @@
+bool operator<(const interval &a, const interval &

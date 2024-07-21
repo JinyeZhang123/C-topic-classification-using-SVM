@@ -1,0 +1,1 @@
+const int INFTY =2147483647;

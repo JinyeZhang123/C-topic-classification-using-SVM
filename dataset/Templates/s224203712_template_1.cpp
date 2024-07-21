@@ -1,0 +1,1 @@
+template<class T> void mod(T &n){MOD=n;}

@@ -1,0 +1,1 @@
+  cin >> vertex_num;

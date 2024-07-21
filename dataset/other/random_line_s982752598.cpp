@@ -1,0 +1,1 @@
+  sum.resize(s.size());

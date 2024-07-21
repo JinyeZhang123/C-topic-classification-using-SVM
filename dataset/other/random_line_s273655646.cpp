@@ -1,0 +1,1 @@
+	cell = size*size;

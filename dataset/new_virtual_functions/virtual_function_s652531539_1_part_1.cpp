@@ -1,0 +1,1 @@
+virtual T op(T a, T b) = 0;                       

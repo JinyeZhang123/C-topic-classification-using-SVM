@@ -1,0 +1,1 @@
+  while(cin >> e && e){

@@ -1,0 +1,1 @@
+vector < ii > g[N];

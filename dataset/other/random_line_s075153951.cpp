@@ -1,0 +1,1 @@
+    res = min({res, c});

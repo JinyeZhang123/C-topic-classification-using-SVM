@@ -1,0 +1,1 @@
+template<typename T> void re(vector<T> &v) {trav(i,v) cin >> i;}

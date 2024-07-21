@@ -1,0 +1,1 @@
+bool kaibun(string s){

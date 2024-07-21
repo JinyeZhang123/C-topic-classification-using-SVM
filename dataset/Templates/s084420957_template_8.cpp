@@ -1,0 +1,1 @@
+template<class x,class y> ostream &operator<<(ostream &out,pair<x,y> &p) {out<<"("<<p.F<<","<<p.S<<")";return out;}

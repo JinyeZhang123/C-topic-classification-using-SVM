@@ -1,0 +1,1 @@
+    if(pahla&&dusra&&thisra)

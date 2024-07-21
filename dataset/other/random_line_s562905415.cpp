@@ -1,0 +1,1 @@
+ll abso(ll a)

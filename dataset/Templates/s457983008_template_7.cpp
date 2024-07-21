@@ -1,0 +1,1 @@
+template<class T> inline void Scan(T& x, T& y, T& z) { Scan(x), Scan(y), Scan(z); }

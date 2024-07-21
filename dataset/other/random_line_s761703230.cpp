@@ -1,0 +1,1 @@
+bool jg(int a)

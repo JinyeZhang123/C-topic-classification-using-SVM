@@ -1,0 +1,1 @@
+		if(in[i]==true)

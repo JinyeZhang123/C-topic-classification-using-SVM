@@ -1,0 +1,1 @@
+template<class T> inline const auto max(const T& a){ return *max_element(all(a));}

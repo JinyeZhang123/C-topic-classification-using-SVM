@@ -1,0 +1,1 @@
+vec2d operator/(const vec2d& b, double c) { return { b.first / c,b.second/c }

@@ -1,0 +1,1 @@
+	cout << memo.size() << endl;

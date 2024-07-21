@@ -1,0 +1,1 @@
+template<typename H> bool chmax(H& v1, const H v2) { if (v1 < v2) { v1 = v2; return true; }

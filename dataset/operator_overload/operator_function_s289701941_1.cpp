@@ -1,0 +1,1 @@
+bool operator<(triple<A, B, C> a, triple<A, B, C> b) { if (a.first != b.first) return a.first < b.first; if (a.second != b.second) return a.second < b.second; if (a.third != b.third) return a.third < b.third; }

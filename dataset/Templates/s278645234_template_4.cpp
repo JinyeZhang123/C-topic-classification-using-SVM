@@ -1,0 +1,1 @@
+template <typename T> void read(vector<T>& v) { for (T& x: v) read(x); }

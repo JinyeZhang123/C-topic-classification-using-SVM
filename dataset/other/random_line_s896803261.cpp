@@ -1,0 +1,1 @@
+    cout<<m[s]<<endl;

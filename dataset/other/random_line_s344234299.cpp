@@ -1,0 +1,1 @@
+vector<Edge> G[MAX];

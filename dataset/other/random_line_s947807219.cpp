@@ -1,0 +1,1 @@
+#define Linn "No\n"

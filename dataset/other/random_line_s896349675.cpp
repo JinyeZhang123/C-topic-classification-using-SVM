@@ -1,0 +1,1 @@
+    cout << fe << " " << sn << endl;

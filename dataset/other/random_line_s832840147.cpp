@@ -1,0 +1,1 @@
+			sbs[cur]+=sbs[j];

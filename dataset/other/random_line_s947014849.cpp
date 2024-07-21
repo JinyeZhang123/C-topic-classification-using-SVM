@@ -1,0 +1,1 @@
+				dayidxs[teki]++;

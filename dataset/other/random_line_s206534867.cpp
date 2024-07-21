@@ -1,0 +1,1 @@
+				sum+=tot_minor;

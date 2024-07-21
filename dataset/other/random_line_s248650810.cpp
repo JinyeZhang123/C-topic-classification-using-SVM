@@ -1,0 +1,1 @@
+                field[i][j] = INF;

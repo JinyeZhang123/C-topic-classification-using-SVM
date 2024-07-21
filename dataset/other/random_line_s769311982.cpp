@@ -1,0 +1,1 @@
+    vector<P> jobs(N);

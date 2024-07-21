@@ -1,0 +1,1 @@
+				cout << field[i][j];

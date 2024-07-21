@@ -1,0 +1,1 @@
+		ll rem = tot - odds;

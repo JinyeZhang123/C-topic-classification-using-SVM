@@ -1,0 +1,1 @@
+  cout << paint << endl;

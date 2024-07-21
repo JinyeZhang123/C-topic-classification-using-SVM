@@ -1,0 +1,1 @@
+deque<operatedata> opera;

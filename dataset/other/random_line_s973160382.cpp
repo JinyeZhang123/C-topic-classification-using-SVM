@@ -1,0 +1,1 @@
+    cout << n - total << endl;

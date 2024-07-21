@@ -1,0 +1,1 @@
+    cin >> vecL.at(i);

@@ -1,0 +1,1 @@
+template<class T> inline bool chMin(T& a, T b) { if (a > b) { a = b; return true; }

@@ -1,0 +1,1 @@
+Polygon2D operator*(const T& val, const Polygon2D& p) {Polygon2D res = p; res.x_ *= val; res.y_ *= val; return res;}

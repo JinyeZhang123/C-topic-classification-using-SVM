@@ -1,0 +1,1 @@
+        cout<<cntB<<" "<<cntW<<endl;

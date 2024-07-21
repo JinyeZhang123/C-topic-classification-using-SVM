@@ -1,0 +1,1 @@
+    if(curMin>cur){

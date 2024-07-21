@@ -1,0 +1,1 @@
+	int pre=dp[id];

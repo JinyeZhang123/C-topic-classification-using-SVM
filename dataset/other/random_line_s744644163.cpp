@@ -1,0 +1,1 @@
+        return cur + 1;

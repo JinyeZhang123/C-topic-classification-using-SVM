@@ -1,0 +1,1 @@
+template <class T> inline T lcm(T a, T b) {return a * b / gcd<T>(a, b);}

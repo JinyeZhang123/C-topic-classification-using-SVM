@@ -1,0 +1,1 @@
+template<class T>void pr(T x){cout << x << endl;}

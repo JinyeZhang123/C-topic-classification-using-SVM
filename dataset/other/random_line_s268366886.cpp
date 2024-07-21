@@ -1,0 +1,1 @@
+            dataa[a[i]].first++;

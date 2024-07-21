@@ -1,0 +1,1 @@
+        a = hasi[i].first;

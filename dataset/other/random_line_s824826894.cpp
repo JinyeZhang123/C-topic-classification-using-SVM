@@ -1,0 +1,1 @@
+            if(three > N)break;

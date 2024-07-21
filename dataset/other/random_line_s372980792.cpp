@@ -1,0 +1,1 @@
+  BIT bit(S.size());

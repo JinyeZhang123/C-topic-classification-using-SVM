@@ -1,0 +1,1 @@
+		if(cards[i] > ba){

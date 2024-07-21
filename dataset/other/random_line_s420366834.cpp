@@ -1,0 +1,1 @@
+    mult = (mult * mult) % mod;

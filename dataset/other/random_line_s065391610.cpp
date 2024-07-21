@@ -1,0 +1,1 @@
+            stock += money / in[i];

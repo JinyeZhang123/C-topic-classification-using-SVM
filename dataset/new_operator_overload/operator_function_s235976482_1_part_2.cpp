@@ -1,0 +1,3 @@
++=n);
+        return laz[k];
+    }                

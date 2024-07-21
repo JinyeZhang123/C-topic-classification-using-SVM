@@ -1,0 +1,1 @@
+  cout<<minutes-k<<endl;

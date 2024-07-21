@@ -1,0 +1,1 @@
+template<typename T,typename U>inline bool chmin(T&x,U a){if(x<=a)return 0;x=a;return 1;}

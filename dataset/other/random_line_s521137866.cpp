@@ -1,0 +1,1 @@
+#define CHR(...) char __VA_ARGS__;in(__VA_ARGS__)

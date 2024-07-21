@@ -1,0 +1,2 @@
+bool operator<(const Edge2& rhs) {
+        return 

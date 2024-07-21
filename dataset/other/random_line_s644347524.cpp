@@ -1,0 +1,1 @@
+  vector<card> m = v;

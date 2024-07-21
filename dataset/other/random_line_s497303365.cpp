@@ -1,0 +1,1 @@
+int mnr[maxn];

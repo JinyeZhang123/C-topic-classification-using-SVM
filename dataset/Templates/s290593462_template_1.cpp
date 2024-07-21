@@ -1,0 +1,1 @@
+template <class T> _Reader operator ,(T &rhs) { cin >> rhs; return *this; }

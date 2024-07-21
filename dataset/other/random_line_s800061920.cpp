@@ -1,0 +1,1 @@
+#define ffir first.first

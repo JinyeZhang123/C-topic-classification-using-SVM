@@ -1,0 +1,1 @@
+    int prebit = modl(a);

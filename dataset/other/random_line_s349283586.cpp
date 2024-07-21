@@ -1,0 +1,1 @@
+           cin >> matrixA[i][j]; 

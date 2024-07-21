@@ -1,0 +1,1 @@
+void numout(NUM n){

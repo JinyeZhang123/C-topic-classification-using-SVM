@@ -1,0 +1,1 @@
+virtual T init() const = 0;                       

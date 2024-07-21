@@ -1,0 +1,1 @@
+        count=max(count,ncount);

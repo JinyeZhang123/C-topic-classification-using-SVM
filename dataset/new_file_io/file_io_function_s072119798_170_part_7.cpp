@@ -1,0 +1,1 @@
+ std::fixed << std::setprecision(8) << ans << std:

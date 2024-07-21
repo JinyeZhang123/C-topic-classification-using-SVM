@@ -1,0 +1,1 @@
+template<typename A, typename B> bool cmin(A &a, const B &b) { if (a > b) { a = b; return true; }

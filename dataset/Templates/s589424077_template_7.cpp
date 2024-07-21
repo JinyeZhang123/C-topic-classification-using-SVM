@@ -1,0 +1,1 @@
+template <typename Bst, typename T> typename Bst::const_iterator ge(const Bst& bst, T v) { return bst.lower_bound(v); }

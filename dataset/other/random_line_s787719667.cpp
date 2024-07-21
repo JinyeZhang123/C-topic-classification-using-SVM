@@ -1,0 +1,1 @@
+vl alldiv(ll num){

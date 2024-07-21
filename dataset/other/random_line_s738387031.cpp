@@ -1,0 +1,1 @@
+		tkSum += it->first;

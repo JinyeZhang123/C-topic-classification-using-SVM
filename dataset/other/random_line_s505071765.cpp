@@ -1,0 +1,1 @@
+        return slope * (y - intercept);

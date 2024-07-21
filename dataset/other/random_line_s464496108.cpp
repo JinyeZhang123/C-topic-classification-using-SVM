@@ -1,0 +1,1 @@
+			swapMap("top","left");

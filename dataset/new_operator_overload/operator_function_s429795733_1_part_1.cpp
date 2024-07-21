@@ -1,0 +1,1 @@
+bool operator<(const node& lhs, const node& rhs) {

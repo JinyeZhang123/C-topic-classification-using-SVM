@@ -1,0 +1,1 @@
+    sort(res,res+n);

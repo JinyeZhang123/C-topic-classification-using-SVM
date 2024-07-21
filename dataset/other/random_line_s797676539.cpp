@@ -1,0 +1,1 @@
+  while(shortage < 0){

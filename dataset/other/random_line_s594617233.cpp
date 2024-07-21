@@ -1,0 +1,1 @@
+  ans += min(ac, bc);

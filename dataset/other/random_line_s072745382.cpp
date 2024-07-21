@@ -1,0 +1,1 @@
+			memo += ntemp % 10;

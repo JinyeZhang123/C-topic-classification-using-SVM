@@ -1,0 +1,1 @@
+	cout << ret - eat << endl;

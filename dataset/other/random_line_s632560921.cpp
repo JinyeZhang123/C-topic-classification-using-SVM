@@ -1,0 +1,1 @@
+            cout << cakes[i][j];

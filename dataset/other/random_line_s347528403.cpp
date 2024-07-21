@@ -1,0 +1,1 @@
+        vll resy = calc(yi);

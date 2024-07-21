@@ -1,0 +1,1 @@
+(!a.empty())a.pop_back();}                        

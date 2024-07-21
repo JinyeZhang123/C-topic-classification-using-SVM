@@ -1,0 +1,1 @@
+        cout << ans + bonus << endl;

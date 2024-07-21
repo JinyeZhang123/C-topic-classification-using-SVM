@@ -1,0 +1,1 @@
+int operator*(){ return x; }

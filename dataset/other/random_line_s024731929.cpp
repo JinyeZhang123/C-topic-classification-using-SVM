@@ -1,0 +1,1 @@
+            isMonFri[i] = true;

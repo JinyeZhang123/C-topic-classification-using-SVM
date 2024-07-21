@@ -1,0 +1,1 @@
+    dst[now] = cnt;

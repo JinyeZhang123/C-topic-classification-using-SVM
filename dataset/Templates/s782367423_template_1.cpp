@@ -1,0 +1,1 @@
+template<class T> inline T at(const vector<T> &v, int i) {return v[(i % (int)v.size() + v.size()) % v.size()];}

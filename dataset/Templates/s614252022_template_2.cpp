@@ -1,0 +1,1 @@
+template <typename T> void chkmin(T &x,T y){x>y?x=y:T();}

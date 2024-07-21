@@ -1,0 +1,1 @@
+bool operator<(const cube &cb1,const cube &cb2){if(cb1.a!=cb2.a)return cb1.a<cb2.a;if(cb1.b!=cb2.b)return cb1.b<cb2.b;if(cb1.c!=cb2.c)return cb1.c<cb2.c;return cb1.d<cb2.d;}

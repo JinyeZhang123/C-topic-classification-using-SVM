@@ -1,0 +1,1 @@
+			black.push({ i, j });

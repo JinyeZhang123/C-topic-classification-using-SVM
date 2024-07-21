@@ -1,0 +1,1 @@
+"divl %%ecx" : "=a"(carry), "=d"(a[i]) : "A"(cur),

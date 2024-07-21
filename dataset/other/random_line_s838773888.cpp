@@ -1,0 +1,1 @@
+  FenwickTree<int> ft(n);

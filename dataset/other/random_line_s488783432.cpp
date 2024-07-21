@@ -1,0 +1,1 @@
+	double two = 0;

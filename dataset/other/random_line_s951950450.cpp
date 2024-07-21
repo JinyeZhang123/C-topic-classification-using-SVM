@@ -1,0 +1,1 @@
+		cout << words[i].second;

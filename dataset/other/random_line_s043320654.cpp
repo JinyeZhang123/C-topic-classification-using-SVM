@@ -1,0 +1,1 @@
+        cout << calcy * calcx % MOD;

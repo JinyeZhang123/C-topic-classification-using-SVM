@@ -1,0 +1,1 @@
+template<class C> debug& operator<<(C c) {cerr << c;return *this;}

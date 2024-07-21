@@ -1,0 +1,1 @@
+template<class T> vector<T> readerArray(int n) { vector<T> ret(n); for (int i = 0; i < n; i++) reader(ret[i]); return ret; }

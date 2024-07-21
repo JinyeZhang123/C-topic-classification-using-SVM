@@ -1,0 +1,1 @@
+template <typename T> void Write(const std::vector<std::vector<T>>& x, const char* sep = " ", const char* end = "\n") { for (auto v : x) Write(v, sep, end); }

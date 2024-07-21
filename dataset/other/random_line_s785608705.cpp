@@ -1,0 +1,1 @@
+            cur /= divisors[cur];

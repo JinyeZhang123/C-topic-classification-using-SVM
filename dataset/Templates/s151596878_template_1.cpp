@@ -1,0 +1,1 @@
+template<class T> void puts(T x) { std::cout << x << std::endl; }

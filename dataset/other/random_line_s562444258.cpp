@@ -1,0 +1,1 @@
+    if (aaa[index] >= key)

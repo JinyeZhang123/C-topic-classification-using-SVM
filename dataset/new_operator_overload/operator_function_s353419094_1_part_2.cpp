@@ -1,0 +1,1 @@
+return e1.weight != e2.weight ? e1.weight > e2.wei

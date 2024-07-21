@@ -1,0 +1,1 @@
+parentNode, degreeOfNode, previousChildNode, root;

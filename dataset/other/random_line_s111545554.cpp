@@ -1,0 +1,1 @@
+    char inCommand[20];

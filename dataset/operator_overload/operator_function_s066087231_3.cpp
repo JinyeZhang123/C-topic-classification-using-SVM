@@ -1,0 +1,1 @@
+mint operator-(){return -i;}

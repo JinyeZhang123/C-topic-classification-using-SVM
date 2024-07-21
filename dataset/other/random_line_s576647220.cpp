@@ -1,0 +1,1 @@
+    mem = (mem+mod)%mod;

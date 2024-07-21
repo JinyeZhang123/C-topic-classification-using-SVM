@@ -1,0 +1,1 @@
+double operator*(pdd a, pdd b) { return a.fs*b.fs + a.sc*b.sc; }

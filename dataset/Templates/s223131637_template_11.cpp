@@ -1,0 +1,1 @@
+template<typename T> void unique(vector<T>& v) {v.erase(unique(v.begin(), v.end()), v.end());}

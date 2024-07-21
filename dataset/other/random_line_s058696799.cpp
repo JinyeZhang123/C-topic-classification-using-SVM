@@ -1,0 +1,1 @@
+    cout<<clorie/yen<<endl;

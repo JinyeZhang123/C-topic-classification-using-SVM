@@ -1,0 +1,1 @@
+                if (scr >= g) break;

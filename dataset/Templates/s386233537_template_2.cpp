@@ -1,0 +1,1 @@
+template<class y,class z> z power(ll b,y e){ll a=1;while(e!=0){if((e&1)==1){a=a*b;}

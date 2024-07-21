@@ -1,0 +1,1 @@
+void operator*=(node& other){	// TODO merge node v

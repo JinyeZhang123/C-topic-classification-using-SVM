@@ -1,0 +1,1 @@
+	int pj,pm,pe;

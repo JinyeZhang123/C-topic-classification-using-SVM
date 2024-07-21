@@ -1,0 +1,1 @@
+    GS.dijkstra(t);

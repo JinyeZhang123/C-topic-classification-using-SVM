@@ -1,0 +1,1 @@
+        if(ansN < ans) break;

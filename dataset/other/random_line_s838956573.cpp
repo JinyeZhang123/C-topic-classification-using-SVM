@@ -1,0 +1,1 @@
+#define Abigail inline void

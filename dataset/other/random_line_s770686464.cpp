@@ -1,0 +1,1 @@
+				val -= bit[idx + k];

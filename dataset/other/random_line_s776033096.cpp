@@ -1,0 +1,1 @@
+    if(!month && !day)break;

@@ -1,0 +1,1 @@
+vec2d operator*(double c, const vec2d& b) { return { c * b.first,c * b.second }

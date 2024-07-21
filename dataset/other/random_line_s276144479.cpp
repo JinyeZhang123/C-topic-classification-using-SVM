@@ -1,0 +1,1 @@
+  int l = a.length();

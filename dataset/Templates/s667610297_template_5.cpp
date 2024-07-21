@@ -1,0 +1,7 @@
+template<typename Ch,typename Tr,typename C>
+basic_ostream<Ch,Tr>& operator<<(basic_ostream<Ch,Tr>& os,const C& c){
+	os<<'[';
+	for(auto i=begin(c);i!=end(c);++i)
+		os<<(i==begin(c)?"":" ")<<*i;
+	return os<<']';
+}

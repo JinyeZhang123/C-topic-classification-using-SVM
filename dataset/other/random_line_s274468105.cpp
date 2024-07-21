@@ -1,0 +1,1 @@
+    us[cr[now]] = true;

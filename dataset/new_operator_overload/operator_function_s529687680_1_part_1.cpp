@@ -1,0 +1,1 @@
+void operator-=(Player p) { hp_ -= p.damage(); }  

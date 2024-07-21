@@ -1,0 +1,1 @@
+vector<int> Mat[MAXN];

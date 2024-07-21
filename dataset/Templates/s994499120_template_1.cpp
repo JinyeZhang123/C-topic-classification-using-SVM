@@ -1,0 +1,1 @@
+template<class C> void min_self( C &a, C b ){ a = min(a,b); }

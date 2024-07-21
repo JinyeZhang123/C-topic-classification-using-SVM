@@ -1,0 +1,1 @@
+Ring_mod operator*(const Ring_mod& b) { return Ring_mod((long long) val * b.val); }

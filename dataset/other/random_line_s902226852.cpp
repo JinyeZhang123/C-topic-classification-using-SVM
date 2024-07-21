@@ -1,0 +1,1 @@
+    int difx,dify;

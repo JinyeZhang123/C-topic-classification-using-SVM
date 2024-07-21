@@ -1,0 +1,1 @@
+bool operator<(const Card& rhs) { return rank < rhs.rank; }

@@ -1,0 +1,1 @@
+int Point::getX() {

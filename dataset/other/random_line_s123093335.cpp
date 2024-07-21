@@ -1,0 +1,1 @@
+            ans-=(pw[cnt]-MOD);

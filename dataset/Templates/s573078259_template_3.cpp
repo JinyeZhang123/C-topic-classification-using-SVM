@@ -1,0 +1,1 @@
+template<typename T> T gcd( const T a, const T b ) { return ( b ? gcd( b, a % b ) : a ); }

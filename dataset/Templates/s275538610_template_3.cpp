@@ -1,0 +1,1 @@
+template <typename T> inline void SORT(T& a) { sort(ALL(a)); }

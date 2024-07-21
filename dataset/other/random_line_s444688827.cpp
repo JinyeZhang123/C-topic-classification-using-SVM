@@ -1,0 +1,1 @@
+        if(alr[p.first]){

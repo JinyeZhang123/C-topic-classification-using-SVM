@@ -1,0 +1,1 @@
+	puts(flag ? "NO" : "YES");

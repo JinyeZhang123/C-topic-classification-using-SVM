@@ -1,0 +1,1 @@
+template<class T> void MSG(T a){ cout << TO_STRING(a) << " = " << a << endl; }

@@ -1,0 +1,1 @@
+template<class T>void prvec(vector<T>& a){rep(i, a.size()-1){cout << a[i] << " ";}

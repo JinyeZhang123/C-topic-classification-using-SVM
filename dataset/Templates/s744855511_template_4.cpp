@@ -1,0 +1,1 @@
+template<class T, class... O> void read(T& x, O&... y) { read(x), read(y...); }

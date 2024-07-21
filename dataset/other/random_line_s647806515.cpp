@@ -1,0 +1,1 @@
+        A = vector<string>(h);

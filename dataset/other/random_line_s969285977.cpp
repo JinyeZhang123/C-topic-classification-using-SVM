@@ -1,0 +1,1 @@
+		memo[i] = calc(i);

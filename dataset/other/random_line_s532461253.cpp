@@ -1,0 +1,1 @@
+    cout << nc << endl;

@@ -1,0 +1,1 @@
+data operator-(data a, data b){data x; x.x=a.x-b.x

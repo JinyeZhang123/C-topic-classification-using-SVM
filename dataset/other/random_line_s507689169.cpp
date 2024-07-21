@@ -1,0 +1,1 @@
+	cout << memo[k] << endl;

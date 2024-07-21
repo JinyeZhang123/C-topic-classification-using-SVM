@@ -1,0 +1,1 @@
+    if(ttl==arr[n])

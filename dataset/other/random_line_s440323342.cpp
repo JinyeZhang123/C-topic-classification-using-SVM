@@ -1,0 +1,1 @@
+			oddVec[num].count++;

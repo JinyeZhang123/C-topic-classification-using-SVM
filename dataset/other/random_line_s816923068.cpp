@@ -1,0 +1,1 @@
+template<class T> T Max(T &a,T b){return a=max(a,b);}

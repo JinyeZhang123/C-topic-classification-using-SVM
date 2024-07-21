@@ -1,0 +1,1 @@
+	return tmpa / a*tmpb;

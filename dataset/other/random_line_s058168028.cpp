@@ -1,0 +1,1 @@
+            auto rhs = s.pop();

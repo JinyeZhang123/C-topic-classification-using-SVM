@@ -1,0 +1,1 @@
+	head[x]+=head[y];

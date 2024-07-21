@@ -1,0 +1,1 @@
+    //string nanikayo; cin >> nanikayo;

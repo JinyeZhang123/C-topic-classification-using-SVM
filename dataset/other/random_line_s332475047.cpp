@@ -1,0 +1,1 @@
+		is.str(str);

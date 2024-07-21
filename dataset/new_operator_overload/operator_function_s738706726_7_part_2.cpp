@@ -1,0 +1,1 @@
+*p.z-z*p.y,z*p.x-x*p.z,x*p.y-y*p.x);}             

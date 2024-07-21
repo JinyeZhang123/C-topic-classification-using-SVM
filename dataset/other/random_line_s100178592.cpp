@@ -1,0 +1,1 @@
+    deque<line> q;

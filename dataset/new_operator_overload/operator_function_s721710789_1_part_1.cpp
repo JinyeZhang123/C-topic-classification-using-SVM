@@ -1,0 +1,1 @@
+Permutation operator*(Permutation& B){ return Perm

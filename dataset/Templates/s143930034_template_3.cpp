@@ -1,0 +1,1 @@
+template <class T> inline T power(T b, T p) {ll ans = 1; while (p--) ans *= b; return ans;}

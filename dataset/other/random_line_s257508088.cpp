@@ -1,0 +1,1 @@
+  double n,m,d;

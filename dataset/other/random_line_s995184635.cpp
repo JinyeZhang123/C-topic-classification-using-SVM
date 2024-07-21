@@ -1,0 +1,1 @@
+  for (auto ma : MA) {

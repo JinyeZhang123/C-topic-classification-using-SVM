@@ -1,0 +1,1 @@
+    chmin(ans[cnt], val);

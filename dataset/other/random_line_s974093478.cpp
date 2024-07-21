@@ -1,0 +1,1 @@
+                c -= it.second;

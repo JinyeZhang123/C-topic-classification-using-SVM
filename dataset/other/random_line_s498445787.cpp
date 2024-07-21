@@ -1,0 +1,1 @@
+    cin>>road.at(i);

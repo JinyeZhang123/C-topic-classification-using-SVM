@@ -1,0 +1,1 @@
+    	ans+=freq[b]*c;

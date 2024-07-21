@@ -1,0 +1,1 @@
+tuple operator+(const tuple& t1, const tuple& t2){ return tuple {t1.weight + t2.weight, t1.value + t2.value}

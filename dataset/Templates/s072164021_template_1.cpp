@@ -1,0 +1,1 @@
+template<class T> inline void chmin(T& a, const T& b) { if(b < a) a = b; }

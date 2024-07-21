@@ -1,0 +1,1 @@
+#define eNdl endl

@@ -1,0 +1,1 @@
+    next = arr[next];

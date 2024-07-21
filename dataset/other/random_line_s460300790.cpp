@@ -1,0 +1,1 @@
+        tmp = sum - list[i];

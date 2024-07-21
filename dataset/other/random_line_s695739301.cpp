@@ -1,0 +1,1 @@
+		sz = str.size();

@@ -1,0 +1,1 @@
+template<class T> void FILL(std::vector<T> & a, const T & val) { for (auto& x : a) x = val; }

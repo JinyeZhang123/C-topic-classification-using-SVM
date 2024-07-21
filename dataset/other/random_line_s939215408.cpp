@@ -1,0 +1,1 @@
+      sumB-=B[p.second];

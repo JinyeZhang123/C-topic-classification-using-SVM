@@ -1,0 +1,1 @@
+      int nz = zs[i];

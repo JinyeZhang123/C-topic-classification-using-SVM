@@ -1,0 +1,6 @@
+template<class T>
+inline string toString(T x) {
+    ostringstream sout;
+    sout << x;
+    return sout.str();
+}

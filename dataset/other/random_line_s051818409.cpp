@@ -1,0 +1,1 @@
+	cout<<ap<<" "<<bp<<endl;

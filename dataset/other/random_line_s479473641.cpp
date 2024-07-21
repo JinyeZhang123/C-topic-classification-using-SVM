@@ -1,0 +1,1 @@
+                R.erase(pos);

@@ -1,0 +1,1 @@
+        if (isupper(s[i])) {

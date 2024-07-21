@@ -1,0 +1,1 @@
+long perm(long x){

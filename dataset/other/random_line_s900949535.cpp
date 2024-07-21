@@ -1,0 +1,1 @@
+bool palindromes(int n) {

@@ -1,0 +1,1 @@
+#define fl cout<<flush;

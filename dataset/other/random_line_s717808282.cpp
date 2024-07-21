@@ -1,0 +1,1 @@
+            int gx, gy, c;

@@ -1,0 +1,1 @@
+template<typename T>inline ll suma(const vector<T>& a) { ll res(0); for (auto&& x : a) res += x; return res;}

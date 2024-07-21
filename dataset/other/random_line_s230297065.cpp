@@ -1,0 +1,1 @@
+			data[left] = data[node];

@@ -1,0 +1,1 @@
+      canDiv[before] = true;

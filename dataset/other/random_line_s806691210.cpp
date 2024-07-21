@@ -1,0 +1,1 @@
+int spf[MAXN]; 

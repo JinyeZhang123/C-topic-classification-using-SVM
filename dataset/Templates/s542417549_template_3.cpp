@@ -1,0 +1,11 @@
+template <typename A>
+string to_string(const A &v)
+{
+  bool first = true;
+  string res = "{";
+  for (const auto &x : v)
+  {
+    if (!first)
+    {
+      res += ", ";
+    }

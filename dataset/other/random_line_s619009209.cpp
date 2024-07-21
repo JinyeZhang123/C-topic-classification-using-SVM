@@ -1,0 +1,1 @@
+            chmin(lim[i],v);

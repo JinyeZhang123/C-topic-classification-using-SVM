@@ -1,0 +1,1 @@
+                tmp = min(tmp, mi);

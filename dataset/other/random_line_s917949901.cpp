@@ -1,0 +1,1 @@
+	ans = std::min(ans, get_min(us, ls, [](const coord& a) { return a.first - a.second; }, [](const coord& a) { return a.first; }, [](const coord& a, const coord& b) { return (b.first - a.first) * 10; }));

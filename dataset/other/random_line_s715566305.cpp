@@ -1,0 +1,1 @@
+	  cout<<d[b]<<endl;

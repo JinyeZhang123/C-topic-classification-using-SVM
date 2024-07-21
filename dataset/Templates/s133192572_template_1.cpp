@@ -1,0 +1,1 @@
+template<typename T> inline T abs(T t) { return t < 0? -t : t; }

@@ -1,0 +1,1 @@
+        for (i=0;i<8;i++) for (j=0;j<8;j++) if (RB[i][j]=='1') {if (j<=4 && RB[i][j+1]=='1' && RB[i][j+2]=='1' && RB[i][j+3]=='1') puts("C"); else if (i<=4 && RB[i+1][j]=='1' && RB[i+2][j]=='1' && RB[i+3][j]=='1') puts("B"); else if (i<7 && j<7 && RB[i+1][j]=='1' && RB[i][j+1]=='1' && RB[i+1][j+1]=='1') puts("A");

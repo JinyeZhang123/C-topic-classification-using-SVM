@@ -1,0 +1,1 @@
+            amida[connection.second] = swap;

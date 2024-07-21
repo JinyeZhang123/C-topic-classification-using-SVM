@@ -1,0 +1,1 @@
+virtual OM MergeOperator(const OM& target,const OM& effector)=0;

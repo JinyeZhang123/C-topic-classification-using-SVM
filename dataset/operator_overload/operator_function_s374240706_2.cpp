@@ -1,0 +1,3 @@
+Point operator-(const Point &p) {
+		return Point(add(x, -p.x), add(y, -p.y));
+	}

@@ -1,0 +1,4 @@
+;
+
+			previousChildNode = childNode;
+			nodes[chil

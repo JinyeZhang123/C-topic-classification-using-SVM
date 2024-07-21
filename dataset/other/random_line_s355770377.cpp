@@ -1,0 +1,1 @@
+        stones[nplayer] = 0;

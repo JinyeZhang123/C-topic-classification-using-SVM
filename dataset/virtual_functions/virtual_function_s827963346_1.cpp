@@ -1,0 +1,1 @@
+virtual void Merge(T& out, const T& a, const T& b) = 0;

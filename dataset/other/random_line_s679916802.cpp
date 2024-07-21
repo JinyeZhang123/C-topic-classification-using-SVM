@@ -1,0 +1,1 @@
+  if (contains(s, p)) {

@@ -1,0 +1,1 @@
+ll kaijoMOD(ll x){

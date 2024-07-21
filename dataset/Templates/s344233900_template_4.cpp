@@ -1,0 +1,1 @@
+template<typename T> RollingHash(const T in) : siz(distance(in.begin(), in.end())) { build(in.begin(), in.end()); }

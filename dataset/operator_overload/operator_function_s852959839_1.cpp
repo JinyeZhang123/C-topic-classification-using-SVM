@@ -1,0 +1,1 @@
+bool operator<(peo a,peo b){return a.x<b.x;}

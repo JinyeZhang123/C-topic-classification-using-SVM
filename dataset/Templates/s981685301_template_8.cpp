@@ -1,0 +1,1 @@
+template<typename T>inline void print(T&& x){cout<<setprecision(32)<<x<<endl;}

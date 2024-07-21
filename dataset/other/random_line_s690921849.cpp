@@ -1,0 +1,1 @@
+ cout << "C " << j << endl;  

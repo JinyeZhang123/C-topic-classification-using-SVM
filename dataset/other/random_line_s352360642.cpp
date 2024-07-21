@@ -1,0 +1,1 @@
+    SetHeight(tree, right, height);

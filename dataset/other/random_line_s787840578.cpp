@@ -1,0 +1,1 @@
+string lefth="yuiophjklnm";

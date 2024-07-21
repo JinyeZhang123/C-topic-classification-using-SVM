@@ -1,0 +1,1 @@
+    cout << common << endl;

@@ -1,0 +1,2 @@
+blok.x+blok.y;
+    }                              

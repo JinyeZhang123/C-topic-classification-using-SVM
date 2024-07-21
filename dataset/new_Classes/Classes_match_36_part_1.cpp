@@ -1,0 +1,9 @@
+class Amidakuji{
+
+public:
+	int W;
+	vector<int> array;//????´?1???????????????
+	Amidakuji(int w);
+	void Swap(int x,int y);
+	void call();
+}                                                               

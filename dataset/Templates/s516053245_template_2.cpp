@@ -1,0 +1,2 @@
+template<typename T, typename... Args> void _F(const char *names, T arg1, Args... args)
+{ const char *name = strchr(names, ',');cerr.write(names, name-names) << " = " << arg1 << endl;_F(name+2, args...);}

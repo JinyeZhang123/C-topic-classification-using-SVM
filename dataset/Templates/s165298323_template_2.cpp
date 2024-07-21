@@ -1,0 +1,1 @@
+template <typename T> inline void assign_max(T& x, const T& value) noexcept { x = max(x, value); }

@@ -1,0 +1,1 @@
+    regex M ("A?KIHA?BA?RA?");

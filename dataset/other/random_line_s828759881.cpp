@@ -1,0 +1,1 @@
+        if(neko % tmp){

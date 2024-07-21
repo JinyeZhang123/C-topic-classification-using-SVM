@@ -1,0 +1,3 @@
+	// input >> parentNode >> degreeOfNode;
+	
+		for (

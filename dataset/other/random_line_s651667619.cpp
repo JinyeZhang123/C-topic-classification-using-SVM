@@ -1,0 +1,1 @@
+				if (posB != s.end()) {

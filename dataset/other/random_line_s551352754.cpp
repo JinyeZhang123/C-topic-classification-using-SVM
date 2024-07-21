@@ -1,0 +1,1 @@
+bool BF(string x) {

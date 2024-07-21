@@ -1,0 +1,1 @@
+#define el cout<<endl;

@@ -1,0 +1,1 @@
+          right = max(right, j);

@@ -1,0 +1,1 @@
+	int minus = j - c;

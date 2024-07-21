@@ -1,0 +1,1 @@
+            cost[i][j] = INF;

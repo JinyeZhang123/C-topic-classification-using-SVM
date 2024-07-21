@@ -1,0 +1,1 @@
+							now.first-=dx[k];

@@ -1,0 +1,1 @@
+Vec operator*(const double& scale, const Vec& v) {

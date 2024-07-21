@@ -1,0 +1,1 @@
+template<class T, class C> pair<T,C> mp(T a, C b){ return make_pair(a, b);}

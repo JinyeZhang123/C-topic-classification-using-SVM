@@ -1,0 +1,1 @@
+void check(ll a)

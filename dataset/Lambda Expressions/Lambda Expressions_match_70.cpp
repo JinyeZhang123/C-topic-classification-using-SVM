@@ -1,0 +1,1 @@
+[](pii p){ return p.second==2;}

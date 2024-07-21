@@ -1,0 +1,1 @@
+template<typename Type> inline void reverse(Type& arr) { reverse(arr.begin(), arr.end()); }

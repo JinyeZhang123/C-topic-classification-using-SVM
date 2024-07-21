@@ -1,0 +1,1 @@
+        ret = (ret * a) % MOD;

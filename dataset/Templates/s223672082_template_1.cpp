@@ -1,0 +1,1 @@
+template<typename T>void _do(T &&_x){cerr<<_x<<endl;}

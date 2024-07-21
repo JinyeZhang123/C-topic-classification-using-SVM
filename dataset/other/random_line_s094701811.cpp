@@ -1,0 +1,1 @@
+	pie = total / 2;

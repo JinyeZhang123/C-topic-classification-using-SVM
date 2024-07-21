@@ -1,0 +1,1 @@
+					curw += w[items[j]];

@@ -1,0 +1,1 @@
+      ans+=vec[a].first;

@@ -1,0 +1,1 @@
+bool operator<(Line a,Line b){if(a.r!=b.r)return a

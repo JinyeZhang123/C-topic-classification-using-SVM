@@ -1,0 +1,1 @@
+    else cout << "Yay!" << endl;

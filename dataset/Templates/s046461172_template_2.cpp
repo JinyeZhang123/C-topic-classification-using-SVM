@@ -1,0 +1,1 @@
+template <class T> void checkmax(T &a, T b) { if (b>a) a=b; }

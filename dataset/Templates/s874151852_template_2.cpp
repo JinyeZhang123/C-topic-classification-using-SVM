@@ -1,0 +1,1 @@
+template<class T> inline auto min(const T& a){ return *min_element(ALL(a)); }

@@ -1,0 +1,1 @@
+    cout << prim() << endl;

@@ -1,0 +1,1 @@
+  cout<<ansa<<' '<<ansb<<endl;

@@ -1,0 +1,1 @@
+	printf(result ? "Yes" : "No");

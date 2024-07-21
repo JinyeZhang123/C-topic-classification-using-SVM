@@ -1,0 +1,1 @@
+    cout << nmin << " " << nmax << endl;

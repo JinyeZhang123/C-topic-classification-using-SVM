@@ -1,0 +1,1 @@
+template<class T> inline T int_ceil(T a, T b) { T res = a / b; if(a % b != 0) res++; return res; }

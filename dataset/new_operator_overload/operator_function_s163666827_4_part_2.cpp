@@ -1,0 +1,1 @@
+return Vector2d(p1.x * d, p1.y * d);}             

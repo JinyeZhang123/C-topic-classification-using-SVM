@@ -1,0 +1,1 @@
+    node *parent,*l,*r;

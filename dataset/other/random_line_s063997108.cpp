@@ -1,0 +1,1 @@
+int N, M, A[1111], B[1111], V[1111], i, j;main(){scanf("%d%d",&N,&M);for(i=1;i<=N;i++){scanf("%d",&A[i]);}for(i=1;i<=M;i++){scanf("%d",&B[i]);}for(i=1;i<=M;i++){for(j=1;j<=N;j++){if(A[j]<=B[i]){V[j]++;break;}}}printf("%d\n",std::distance(V, std::max_element(V, V + N)));}

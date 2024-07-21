@@ -1,0 +1,1 @@
+template<class T> class pqdesc : public priority_queue<T, vector<T>, less<T>> {}

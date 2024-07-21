@@ -1,0 +1,1 @@
+ l = *min_element(questions.begin(), questions.end

@@ -1,0 +1,1 @@
+            sx = nx, sy = ny;

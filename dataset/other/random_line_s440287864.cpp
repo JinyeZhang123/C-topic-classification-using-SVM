@@ -1,0 +1,1 @@
+    vector<Point> points(N);

@@ -1,0 +1,1 @@
+template<typename T>T&get(){T a;cin >> a;return a;}

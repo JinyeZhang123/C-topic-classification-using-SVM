@@ -1,0 +1,1 @@
+	ll find(ll x){

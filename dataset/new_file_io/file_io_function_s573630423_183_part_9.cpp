@@ -1,0 +1,1 @@
+    if(mo+K<=N) dp[i+1][mo][1]+=dp[i][pre][0]+dp[i

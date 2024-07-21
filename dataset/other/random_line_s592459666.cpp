@@ -1,0 +1,1 @@
+        else imos[m][t]--; 

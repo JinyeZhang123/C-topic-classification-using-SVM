@@ -1,0 +1,1 @@
+typedef queue<PII> QPII;

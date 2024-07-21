@@ -1,0 +1,1 @@
+            return opnot(formula());

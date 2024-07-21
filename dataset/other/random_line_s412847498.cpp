@@ -1,0 +1,1 @@
+		cout << fixed << ans << endl;

@@ -1,0 +1,1 @@
+    for(int&o : path)

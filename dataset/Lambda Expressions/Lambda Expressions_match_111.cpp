@@ -1,0 +1,1 @@
+[](EmployeeSale const& sale){ return sale.sales >= 1000000; }

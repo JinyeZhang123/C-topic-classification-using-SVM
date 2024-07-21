@@ -1,0 +1,1 @@
+ return Point(scalar * rhs.x, scalar * rhs.y); }  

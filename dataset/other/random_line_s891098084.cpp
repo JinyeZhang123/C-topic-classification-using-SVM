@@ -1,0 +1,1 @@
+                cout << " " << matrix[i][j];

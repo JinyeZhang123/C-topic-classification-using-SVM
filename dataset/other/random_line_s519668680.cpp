@@ -1,0 +1,1 @@
+	Inorder(T[t].ls);

@@ -1,0 +1,1 @@
+#define ceY ce("YES")

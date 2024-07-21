@@ -1,0 +1,1 @@
+  double temp=0;

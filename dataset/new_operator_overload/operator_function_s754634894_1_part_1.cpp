@@ -1,0 +1,1 @@
+Polygon2D operator*(const T& val, const Polygon2D&

@@ -1,0 +1,1 @@
+  cout << (A == B ? "EQUAL" : vector<string>{"GREATER", "LESS"}[A.size() == B.size() ? A < B : A.size() < B.size()]);}

@@ -1,0 +1,1 @@
+			while(!qu.empty()){

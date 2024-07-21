@@ -1,0 +1,1 @@
+template < typename T > string toString(T a)       { return to_string(a); }

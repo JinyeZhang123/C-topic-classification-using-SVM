@@ -1,0 +1,1 @@
+template < typename T > void UMAX(T &a,T b){a=(a>b?a:b);}

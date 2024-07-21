@@ -1,0 +1,1 @@
+template<class T> T &chmin(T &a,const T &b){ return a = min(a,b); }

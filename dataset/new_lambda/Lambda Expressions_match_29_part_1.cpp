@@ -1,0 +1,1 @@
+[&](auto v){ std::cout << v << std::endl; }       

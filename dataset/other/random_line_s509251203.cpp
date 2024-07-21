@@ -1,0 +1,1 @@
+      now += sum.at(j);

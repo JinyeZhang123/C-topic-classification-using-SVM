@@ -1,0 +1,1 @@
+		pnjgedit=input.length();

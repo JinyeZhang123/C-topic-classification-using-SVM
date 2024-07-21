@@ -1,0 +1,1 @@
+            if(fun(sum/i))

@@ -1,0 +1,1 @@
+        nowy+=sin(nowkaku)*ho;

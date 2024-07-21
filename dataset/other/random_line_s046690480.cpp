@@ -1,0 +1,1 @@
+        cout << kinds.size() << endl;

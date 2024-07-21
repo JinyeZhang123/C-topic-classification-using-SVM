@@ -1,0 +1,1 @@
+      if((i+1)%m == 0) continue;

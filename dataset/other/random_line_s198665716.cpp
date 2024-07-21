@@ -1,0 +1,1 @@
+int belman(int s){

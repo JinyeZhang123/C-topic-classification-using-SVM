@@ -1,0 +1,1 @@
+    auto rt = rot0;

@@ -1,0 +1,1 @@
+rhs) { return _lhs == modular<T>(_rhs); }         

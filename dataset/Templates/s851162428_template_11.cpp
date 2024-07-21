@@ -1,0 +1,1 @@
+template <class T> struct iter_pair_t { T beg, end; }

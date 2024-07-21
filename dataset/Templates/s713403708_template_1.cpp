@@ -1,0 +1,1 @@
+template<typename T> void removeAt(vector<T>& v, int index) { v.erase(v.begin() + index); }

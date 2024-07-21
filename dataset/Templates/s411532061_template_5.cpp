@@ -1,0 +1,1 @@
+template<typename T> bool mmin(T &m, const T q) { if (m > q) {m = q; return true;}

@@ -1,0 +1,1 @@
+		memset(f,0,sizeof(f));

@@ -1,0 +1,1 @@
+bool operator<(const double& angle_){ return angle < angle_;}

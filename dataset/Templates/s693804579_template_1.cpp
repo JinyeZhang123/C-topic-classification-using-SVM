@@ -1,0 +1,1 @@
+template<class T>constexpr T INF() { return ::std::numeric_limits<T>::max(); }

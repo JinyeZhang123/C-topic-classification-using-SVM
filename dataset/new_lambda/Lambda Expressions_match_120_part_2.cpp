@@ -1,0 +1,1 @@
+ner & 0x02) ++point; if (runner & 0x04) ++point; r

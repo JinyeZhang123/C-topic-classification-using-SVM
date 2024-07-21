@@ -1,0 +1,1 @@
+template<class T> bool isIn(T a,vector<T> v){ for(T x:v){ if(a==x){return true;}

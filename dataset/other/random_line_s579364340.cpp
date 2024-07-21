@@ -1,0 +1,1 @@
+ll facctorialMethod(ll k){

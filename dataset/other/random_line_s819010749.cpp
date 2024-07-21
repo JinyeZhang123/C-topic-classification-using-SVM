@@ -1,0 +1,1 @@
+    f = vector<int> (n);

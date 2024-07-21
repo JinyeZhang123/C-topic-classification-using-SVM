@@ -1,0 +1,1 @@
+    Range(const T last) :

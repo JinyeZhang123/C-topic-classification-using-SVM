@@ -1,0 +1,1 @@
+template<typename T> void DEBUG(T e){std::cout << e << std::endl;}

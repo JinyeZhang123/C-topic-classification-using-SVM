@@ -1,0 +1,1 @@
+        visit[t] = key;

@@ -1,0 +1,1 @@
+template<class T>inline void dec(T &x, T y) {x -= y; if(x < 0) x += mod;}

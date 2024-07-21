@@ -1,0 +1,1 @@
+#define Vs vector<string>

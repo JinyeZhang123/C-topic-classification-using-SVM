@@ -1,0 +1,1 @@
+	for(;getline(cin,s);)

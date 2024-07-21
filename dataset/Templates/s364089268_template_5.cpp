@@ -1,0 +1,1 @@
+template<int N,class Tp>void output(ostream&,const Tp&){}

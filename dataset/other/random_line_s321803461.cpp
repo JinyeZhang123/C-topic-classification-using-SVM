@@ -1,0 +1,1 @@
+  unsigned *x=(unsigned*)array;

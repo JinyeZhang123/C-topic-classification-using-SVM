@@ -1,0 +1,3 @@
+ %= MOD;
+    cout << res << endl;
+}               

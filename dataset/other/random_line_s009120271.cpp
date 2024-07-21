@@ -1,0 +1,1 @@
+		tree[lef].fa=ord;

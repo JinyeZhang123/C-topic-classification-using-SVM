@@ -1,0 +1,1 @@
+	//cout << tate << " " << yoko << endl;

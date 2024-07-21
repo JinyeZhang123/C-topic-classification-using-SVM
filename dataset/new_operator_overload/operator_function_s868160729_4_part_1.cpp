@@ -1,0 +1,1 @@
+void operator+=(const Ring_mod& b) { val = Ring_mo

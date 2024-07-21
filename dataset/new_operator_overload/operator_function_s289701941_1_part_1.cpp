@@ -1,0 +1,1 @@
+bool operator<(triple<A, B, C> a, triple<A, B, C> 

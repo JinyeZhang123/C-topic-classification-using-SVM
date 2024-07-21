@@ -1,0 +1,1 @@
+   rep(i, t) cout << (solve() ? "Yes" : "No") << e

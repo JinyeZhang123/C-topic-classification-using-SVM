@@ -1,0 +1,1 @@
+	char conma, BallIn='A';

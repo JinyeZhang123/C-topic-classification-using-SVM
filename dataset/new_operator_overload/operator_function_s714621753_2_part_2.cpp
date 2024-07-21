@@ -1,0 +1,2 @@
+r -= o; return r;
+  }                             

@@ -1,0 +1,1 @@
+template<typename C> void remove(vector<C>& c, unsigned int index) { c.erase(c.begin()+index); }

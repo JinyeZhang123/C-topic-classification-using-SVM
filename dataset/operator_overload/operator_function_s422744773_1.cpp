@@ -1,0 +1,1 @@
+bool operator<(const Node& lhs, const Node& rhs){ return rhs.cost < lhs.cost; }

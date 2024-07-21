@@ -1,0 +1,1 @@
+ata{min(value, other.value)}                      

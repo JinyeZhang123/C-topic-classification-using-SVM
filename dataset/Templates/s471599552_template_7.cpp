@@ -1,0 +1,1 @@
+template<typename T> Parser<std::string> many1(const Parser<T> &p) { return p + many(p); }

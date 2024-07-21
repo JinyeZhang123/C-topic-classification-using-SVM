@@ -1,0 +1,1 @@
+Mod operator*(const Mod a, const Mod b) { return a.k * b.k; }

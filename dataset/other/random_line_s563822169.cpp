@@ -1,0 +1,1 @@
+    preOrder(z->left);

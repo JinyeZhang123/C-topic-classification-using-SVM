@@ -1,0 +1,1 @@
+            cout<<"setwise coprime"<<endl;

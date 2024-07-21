@@ -1,0 +1,1 @@
+				totalkind|=kind[j];

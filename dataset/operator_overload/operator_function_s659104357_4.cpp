@@ -1,0 +1,1 @@
+mint operator*(mint a, mint b) { return 1LL * a.n * b.n % MOD; }

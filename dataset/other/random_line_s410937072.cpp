@@ -1,0 +1,1 @@
+    else sa=n-X;

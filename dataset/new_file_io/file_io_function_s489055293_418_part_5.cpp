@@ -1,0 +1,1 @@
+r<vector<ll>> a(n, vector<ll>(n)), g(n, vector<ll>

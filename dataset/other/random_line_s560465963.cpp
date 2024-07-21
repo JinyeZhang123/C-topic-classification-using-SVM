@@ -1,0 +1,1 @@
+    totalText += a[0];

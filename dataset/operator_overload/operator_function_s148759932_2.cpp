@@ -1,0 +1,1 @@
+info operator+(info a,info b){ return info(a.first*b.first%mod,a.second*b.second%mod*i2%mod); }

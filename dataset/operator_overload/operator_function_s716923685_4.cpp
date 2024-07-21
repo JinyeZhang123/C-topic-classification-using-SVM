@@ -1,0 +1,1 @@
+Vector2 operator/(double t) { return Vector2(x / t, y / t); }

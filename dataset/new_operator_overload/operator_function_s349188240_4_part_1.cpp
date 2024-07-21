@@ -1,0 +1,1 @@
+gf operator/(gf x) { return *this * x.inv(); }    

@@ -1,0 +1,1 @@
+  cout << tarosc << " " << hanakosc << endl;

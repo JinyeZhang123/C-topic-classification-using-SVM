@@ -1,0 +1,1 @@
+		freopen("in.txt", "r", stdin);

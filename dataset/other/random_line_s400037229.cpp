@@ -1,0 +1,1 @@
+			nonPrimeMap[i * j] = true;

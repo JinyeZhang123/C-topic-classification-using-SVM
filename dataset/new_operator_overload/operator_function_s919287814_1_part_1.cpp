@@ -1,0 +1,1 @@
+Monoid operator[](int a) { return node[a + SIZE]; 

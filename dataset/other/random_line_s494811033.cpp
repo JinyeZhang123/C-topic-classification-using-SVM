@@ -1,0 +1,1 @@
+				cookie[i][j] = upwards;

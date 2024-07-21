@@ -1,0 +1,1 @@
+node operator+(node n) { return {min(x,n.x)}      

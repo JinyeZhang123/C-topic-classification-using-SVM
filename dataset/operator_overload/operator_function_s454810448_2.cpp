@@ -1,0 +1,1 @@
+Modulo operator-=(const Modulo &a) { n -= a.n; if (n < 0) n += M; return *this; }

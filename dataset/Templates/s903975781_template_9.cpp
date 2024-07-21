@@ -1,0 +1,1 @@
+template <typename T>void print_vv(const T &vv){if(sz(vv)==0) {cout<<"Empty"<<endl; return;}

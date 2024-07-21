@@ -1,0 +1,1 @@
+        cout << X%D << endl;

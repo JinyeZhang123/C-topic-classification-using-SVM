@@ -1,0 +1,1 @@
+gin(); it != aface.cend() && faces[f2i[top]] != x.

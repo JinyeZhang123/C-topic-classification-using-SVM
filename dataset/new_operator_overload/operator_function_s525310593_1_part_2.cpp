@@ -1,0 +1,1 @@
+lar<T>& _rhs) { return _lhs.val == _rhs.val; }    

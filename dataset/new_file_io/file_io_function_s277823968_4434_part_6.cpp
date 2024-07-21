@@ -1,0 +1,1 @@
+.substr(N-1-i, i+1) == t.substr(0, i+1)) chmax(cnt

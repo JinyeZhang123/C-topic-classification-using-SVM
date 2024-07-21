@@ -1,0 +1,1 @@
+Point operator-=(Point &p, const Point &q) { p.x -= q.x; p.y -= q.y; return p; }

@@ -1,0 +1,1 @@
+    cout << total - odd << endl;

@@ -1,0 +1,1 @@
+template<typename T>string join(vector<T>&v){stringstream s;FOR(i,0,sz(v))s<<' '<<v[i];return s.str().substr(1);}

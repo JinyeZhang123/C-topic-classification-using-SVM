@@ -1,0 +1,4 @@
+class DrawAreaStrategy
+{
+public:
+	DrawAreaStrategy(){}                                                                                                                                                  

@@ -1,0 +1,1 @@
+bool operator==(const position a,const position b)

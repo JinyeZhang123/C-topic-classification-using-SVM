@@ -1,0 +1,1 @@
+#define	newl 			cout<<"\n"

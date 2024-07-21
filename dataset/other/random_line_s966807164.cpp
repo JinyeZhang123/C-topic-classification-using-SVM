@@ -1,0 +1,1 @@
+    cin >> flights[i];

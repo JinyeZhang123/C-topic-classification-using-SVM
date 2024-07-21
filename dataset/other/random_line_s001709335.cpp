@@ -1,0 +1,1 @@
+			que.push(sum / i);

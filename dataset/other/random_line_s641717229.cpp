@@ -1,0 +1,1 @@
+        ll operate = *s.begin();

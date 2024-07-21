@@ -1,0 +1,1 @@
+Mod operator*=(Mod &a, Mod b) { a.n = ((long long)a.n * b.n) % mod; return a; }

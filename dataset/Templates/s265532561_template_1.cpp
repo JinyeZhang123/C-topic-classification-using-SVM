@@ -1,0 +1,1 @@
+template<typename T> struct custom_hash{T operator()(T x)const{return (T) x^FIXED_RANDOM;}

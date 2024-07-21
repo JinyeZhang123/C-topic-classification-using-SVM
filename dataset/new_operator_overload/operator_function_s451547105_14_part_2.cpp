@@ -1,0 +1,2 @@
+m*other.num) % p;
+	}                              

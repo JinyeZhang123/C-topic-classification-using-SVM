@@ -1,0 +1,1 @@
+template <typename T> void readv(vector<T>& v) { int N; read(N); v.resize(N); read(v); }

@@ -1,0 +1,1 @@
+	sort(place,place+n);

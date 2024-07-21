@@ -1,0 +1,1 @@
+  temp = dice->face1;

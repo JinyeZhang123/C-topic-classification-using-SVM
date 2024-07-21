@@ -1,0 +1,1 @@
+    puts(ans?"Alice":"Bob");

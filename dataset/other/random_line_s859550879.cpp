@@ -1,0 +1,1 @@
+    if(to==from) continue;

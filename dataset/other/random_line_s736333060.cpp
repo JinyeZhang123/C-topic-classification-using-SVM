@@ -1,0 +1,1 @@
+ull func(ull x){

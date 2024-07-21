@@ -1,0 +1,1 @@
+#define coel cout << endl

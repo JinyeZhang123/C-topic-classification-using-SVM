@@ -1,0 +1,1 @@
+template<class Cond> chain<Cond> make_chain(Cond cond) { return chain<Cond>(cond); }

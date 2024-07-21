@@ -1,0 +1,1 @@
+#define ct const int

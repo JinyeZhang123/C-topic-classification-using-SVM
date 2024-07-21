@@ -1,0 +1,2 @@
+template<typename T> ostream& operator<<(ostream& os, const vector<T>& v) {
+    REP(i,v.size()){if(i)os<<" ";os<<v[i];}

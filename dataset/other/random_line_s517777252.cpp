@@ -1,0 +1,1 @@
+			isGem[x][y] = true;

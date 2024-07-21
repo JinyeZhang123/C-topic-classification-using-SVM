@@ -1,0 +1,1 @@
+        if (MAX == counter[k]) {

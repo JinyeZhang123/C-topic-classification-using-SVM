@@ -1,0 +1,1 @@
+          cost2[k][i+1] = cost2[k][i] + (S[i+k][c]

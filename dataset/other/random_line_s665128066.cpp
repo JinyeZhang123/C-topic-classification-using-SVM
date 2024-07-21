@@ -1,0 +1,1 @@
+ld dp[NMAX][NMAX];

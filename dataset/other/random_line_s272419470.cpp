@@ -1,0 +1,1 @@
+void rep(string &tmp){

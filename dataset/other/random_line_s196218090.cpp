@@ -1,0 +1,1 @@
+#define cvector vector<char>

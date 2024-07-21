@@ -1,0 +1,1 @@
+					E[idx].cap   -= now;

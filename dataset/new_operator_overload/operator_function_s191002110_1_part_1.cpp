@@ -1,0 +1,1 @@
+bool operator<(const triple<A, B, C>& a, const tri

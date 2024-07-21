@@ -1,0 +1,1 @@
+      takaTotal += A[List[i]];

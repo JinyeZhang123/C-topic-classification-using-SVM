@@ -1,0 +1,1 @@
+template<class T, class U> void chmax(T &x, const U &y){ x = max<T>(x, y); }

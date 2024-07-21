@@ -1,0 +1,1 @@
+gf operator+(int x) { return gf((n + x) % MOD); } 

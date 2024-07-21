@@ -1,0 +1,1 @@
+#define intt long long

@@ -1,0 +1,1 @@
+Vector2D operator/(const double d) { return Vector2D(x / d, y / d); }

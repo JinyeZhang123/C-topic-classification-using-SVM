@@ -1,0 +1,1 @@
+				cin >> stone[i][j];

@@ -1,0 +1,1 @@
+#define ln cout << '\n'

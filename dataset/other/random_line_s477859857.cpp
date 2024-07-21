@@ -1,0 +1,1 @@
+inline ll ceil(ll a,ll b){if(a%b==0)return a/b;else return a/b+1;}

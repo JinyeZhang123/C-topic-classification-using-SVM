@@ -1,0 +1,1 @@
+        minus.push(p);

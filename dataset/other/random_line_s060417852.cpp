@@ -1,0 +1,1 @@
+bool isLeft(char c) {

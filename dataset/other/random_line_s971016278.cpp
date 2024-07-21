@@ -1,0 +1,1 @@
+		sum += tots[inds[i]];

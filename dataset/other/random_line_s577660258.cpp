@@ -1,0 +1,1 @@
+	if(person==n)

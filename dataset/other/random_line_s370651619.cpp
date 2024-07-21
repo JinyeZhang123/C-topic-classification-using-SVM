@@ -1,0 +1,1 @@
+      if (graph[cur] <= before){

@@ -1,0 +1,1 @@
+template <typename T> function<T(T,T)> constexpr madd(){ return [](T x, T y){return x+y;}

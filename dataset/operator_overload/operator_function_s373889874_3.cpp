@@ -1,0 +1,1 @@
+int operator*(pnt x, pnt y) { return x.x * y.y - x.y * y.x; }

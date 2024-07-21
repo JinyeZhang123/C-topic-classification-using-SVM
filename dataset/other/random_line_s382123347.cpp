@@ -1,0 +1,1 @@
+			t=yen/coin[i];

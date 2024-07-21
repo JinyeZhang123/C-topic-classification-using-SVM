@@ -1,0 +1,1 @@
+    dist.resize(H + 2, vector<int>(W + 2, INF));

@@ -1,0 +1,1 @@
+            if(!num.count(ns))

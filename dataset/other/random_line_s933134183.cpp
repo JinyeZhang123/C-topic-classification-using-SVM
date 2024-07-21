@@ -1,0 +1,1 @@
+    vector<float> h(n);

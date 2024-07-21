@@ -1,0 +1,1 @@
+int main(){int n,k,x,y,i;std::cin >> n >> k;n++;for(;k;k--){std::cin >> x >> y;x = (x > n/2)?(n-x):x;y = (y > n/2)?(n-y):y;i = ((x<y)?x:y)%3;std::cout << (i?i:3) << "\n";}return 0;}

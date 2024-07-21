@@ -1,0 +1,1 @@
+template<class T,size_t size>inline const void scan(array<T, size>& a){for(auto&& i:a)scan(i);}

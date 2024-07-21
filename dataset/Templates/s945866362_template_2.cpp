@@ -1,0 +1,1 @@
+template<class T>T ReSort(T& a) { sort(a.rbegin(), a.rend()); return a; }

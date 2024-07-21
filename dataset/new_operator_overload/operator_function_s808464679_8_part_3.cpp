@@ -1,0 +1,3 @@
+if (n % 2)res = res * a;
+	return res;
+}           

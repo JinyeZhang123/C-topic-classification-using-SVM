@@ -1,0 +1,1 @@
+    return { a.b+b.b, a.w+b.w, a.empty+b.empty }  

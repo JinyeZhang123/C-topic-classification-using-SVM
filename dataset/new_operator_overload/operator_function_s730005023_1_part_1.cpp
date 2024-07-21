@@ -1,0 +1,1 @@
+bool operator<(node p,node q) {return p.r<q.r;}   

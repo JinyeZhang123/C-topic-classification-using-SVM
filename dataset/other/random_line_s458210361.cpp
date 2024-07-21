@@ -1,0 +1,1 @@
+template<class T, class U> void writerLn(T t, U u) { writer(t, ' '); writer(u, '\n'); }

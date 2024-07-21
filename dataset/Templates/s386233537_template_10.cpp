@@ -1,0 +1,1 @@
+template <typename Arg1> void printall(const char* name, Arg1&& arg1){cerr<<name<<" : "<<arg1<<endl;}

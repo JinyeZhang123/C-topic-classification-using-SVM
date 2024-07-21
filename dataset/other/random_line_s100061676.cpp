@@ -1,0 +1,1 @@
+                vcnt[iv]+=icnt;

@@ -1,0 +1,1 @@
+const int MAXN=200005,MOD=1000000007,inv2=(MOD+1)/2;

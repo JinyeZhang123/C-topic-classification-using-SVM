@@ -1,0 +1,1 @@
+#define gcd __gcd

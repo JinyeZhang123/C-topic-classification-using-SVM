@@ -1,0 +1,1 @@
+    cout << dict[D] << endl;

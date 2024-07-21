@@ -1,0 +1,1 @@
+			if(v[next]) continue;

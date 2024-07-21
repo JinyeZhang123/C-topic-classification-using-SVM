@@ -1,0 +1,1 @@
+template <typename T> istream& operator>>(istream &is, vector<T> &v) { each(x, v) is >> x; return is; }

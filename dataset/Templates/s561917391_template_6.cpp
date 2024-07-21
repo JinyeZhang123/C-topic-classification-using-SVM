@@ -1,0 +1,1 @@
+template<class itr, class func> void array_output(itr start, itr goal, func out = [](itr x) { return x; }

@@ -1,0 +1,1 @@
+template<typename T> void setmin(T& x, T y) {x = min(x, y);}

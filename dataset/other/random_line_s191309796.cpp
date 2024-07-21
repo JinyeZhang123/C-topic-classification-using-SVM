@@ -1,0 +1,1 @@
+typedef deque<int> di;

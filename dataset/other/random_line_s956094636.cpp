@@ -1,0 +1,1 @@
+double tx,ty,ans;

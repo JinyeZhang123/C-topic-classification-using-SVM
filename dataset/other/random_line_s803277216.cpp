@@ -1,0 +1,1 @@
+            odds.nummax = i;

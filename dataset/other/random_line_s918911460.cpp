@@ -1,0 +1,1 @@
+ll oddsolve(ll n) {

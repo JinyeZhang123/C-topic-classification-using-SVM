@@ -1,0 +1,1 @@
+        if(!canPassing) ok = false;

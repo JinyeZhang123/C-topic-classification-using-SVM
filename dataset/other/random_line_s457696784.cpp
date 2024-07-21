@@ -1,0 +1,1 @@
+	cout<<V.front()<<endl;

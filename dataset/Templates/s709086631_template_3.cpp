@@ -1,0 +1,1 @@
+template <class T> void debug(const T &x) { cerr << x << "\n"; }

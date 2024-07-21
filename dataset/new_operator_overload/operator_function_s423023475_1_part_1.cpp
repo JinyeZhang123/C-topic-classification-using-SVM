@@ -1,0 +1,1 @@
+bool operator<(Ant a,Ant b){return a.x<b.x;}      

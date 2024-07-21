@@ -1,0 +1,1 @@
+int vecCount(int key){

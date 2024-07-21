@@ -1,0 +1,3 @@
+bool operator==(const CP &l, const CP &r) {
+  return norm(l - r) <= EPS;
+}

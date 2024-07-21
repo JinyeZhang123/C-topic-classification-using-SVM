@@ -1,0 +1,1 @@
+template<typename T> ll combpm(T N_, T C_) {const int NUM_=400001;static ll fact[NUM_+1],factr[NUM_+1],inv[NUM_+1];if (fact[0]==0) {inv[1]=fact[0]=factr[0]=1;for (int i=2;i<=NUM_;++i) inv[i] = inv[MOD % i] * (MOD - MOD / i) % MOD;for (int i=1;i<=NUM_;++i) fact[i]=fact[i-1]*i%MOD, factr[i]=factr[i-1]*inv[i]%MOD;}

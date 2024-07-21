@@ -1,0 +1,1 @@
+#define vecfirst (*vec.begin())

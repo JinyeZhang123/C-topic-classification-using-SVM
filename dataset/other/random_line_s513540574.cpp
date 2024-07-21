@@ -1,0 +1,1 @@
+  int rate_goal;

@@ -1,0 +1,1 @@
+template<typename First, typename...Rest>void MACRO_VEC_ROW_Scan(int p, First& first, Rest& ...rest) { scan_in >> first[p]; MACRO_VEC_ROW_Scan(p, rest...); }

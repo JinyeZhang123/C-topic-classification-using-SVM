@@ -1,0 +1,1 @@
+            cout<<tdist[i][j]<<" ";

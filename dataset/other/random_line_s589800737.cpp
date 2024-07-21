@@ -1,0 +1,1 @@
+	bitset<N> cur,res;

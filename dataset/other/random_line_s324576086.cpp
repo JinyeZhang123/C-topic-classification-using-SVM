@@ -1,0 +1,1 @@
+int n,siz[N];

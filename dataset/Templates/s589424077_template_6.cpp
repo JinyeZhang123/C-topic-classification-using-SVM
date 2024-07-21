@@ -1,0 +1,1 @@
+template <typename Bst, typename T> typename Bst::const_iterator gt(const Bst& bst, T v) { return bst.upper_bound(v); }

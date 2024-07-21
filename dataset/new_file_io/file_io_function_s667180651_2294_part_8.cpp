@@ -1,0 +1,3 @@
+i){
+								ok=true;break;
+							}               

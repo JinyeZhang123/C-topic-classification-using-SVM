@@ -1,0 +1,1 @@
+	L[n1]=R[n2]=SENTINEL;

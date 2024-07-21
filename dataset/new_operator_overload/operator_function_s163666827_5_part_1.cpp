@@ -1,0 +1,1 @@
+Vector2d operator/(const Vector2d& p1, int32_t n) 

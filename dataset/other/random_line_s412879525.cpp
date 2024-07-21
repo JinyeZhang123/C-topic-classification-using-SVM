@@ -1,0 +1,1 @@
+      sumb+=vecb[i];

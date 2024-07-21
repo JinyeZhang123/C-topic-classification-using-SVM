@@ -1,0 +1,1 @@
+//namespace mp=boost::multiprecision;

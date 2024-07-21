@@ -1,0 +1,1 @@
+template<class T>inline void print(T x){if(x/10!=0)print(x/10);putchar(x%10+'0');}

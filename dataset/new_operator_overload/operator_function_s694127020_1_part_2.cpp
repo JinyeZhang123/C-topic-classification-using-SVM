@@ -1,0 +1,1 @@
+n==di.n && e==di.e && w==di.w && s==di.s && dn==di

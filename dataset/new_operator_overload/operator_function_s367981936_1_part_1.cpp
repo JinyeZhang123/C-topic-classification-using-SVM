@@ -1,0 +1,1 @@
+bool operator<(const QJ &x,const QJ &y){return x.r

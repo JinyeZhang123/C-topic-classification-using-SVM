@@ -1,0 +1,1 @@
+			handname = "full house";

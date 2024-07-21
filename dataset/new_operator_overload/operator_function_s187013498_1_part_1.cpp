@@ -1,0 +1,1 @@
+bool operator[](unsigned x) { return sum(x, x+1); 

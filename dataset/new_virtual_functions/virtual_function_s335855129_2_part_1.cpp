@@ -1,0 +1,1 @@
+virtual void EvaluateElement(T& left,T right)=0;  

@@ -1,0 +1,1 @@
+bool offset_fixed;

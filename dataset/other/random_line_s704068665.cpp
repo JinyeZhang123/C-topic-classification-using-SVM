@@ -1,0 +1,1 @@
+				fri[v[i]] = true;

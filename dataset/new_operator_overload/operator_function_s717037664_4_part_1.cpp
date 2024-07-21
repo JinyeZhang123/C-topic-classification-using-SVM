@@ -1,0 +1,1 @@
+ll operator*(vec v){return x*v.y-v.x*y;}          

@@ -1,0 +1,1 @@
+        while(hoge >= 0){

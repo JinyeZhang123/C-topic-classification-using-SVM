@@ -1,0 +1,1 @@
+template<class T>bool chmin(T &former, const T &b) { if (b<former) { former=b; return true; } return false; }

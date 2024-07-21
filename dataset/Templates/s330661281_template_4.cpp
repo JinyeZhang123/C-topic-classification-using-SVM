@@ -1,0 +1,3 @@
+template<typename T1,typename T2> inline void print2(T1 a, T2 b){
+	cout << "debug: " << a << " " << b << "\n";
+}

@@ -1,0 +1,1 @@
+        gap = lower - p;

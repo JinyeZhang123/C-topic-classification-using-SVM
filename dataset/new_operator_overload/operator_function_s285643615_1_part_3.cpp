@@ -1,0 +1,1 @@
+top().first; prev = todo.top().second; todo.pop();

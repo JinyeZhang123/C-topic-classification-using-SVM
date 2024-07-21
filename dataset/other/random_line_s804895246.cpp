@@ -1,0 +1,1 @@
+        return cntone ^ n;

@@ -1,0 +1,1 @@
+ll operator/(pii l, pii r){ return (ll)l.first * r.second - (ll)l.second * r.first; }

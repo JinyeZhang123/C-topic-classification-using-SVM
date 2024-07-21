@@ -1,0 +1,1 @@
+		if(islower(string[i]))

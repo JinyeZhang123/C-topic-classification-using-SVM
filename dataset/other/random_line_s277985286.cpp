@@ -1,0 +1,1 @@
+  if (visited[node]) return;

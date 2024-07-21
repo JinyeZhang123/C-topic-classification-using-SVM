@@ -1,0 +1,1 @@
+template<typename T> inline int siz(T& x) { return x.size(); }

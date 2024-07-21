@@ -1,0 +1,1 @@
+	d = new int[n];

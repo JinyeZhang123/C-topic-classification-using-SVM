@@ -1,0 +1,3 @@
+hile(t--){
+	solver();
+ }                          

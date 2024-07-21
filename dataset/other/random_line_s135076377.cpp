@@ -1,0 +1,1 @@
+    cout << curPath.size() << "\n";

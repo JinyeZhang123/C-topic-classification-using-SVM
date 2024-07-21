@@ -1,0 +1,1 @@
+int operator[](int a){ return Find(a); }          

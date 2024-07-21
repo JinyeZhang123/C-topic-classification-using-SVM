@@ -1,0 +1,1 @@
+		int Min=a[i];

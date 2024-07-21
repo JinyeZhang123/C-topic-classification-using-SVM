@@ -1,0 +1,1 @@
+#define llint long long

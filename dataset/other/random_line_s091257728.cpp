@@ -1,0 +1,1 @@
+  for(;cur<=n;cur++) {

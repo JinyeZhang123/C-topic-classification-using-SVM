@@ -1,0 +1,1 @@
+    while(cnt<b){

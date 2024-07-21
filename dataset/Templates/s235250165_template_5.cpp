@@ -1,0 +1,1 @@
+template<typename T, typename U> inline int bit(T x, U n) { return x >> n & 1; }

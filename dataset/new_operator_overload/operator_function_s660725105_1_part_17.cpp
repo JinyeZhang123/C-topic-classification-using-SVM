@@ -1,0 +1,1 @@
+           for(int j = n - 2; j >= i; --j) cout <<

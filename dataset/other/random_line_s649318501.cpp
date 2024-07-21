@@ -1,0 +1,1 @@
+    sort(input,input+N);

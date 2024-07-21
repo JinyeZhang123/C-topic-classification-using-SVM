@@ -1,0 +1,1 @@
+				map[nx][ny]=false;

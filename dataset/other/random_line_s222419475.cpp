@@ -1,0 +1,1 @@
+    segtree.set(A, Blen);

@@ -1,0 +1,1 @@
+		kaijo[i]%=MOD;

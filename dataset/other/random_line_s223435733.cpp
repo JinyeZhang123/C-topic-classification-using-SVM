@@ -1,0 +1,1 @@
+  res += exponent[74];

@@ -1,0 +1,1 @@
+    ushiro.push(INF);

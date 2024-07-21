@@ -1,0 +1,1 @@
+template<typename T> int in(vector<T> v, T t) {return find(v, t) != int(v.size());}

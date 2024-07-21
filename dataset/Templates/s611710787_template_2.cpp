@@ -1,0 +1,1 @@
+template <class T> void max_swap(T& a, const T b) { a = max(a, b); }

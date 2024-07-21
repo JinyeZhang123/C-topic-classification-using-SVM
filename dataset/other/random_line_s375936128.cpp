@@ -1,0 +1,1 @@
+        bits[i][j].second++;

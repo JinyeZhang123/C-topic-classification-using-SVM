@@ -1,0 +1,1 @@
+	ret *= rfact[n - r];

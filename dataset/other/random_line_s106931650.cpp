@@ -1,0 +1,1 @@
+    llKey += iBase * iElement;

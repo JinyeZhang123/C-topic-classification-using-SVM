@@ -1,0 +1,1 @@
+template <typename A> inline LL sqr(A x){return 1ll * x * x;}

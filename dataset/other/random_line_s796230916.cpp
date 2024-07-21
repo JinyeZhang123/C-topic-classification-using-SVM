@@ -1,0 +1,1 @@
+#define vec vector<int>

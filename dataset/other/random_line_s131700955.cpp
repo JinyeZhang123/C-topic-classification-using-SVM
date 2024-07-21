@@ -1,0 +1,1 @@
+void cut(int k) {

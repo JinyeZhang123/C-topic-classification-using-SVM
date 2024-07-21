@@ -1,0 +1,1 @@
+  int tokusyu = 0;

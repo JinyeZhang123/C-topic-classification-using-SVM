@@ -1,0 +1,1 @@
+template<typename H, typename ...T> void read(H& head, T& ...tail) { cin >> head; read(tail...); }

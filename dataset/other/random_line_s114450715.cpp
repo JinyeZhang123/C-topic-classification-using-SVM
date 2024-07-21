@@ -1,0 +1,1 @@
+    pos = nxt[pos];

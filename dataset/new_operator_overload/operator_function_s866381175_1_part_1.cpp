@@ -1,0 +1,1 @@
+explicit operator ll() {return _val;}             

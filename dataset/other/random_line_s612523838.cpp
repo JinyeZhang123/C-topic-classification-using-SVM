@@ -1,0 +1,1 @@
+    jikan=tai-shu;

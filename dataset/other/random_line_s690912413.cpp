@@ -1,0 +1,1 @@
+    while (ans*ans<=n) {

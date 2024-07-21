@@ -1,0 +1,1 @@
+template <class Head> void print(Head&& head) {cout << head;print();}

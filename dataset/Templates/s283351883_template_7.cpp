@@ -1,0 +1,1 @@
+template <class T> vector<T> read(int n) { vector<T> v; v.reserve(n); REP(i, n) { v.push_back(read<T>()); }

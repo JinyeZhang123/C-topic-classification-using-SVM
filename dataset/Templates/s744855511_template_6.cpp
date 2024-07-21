@@ -1,0 +1,1 @@
+template<class T> string to_string(const vector<T>& x) { string ret = ""; bool f = 0; trav(y, x) ret += (!f ? "" : " ") + to_string(y), f = 1; return ret; }

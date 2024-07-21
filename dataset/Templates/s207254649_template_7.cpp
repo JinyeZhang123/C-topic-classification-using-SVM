@@ -1,0 +1,1 @@
+template<class T,class L>inline const void scan( pair<T,L>&p){scan(p.first);scan(p.second);}

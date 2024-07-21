@@ -1,0 +1,1 @@
+int operator[](int idx){ return data[idx+n-1]; }

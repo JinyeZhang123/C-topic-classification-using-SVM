@@ -1,0 +1,1 @@
+    visited[node] = 1;

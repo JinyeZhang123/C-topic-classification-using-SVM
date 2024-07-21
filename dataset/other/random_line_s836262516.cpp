@@ -1,0 +1,1 @@
+	rep(i,seq.length()) {

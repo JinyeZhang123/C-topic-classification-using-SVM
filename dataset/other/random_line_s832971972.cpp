@@ -1,0 +1,1 @@
+  cout << stable << endl;

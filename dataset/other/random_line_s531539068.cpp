@@ -1,0 +1,1 @@
+	steps[y][x]=canstep;

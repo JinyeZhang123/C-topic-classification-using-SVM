@@ -1,0 +1,1 @@
+typedef deque<ll> dql;

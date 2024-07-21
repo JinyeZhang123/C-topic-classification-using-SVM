@@ -1,0 +1,1 @@
+					vis.insert(ns.pos);

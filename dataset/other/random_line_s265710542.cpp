@@ -1,0 +1,1 @@
+    x = itrx - a.begin();

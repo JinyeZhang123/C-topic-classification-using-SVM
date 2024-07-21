@@ -1,0 +1,1 @@
+bool operator==(square s1, square s2) { return s1.s == s2.s && s1.t == s2.t; }

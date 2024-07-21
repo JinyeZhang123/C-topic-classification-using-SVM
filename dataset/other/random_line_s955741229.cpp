@@ -1,0 +1,1 @@
+	max = id[i].score;

@@ -1,0 +1,1 @@
+            ch = new int[num];

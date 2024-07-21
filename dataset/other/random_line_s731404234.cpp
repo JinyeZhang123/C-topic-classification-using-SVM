@@ -1,0 +1,1 @@
+    kochCurve(s, t, n);

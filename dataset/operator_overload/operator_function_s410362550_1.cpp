@@ -1,0 +1,1 @@
+P operator+(const P &a, const P &b){return {a.v+b.v,a.w+b.w}

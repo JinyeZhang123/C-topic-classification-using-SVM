@@ -1,0 +1,1 @@
+template <class T,class U>bool mineq(T& a,U b){if(a>b){a=b;return true;}

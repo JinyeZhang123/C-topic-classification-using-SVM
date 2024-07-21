@@ -1,0 +1,1 @@
+template<typename InputIterator> RangeAdd(InputIterator first, InputIterator last) : rast(first, last) {}

@@ -1,0 +1,1 @@
+		chmin(m, nextv.cost);

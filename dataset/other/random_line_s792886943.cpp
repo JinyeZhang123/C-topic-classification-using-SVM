@@ -1,0 +1,1 @@
+        ans += right * k % MOD;

@@ -1,0 +1,3 @@
+
+    minn = abs(A - tmp);
+    }                   

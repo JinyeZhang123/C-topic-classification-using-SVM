@@ -1,0 +1,2 @@
+template <typename T>
+void put(T input){display(input); newline();}

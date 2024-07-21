@@ -1,0 +1,1 @@
+#define ENDL cout << "\n"
